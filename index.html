@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<style>
+  table {
+    background-color: white;
+    border-collapse: collapse;
+    text-align: left;
+  }
+
+  thead {
+    background-color: inherit;
+    position: sticky;
+    top: 0;
+  }
+
+  thead::after {
+    display: block;
+    content: "";
+    background-color: black;
+    height: 1px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  thead > tr > th {
+    padding: 0.5em;
+  }
+
+  tbody > tr > td {
+    padding: 0.25em 0.5em;
+  }
+
+  tbody > tr:nth-child(2n) {
+    background-color: #eee;
+  }
+</style>
+
+<h2>Catalog</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>ID</th>
+      <th>Date</th>
+      <th>Location</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody id="table_body">
+  </tbody>
+</table>
+
+<script type="module">
+
+const book_html = ({ title, date, id, location, href }) => `
+<tr>
+  <td>${title}</td>
+  <td>${id ?? ""}</td>
+  <td>${date ?? ""}</td>
+  <td>${location ?? ""}</td>
+  <td>${href ? '<a href="' + href + '">link</a>' : ""}</td>
+</tr>`;
+
+const fetch_json = url => fetch(url).then(x => x.json());
+
+const raw_books = await fetch_json("books.json");
+const raw_txns = await fetch_json("transactions.json");
+const raw_locations = await fetch_json("locations.json");
+
+const map_locations = locations => Object.fromEntries(
+  locations.map(location => [ location.id, location.name ])
+);
+
+const map_txns = txns => Object.fromEntries(
+  txns.flatMap(txn => txn.books.map(book => [ book, txn ]))
+);
+
+const book_title = book => book.title +
+  (book.subtitle ? `: ${book.subtitle}` : "") +
+  (book.series ? ` (${book.series})` : "");
+
+const book_id = book =>
+  book.isbn13 ? `ISBN13: ${book.isbn13}` :
+  book.lccn ? `LCCN: ${book.lccn}` :
+  book.isbn10 ? `ISBN10: ${book.isbn10}` :
+  book.ean ? `EAN: ${book.ean}` :
+  "";
+
+const build_library = (books, txns_map, locations_map) => books.map(book => ({
+  title: book_title(book),
+  date: txns_map[book.title]?.date,
+  id: book_id(book),
+  location: locations_map[txns_map[book.title]?.location],
+  href: book.external,
+}));
+
+const table_body = document.getElementById("table_body");
+
+const library = build_library(
+  raw_books.toSorted((a, b) => a.title.localeCompare(b.title)),
+  map_txns(raw_txns),
+  map_locations(raw_locations),
+);
+
+for (const book of library) {
+  table_body.insertAdjacentHTML("beforeend", book_html(book));
+}
+
+</script>

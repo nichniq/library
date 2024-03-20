@@ -1,0 +1,552 @@
+[
+  {
+    "id": "blue_lantern_coffee",
+    "name": "The Blue Lantern Coffee House",
+    "address": "326 Main St, Lewiston, ID 83501",
+    "type": "other",
+    "note": "Coffee shop in Lewiston we often visit as a family; they sells a few misc things including books"
+  },
+  {
+    "id": "libro_del_capitan",
+    "name": "El Libro del Capitàn",
+    "address": "Walker Martínez 227, Puerto Varas, Los Lagos, Chile",
+    "type": "bookstore"
+  },
+  {
+    "id": "libreria_mac_kay",
+    "name": "Librería Mac-Kay",
+    "address": "San Juan 431, Puerto Varas, Los Lagos, Chile",
+    "type": "bookstore"
+  },
+  {
+    "id": "museo_de_iglesias",
+    "name": "Museo de las Iglesias de Chiloé",
+    "address": "Federico Errázuriz 227, Ancud, Los Lagos, Chile",
+    "type": "museum"
+  },
+  {
+    "id": "plaza_de_chacao",
+    "name": "Plaza de Chacao",
+    "address": "San Antonio 139, Chacao, Los Lagos, Chile",
+    "type": "other",
+    "note": "Artisan store next to the church in the town plaza"
+  },
+  {
+    "id": "cafeteria_ovejero",
+    "name": "Cafeteria El Ovejero",
+    "address": "Cerro Castillo, Magallanes, Chile",
+    "type": "other",
+    "note": "Restaurant with attached souvenir shop in a tiny town outside Torres del Paine"
+  },
+  {
+    "id": "brused_books",
+    "name": "Brused Books",
+    "address": "235 E Main St, Pullman, WA 99163",
+    "type": "bookstore"
+  },
+  {
+    "id": "2nd_look_books",
+    "name": "2nd Look Books",
+    "address": "2829 E 29th Ave C, Spokane, WA 99223",
+    "type": "bookstore"
+  },
+  {
+    "id": "depot_historical_museum",
+    "name": "Depot Historical Museum",
+    "city": "185 6th St, Potlatch, ID 83855",
+    "type": "museum"
+  },
+  {
+    "id": "bookpeople",
+    "name": "BookPeople of Moscow",
+    "address": "521 S Main St, Moscow, ID 83843",
+    "type": "bookstore"
+  },
+  {
+    "id": "dog_eared_books_valencia",
+    "name": "Dog Eared Books",
+    "address": "900 Valencia St, San Francisco, CA 94110",
+    "type": "bookstore"
+  },
+  {
+    "id": "point_reyes_books",
+    "name": "Point Reyes Books",
+    "address": "11315 CA-1, Point Reyes Station, CA 94956",
+    "type": "bookstore"
+  },
+  {
+    "id": "global_neighborhood_thrift",
+    "name": "Global Neighborhood Thrift",
+    "address": "919 E Trent Ave, Spokane, WA 99202",
+    "type": "thrift_store"
+  },
+  {
+    "id": "aunties",
+    "name": "Auntie's Bookstore",
+    "address": "402 W Main Ave, Spokane, WA 99201",
+    "type": "bookstore"
+  },
+  {
+    "id": "fringe_and_fray",
+    "name": "Fringe & Fray",
+    "address": "1325 W 1st Ave #102, Spokane, WA 99201",
+    "type": "other",
+    "note": "Consignment section at the back of a clothing store"
+  },
+  {
+    "id": "pie_safe",
+    "name": "Pie Safe",
+    "address": "307 Main St, Deary, ID 83823",
+    "type": "other",
+    "note": "Restaurant and bakery with a gift shop connected"
+  },
+  {
+    "id": "the_hope_center",
+    "name": "The Hope Center",
+    "address": "1212 Pullman Rd, Moscow, ID 83843",
+    "type": "thrift_store"
+  },
+  {
+    "id": "orca_books_coop",
+    "name": "Orca Books Co-op",
+    "address": "315 5th Ave SE, Olympia, WA 98501",
+    "type": "bookstore"
+  },
+  {
+    "id": "powells",
+    "name": "Powell's City of Books",
+    "address": "1005 W Burnside St, Portland, OR 97209",
+    "type": "bookstore"
+  },
+  {
+    "id": "last_word_books",
+    "name": "Last Word Books",
+    "address": "501 4th Ave E, Olympia, WA 98501",
+    "type": "bookstore"
+  },
+  {
+    "id": "atom_heart",
+    "name": "Atom Heart",
+    "address": "255 NE Olsen St, Pullman, WA 99163",
+    "type": "other",
+    "note": "Music store that is out of business"
+  },
+  {
+    "id": "dudleys_bookshop_cafe",
+    "name": "Dudley's Bookshop Cafe",
+    "address": "135 NW Minnesota Ave, Bend, OR 97703",
+    "type": "bookstore",
+    "note": "Book store with a little coffee counter inside"
+  },
+  {
+    "id": "pegasus_bend",
+    "name": "Pegasus Books of Bend",
+    "address": "105 NW Minnesota Ave, Bend, OR 97701",
+    "type": "bookstore"
+  },
+  {
+    "id": "moes",
+    "name": "Moe's Books",
+    "address": "2476 Telegraph Ave, Berkeley, CA 94704",
+    "type": "bookstore"
+  },
+  {
+    "id": "william_stout_architectural_books",
+    "name": "William Stout Architectural Books",
+    "address": "804 Montgomery St, San Francisco, CA 94133",
+    "type": "bookstore"
+  },
+  {
+    "id": "stuff",
+    "name": "Stuff",
+    "address": "150 Valencia St, San Francisco, CA 94103",
+    "type": "thrift_store"
+  },
+  {
+    "id": "auto_erotica",
+    "name": "Auto Erotica",
+    "address": "4077A 18th St, San Francisco, CA 94114",
+    "type": "other",
+    "note": "Erotica and porn shop with a small section of books"
+  },
+  {
+    "id": "fabulosa",
+    "name": "Fabulosa Books",
+    "address": "489 Castro St, San Francisco, CA 94114",
+    "type": "bookstore",
+    "note": "Former location of Dog Eared Books Castro"
+  },
+  {
+    "id": "bird_and_beckett",
+    "name": "Bird & Beckett Books",
+    "address": "653 Chenery St, San Francisco, CA 94131",
+    "type": "bookstore"
+  },
+  {
+    "id": "community_thrift",
+    "name": "Community Thrift",
+    "address": "623 Valencia St, San Francisco, CA 94110",
+    "type": "thrift_store"
+  },
+  {
+    "id": "little_free_library_dolores",
+    "name": "Little Free Library #131976",
+    "address": "573 Dolores St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "Little Free Library near Dolores by Episcopal Franciscan Brothers"
+  },
+  {
+    "id": "little_free_library_reveille",
+    "name": "Little Free Library #117417",
+    "address": "498 Waller St, San Francisco, CA 94117",
+    "type": "other",
+    "note": "Little Free Library across the street from Cafe Réveille"
+  },
+  {
+    "id": "green_apple",
+    "name": "Green Apple Books",
+    "address": "506 Clement St, San Francisco, CA 94118",
+    "type": "bookstore"
+  },
+  {
+    "id": "green_arcade",
+    "name": "The Green Arcade",
+    "address": "1680 Market St, San Francisco, CA 94102",
+    "type": "bookstore"
+  },
+  {
+    "id": "needles_and_pens",
+    "name": "Needles & Pens",
+    "address": "1173 Valencia St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "Gift store and gallery with zines and books"
+  },
+  {
+    "id": "scarlet_sage",
+    "name": "Scarlet Sage Herb Co",
+    "address": "1903 Fillmore St, San Francisco, CA 94115",
+    "type": "other",
+    "note": "Herb and crystal store with a selection of books"
+  },
+  {
+    "id": "fayes",
+    "name": "Fayes",
+    "address": "3614 18th St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "My regular Mission coffee shop"
+  },
+  {
+    "id": "sword_and_rose",
+    "name": "Sword & Rose",
+    "address": "85 Carl St, San Francisco, CA 94117",
+    "type": "other",
+    "note": "Occult shop with books"
+  },
+  {
+    "id": "brooklyn_museum",
+    "name": "Brooklyn Museum",
+    "address": "200 Eastern Pkwy, Brooklyn, NY 11238",
+    "type": "museum"
+  },
+  {
+    "id": "westsider_books",
+    "name": "Westsider Rare & Used Books",
+    "address": "2246 Broadway, New York, NY 10024",
+    "type": "bookstore"
+  },
+  {
+    "id": "neue_galerie",
+    "name": "Neue Galerie",
+    "address": "New 1048 5th Ave, New York, NY 10028",
+    "type": "museum"
+  },
+  {
+    "id": "the_strand",
+    "name": "Strand Book Store",
+    "address": "828 Broadway, New York, NY 10003",
+    "type": "bookstore"
+  },
+  {
+    "id": "raven_books",
+    "name": "Raven Used Books",
+    "address": "23 Church Street, Cambridge, MA 02138",
+    "type": "bookstore"
+  },
+  {
+    "id": "peabody_museum",
+    "name": "Peabody Museum",
+    "address": "11 Divinity Ave, Cambridge, MA 02138",
+    "type": "museum"
+  },
+  {
+    "id": "chronicle_books",
+    "name": "Chronicle Books",
+    "address": "680 2nd St, San Francisco, CA 94107",
+    "type": "other",
+    "note": "Publisher headquarters with a storefront in front"
+  },
+  {
+    "id": "bernal_cutlery",
+    "name": "Bernal Cutlery",
+    "address": "766 Valencia St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "A knife shop with a selection of food-related books"
+  },
+  {
+    "id": "cafe_international",
+    "name": "Café International",
+    "address": "508 Haight St, San Francisco, CA 94117",
+    "type": "other",
+    "note": "My regular Lower Height coffee shop"
+  },
+  {
+    "id": "cove",
+    "name": "Cove",
+    "address": "206 Fillmore St, San Francisco, CA 94117",
+    "type": "other",
+    "note": "Gift shop in the Lower Height"
+  },
+  {
+    "id": "paxton_gate",
+    "name": "Paxton Gate",
+    "address": "824 Valencia St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "Gifts and oddities shop in the Mission"
+  },
+  {
+    "id": "booksmith",
+    "name": "Booksmith",
+    "address": "1727 Haight St, San Francisco, CA 94117",
+    "type": "bookstore"
+  },
+  {
+    "id": "stable_cafe",
+    "name": "Stable Cafe",
+    "address": "2128 Folsom St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "Coffee shop in SOMA"
+  },
+  {
+    "id": "city_lights",
+    "name": "City Lights",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "type": "bookstore"
+  },
+  {
+    "id": "medicine_for_nightmares",
+    "name": "Medicine for Nightmares",
+    "address": "3036 24th St, San Francisco, CA 94110",
+    "type": "bookstore",
+    "note": "Former location of Alley Cat Books"
+  },
+  {
+    "id": "patricias",
+    "name": "Patricia's",
+    "address": "787 Washington Ave, Brooklyn, NY 11238",
+    "type": "other",
+    "note": "Patricia was a book peddler who set up inside Washington Realty"
+  },
+  {
+    "id": "russian_hill_bookstore",
+    "name": "Russian Hill Bookstore",
+    "address": "2162 Polk St, San Francisco, CA 94109",
+    "type": "bookstore"
+  },
+  {
+    "id": "dog_eared_books_castro",
+    "name": "Dog Eared Books Castro",
+    "address": "489 Castro St, San Francisco, CA 94114",
+    "type": "bookstore",
+    "note": "Closed and sold to the owners of Fabulosa Books"
+  },
+  {
+    "id": "forest_books",
+    "name": "Forest Books",
+    "address": "1748 Buchanan St, San Francisco, CA 94115",
+    "type": "bookstore"
+  },
+  {
+    "id": "spoonbill_and_sugartown",
+    "name": "Spoonbill & Sugartown",
+    "address": "218 Bedford Ave, Brooklyn, NY 11211",
+    "type": "bookstore"
+  },
+  {
+    "id": "sf_moma",
+    "name": "San Francisco Museum of Modern Art",
+    "address": "151 3rd St, San Francisco, CA 94103",
+    "type": "museum"
+  },
+  {
+    "id": "alley_cat_books",
+    "name": "Alley Cat Books",
+    "address": "3036 24th St, San Francisco, CA 94110",
+    "type": "bookstore",
+    "note": "Closed and sold to the owners of Medicine for Nightmares"
+  },
+  {
+    "id": "vashon_island_books",
+    "name": "Vashon Island Books",
+    "address": "22100 Vashon Hwy SW, Vashon, WA 98070",
+    "type": "bookstore"
+  },
+  {
+    "id": "books_inc_berkeley",
+    "name": "Books Inc",
+    "address": "1491 Shattuck Ave, Berkeley, CA 94710",
+    "type": "bookstore"
+  },
+  {
+    "id": "mcnally_jackson_books_williamsburg",
+    "name": "McNally Jackson Books Williamsburg",
+    "address": "76 N 4th St Unit G, Brooklyn, NY 11249",
+    "type": "bookstore"
+  },
+  {
+    "id": "mutual_aid_books_popup_station",
+    "name": "Mutual Aid Books Pop-up",
+    "address": "1600 S Roberto Maestas Festival St, Seattle, WA 98144",
+    "type": "other",
+    "note": "Pop up in front of the Station giving away books"
+  },
+  {
+    "id": "adobe_books",
+    "name": "Adobe Books & Arts Cooperative",
+    "address": "3130 24th St, San Francisco, CA 94110",
+    "type": "bookstore"
+  },
+  {
+    "id": "darvills_book_store",
+    "name": "Darvill's Book Store",
+    "address": "296 Main St, Eastsound, WA 98245",
+    "type": "bookstore"
+  },
+  {
+    "id": "brooklyn_botanic_garden",
+    "name": "Brooklyn Botanic Garden",
+    "address": "900 Washington Ave, Brooklyn, NY 11238",
+    "type": "other",
+    "note": "Gift shop at the BBG"
+  },
+  {
+    "id": "books_and_bookshelves",
+    "name": "Books & Bookshelves",
+    "address": "99 Sanchez St, San Francisco, CA 94114",
+    "type": "bookstore"
+  },
+  {
+    "id": "berkeley_botanical_garden",
+    "name": "Berkeley Botanical Garden",
+    "address": "200 Centennial Dr, Berkeley, CA 94720",
+    "type": "other",
+    "note": "Gift store at the botanic garden"
+  },
+  {
+    "id": "seamart_samples",
+    "name": "SeaMart Samples",
+    "address": "200 SW Michigan St, Seattle, WA 98106",
+    "type": "other",
+    "note": "Closed business selling showroom samples aka Georgetown Collection"
+  },
+  {
+    "id": "fantagraphics_books",
+    "name": "Fantagraphics Bookstore and Gallery",
+    "address": "1201 S Vale St, Seattle, WA 98108",
+    "type": "bookstore"
+  },
+  {
+    "id": "green_apple_books_on_the_park",
+    "name": "Green Apple Books on the Park",
+    "address": "1231 9th Ave, San Francisco, CA 94122",
+    "type": "bookstore"
+  },
+  {
+    "id": "alexander_book_company",
+    "name": "Alexander Book Company",
+    "city": "San Francisco",
+    "address": "50 2nd St, San Francisco, CA 94105",
+    "note": "Closed around April 2023"
+  },
+  {
+    "id": "third_place_books_steward_park",
+    "name": "Third Place Books Steward Park",
+    "address": "5041 Wilson Ave S, Seattle, WA 98118",
+    "type": "bookstore"
+  },
+  {
+    "id": "bruised_apple_books",
+    "name": "Bruised Apple Books",
+    "address": "923 Central Ave, Peekskill, NY 10566",
+    "type": "bookstore"
+  },
+  {
+    "id": "open_eye",
+    "name": "Open Eye Consignment Shop",
+    "address": "230 E Main St, Palouse, WA 99161",
+    "type": "thrift_store"
+  },
+  {
+    "id": "readers_books",
+    "name": "Readers' Books",
+    "address": "130 E Napa St, Sonoma, CA 95476",
+    "type": "bookstore"
+  },
+  {
+    "id": "31_trinity",
+    "name": "31 Trinity",
+    "address": "31 Trinity Pl, San Francisco, CA 94104",
+    "type": "other",
+    "note": "Glass display of books in downtown alley"
+  },
+  {
+    "id": "half_price_books",
+    "name": "Half Price Books",
+    "address": "2036 Shattuck Ave., Berkeley, CA 94704",
+    "type": "bookstore"
+  },
+  {
+    "id": "refugee_eye_gallery",
+    "name": "Refugee Eye Gallery",
+    "address": "849 Valencia St, San Francisco, CA 94110",
+    "type": "other",
+    "note": "Art gallery focused on refugee artist in the Mission"
+  },
+  {
+    "id": "powells_books_chicago",
+    "name": "Powell's Books Chicago",
+    "address": "1501 E 57th St, Chicago, IL 60637",
+    "type": "bookstore"
+  },
+  {
+    "id": "seminary_coop",
+    "name": "Seminary Co-op Bookstore",
+    "address": "5751 S Woodlawn Ave, Chicago, IL 60637",
+    "type": "bookstore"
+  },
+  {
+    "id": "cliffs_variety",
+    "name": "Cliff's Variety",
+    "address": "471 Castro St, San Francisco, CA 94114",
+    "type": "other",
+    "note": "The annex of the main store sells craft stuff and a few books"
+  },
+  {
+    "id": "henderson_books",
+    "name": "Henderson Books",
+    "address": "116 Grand Ave, Bellingham, WA 98225",
+    "type": "bookstore"
+  },
+  {
+    "id": "home",
+    "name": "Home",
+    "address": "209 NW Sunrise Dr, Pullman, WA 99163",
+    "type": "other",
+    "note": "Childhood home library"
+  },
+  {
+    "id": "internet",
+    "name": "Internet",
+    "type": "other",
+    "note": "Like, the World Wide Web"
+  }
+]
