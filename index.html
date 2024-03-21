@@ -37,15 +37,15 @@
   }
 </style>
 
-<h2>Catalog</h2>
+<h2>Nick's library catalog</h2>
 
 <table>
   <thead>
     <tr>
       <th>Title</th>
-      <th>ID</th>
+      <th>ISBN</th>
       <th>Date</th>
-      <th>Location</th>
+      <th>Purchased from</th>
       <th>Link</th>
     </tr>
   </thead>
@@ -55,55 +55,50 @@
 
 <script type="module">
 
-const book_html = ({ title, date, id, location, href }) => `
-<tr>
-  <td>${title}</td>
-  <td>${id ?? ""}</td>
-  <td>${date ?? ""}</td>
-  <td>${location ?? ""}</td>
-  <td>${href ? '<a href="' + href + '">link</a>' : ""}</td>
-</tr>`;
-
 const fetch_json = url => fetch(url).then(x => x.json());
 
 const raw_books = await fetch_json("books.json");
 const raw_txns = await fetch_json("transactions.json");
 const raw_locations = await fetch_json("locations.json");
 
-const map_locations = locations => Object.fromEntries(
-  locations.map(location => [ location.id, location.name ])
-);
+const compare_title = (a, b) => a.title.localeCompare(b.title);
+const es_to_obj = entries => Object.fromEntries(entries);
 
-const map_txns = txns => Object.fromEntries(
-  txns.flatMap(txn => txn.books.map(book => [ book, txn ]))
-);
+const sorted_books = raw_books.toSorted(compare_title);
+const locations_map = es_to_obj(raw_locations.map(l => [ l.id, l ]));
+const txns_map = es_to_obj(raw_txns.flatMap(t => t.books.map(b => [ b, t ])));
 
 const book_title = book => book.title +
   (book.subtitle ? `: ${book.subtitle}` : "") +
   (book.series ? ` (${book.series})` : "");
 
-const book_id = book =>
-  book.isbn13 ? `ISBN13: ${book.isbn13}` :
-  book.lccn ? `LCCN: ${book.lccn}` :
-  book.isbn10 ? `ISBN10: ${book.isbn10}` :
-  book.ean ? `EAN: ${book.ean}` :
-  "";
+const txn_date = txn => {
+  const date = new Date(txn?.date);
+  return !isNaN(date.getTime()) ? date.toLocaleDateString("en", {
+    day: "2-digit", month: "2-digit", year: "2-digit"
+  }) : null;
+}
 
-const build_library = (books, txns_map, locations_map) => books.map(book => ({
-  title: book_title(book),
-  date: txns_map[book.title]?.date,
-  id: book_id(book),
-  location: locations_map[txns_map[book.title]?.location],
-  href: book.external,
-}));
+const library = sorted_books.map(book => {
+  const txn = txns_map[book.disambiguation || book.title];
+  const location = locations_map[txn?.location];
+  return {
+    title: book_title(book),
+    date: txn_date(txn),
+    isbn: book.isbn13 ?? book.isbn10,
+    location: txn?.type === "purchased" ? location?.name : null,
+    href: book.external,
+  };
+});
 
-const table_body = document.getElementById("table_body");
-
-const library = build_library(
-  raw_books.toSorted((a, b) => a.title.localeCompare(b.title)),
-  map_txns(raw_txns),
-  map_locations(raw_locations),
-);
+const book_html = ({ title, date, isbn, location, href }) => `
+<tr>
+  <td>${title}</td>
+  <td>${isbn ?? ""}</td>
+  <td>${date ?? ""}</td>
+  <td>${location ?? ""}</td>
+  <td>${href ? '<a href="' + href + '">link</a>' : ""}</td>
+</tr>`;
 
 for (const book of library) {
   table_body.insertAdjacentHTML("beforeend", book_html(book));
