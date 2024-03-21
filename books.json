@@ -1,5 +1,32 @@
 [
   {
+    "title": "Magician",
+    "subtitle": "The Lost Journals of the Magus Geoffrey Carlyle",
+    "isbn10": "090589569X",
+    "isbn13": "9780905895697",
+    "external": "https://www.goodreads.com/book/show/2683708-magician"
+  },
+  {
+    "title": "The Encyclopedia of Tarot, Volume I",
+    "isbn10": "0913866113",
+    "isbn13": "9780913866115",
+    "external": "https://www.goodreads.com/book/show/1320890.The_Encyclopedia_of_Tarot_Volume_I"
+  },
+  {
+    "title": "All Under Heaven",
+    "subtitle": "The Chinese World",
+    "isbn10": "0394529278",
+    "isbn13": "9780394529271",
+    "external": "https://www.goodreads.com/book/show/1198320.All_Under_Heaven"
+  },
+  {
+    "title": "Istanbul 1900",
+    "subtitle": "Art Nouveau Architecture and Interiors",
+    "isbn10": "0847819892",
+    "isbn13": "9780847819898",
+    "external": "https://www.goodreads.com/book/show/920461.Istanbul_1900"
+  },
+  {
     "title": "The Classic Tales of Brer Rabbit",
     "isbn10": "1561385832",
     "isbn13": "9781561385836",

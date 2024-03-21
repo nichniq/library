@@ -1,5 +1,11 @@
 [
   {
+    "id": "pegasus_berkeley",
+    "name": "Pegasus Books",
+    "address": "2349 Shattuck Ave., Berkeley, CA 94704",
+    "type": "bookstore"
+  },
+  {
     "id": "blue_lantern_coffee",
     "name": "The Blue Lantern Coffee House",
     "address": "326 Main St, Lewiston, ID 83501",

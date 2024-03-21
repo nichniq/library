@@ -1,6 +1,25 @@
 [
   {
     "type": "purchased",
+    "location": "moes",
+    "date": "March 20, 2024",
+    "books": [
+    ],
+    "note": "Big shopping spree during my first solo trip without Arty. Shipping was a whopping $60"
+  },
+  {
+    "type": "purchased",
+    "location": "pegasus_berkeley",
+    "date": "March 20, 2024",
+    "books": [
+      "Magician",
+      "The Encyclopedia of Tarot, Volume I",
+      "All Under Heaven",
+      "Istanbul 1900"
+    ]
+  },
+  {
+    "type": "purchased",
     "location": "brused_books",
     "date": "March 9, 2024",
     "books": [
