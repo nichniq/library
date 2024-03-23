@@ -39,6 +39,10 @@
 
 <h2>Nick's library catalog</h2>
 
+<label>
+  Filter: <input id="filter" type="text" />
+</label>
+
 <table>
   <thead>
     <tr>
@@ -92,5 +96,17 @@ const catalog = await fetch_catalog();
 for (const book of catalog) {
   table_body.append(book_html(book));
 }
+
+const filter_input = document.getElementById("filter");
+
+filter_input.addEventListener("input", ({ target }) => {
+  for (const row of table_body.children) {
+    if (row.children[0].textContent.includes(target.value)) {
+      row.style.removeProperty("display");
+    } else {
+      row.style.setProperty("display", "none");
+    }
+  }
+});
 
 </script>
