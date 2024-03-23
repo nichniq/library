@@ -55,53 +55,42 @@
 
 <script type="module">
 
-const fetch_json = url => fetch(url).then(x => x.json());
+import fetch_catalog from "./catalog.js";
 
-const raw_books = await fetch_json("books.json");
-const raw_txns = await fetch_json("transactions.json");
-const raw_locations = await fetch_json("locations.json");
+function element(tag, children = [], attributes = {}) {
+  const ele = document.createElement(tag);
 
-const compare_title = (a, b) => a.title.localeCompare(b.title);
-const es_to_obj = entries => Object.fromEntries(entries);
+  for (const child of [ children ].flat()) {
+    if (child instanceof Node) {
+      ele.appendChild(child);
+    } else if (typeof child === "string") {
+      ele.appendChild(document.createTextNode(child));
+    }
+  }
 
-const sorted_books = raw_books.toSorted(compare_title);
-const locations_map = es_to_obj(raw_locations.map(l => [ l.id, l ]));
-const txns_map = es_to_obj(raw_txns.flatMap(t => t.books.map(b => [ b, t ])));
+  for (const [ name, value ] of Object.entries(attributes)) {
+    ele.setAttribute(name, value);
+  }
 
-const book_title = book => book.title +
-  (book.subtitle ? `: ${book.subtitle}` : "") +
-  (book.series ? ` (${book.series})` : "");
-
-const txn_date = txn => {
-  const date = new Date(txn?.date);
-  return !isNaN(date.getTime()) ? date.toLocaleDateString("en", {
-    day: "2-digit", month: "2-digit", year: "2-digit"
-  }) : null;
+  return ele;
 }
 
-const library = sorted_books.map(book => {
-  const txn = txns_map[book.disambiguation || book.title];
-  const location = locations_map[txn?.location];
-  return {
-    title: book_title(book),
-    date: txn_date(txn),
-    isbn: book.isbn13 ?? book.isbn10,
-    location: txn?.type === "purchased" ? location?.name : null,
-    href: book.external,
-  };
-});
+const tr = (children, attributes) => element("tr", children, attributes);
+const td = (children, attributes) => element("td", children, attributes);
+const a = (children, attributes) => element("a", children, attributes);
 
-const book_html = ({ title, date, isbn, location, href }) => `
-<tr>
-  <td>${title}</td>
-  <td>${isbn ?? ""}</td>
-  <td>${date ?? ""}</td>
-  <td>${location ?? ""}</td>
-  <td>${href ? '<a href="' + href + '">link</a>' : ""}</td>
-</tr>`;
+const book_html = ({ title, date, isbn, location, href }) => tr([
+  td(title),
+  td(isbn),
+  td(date),
+  td(location),
+  td(a("link", { href })),
+]);
 
-for (const book of library) {
-  table_body.insertAdjacentHTML("beforeend", book_html(book));
+const catalog = await fetch_catalog();
+
+for (const book of catalog) {
+  table_body.append(book_html(book));
 }
 
 </script>
