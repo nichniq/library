@@ -1,5 +1,158 @@
 [
   {
+    "title": "Night Visions",
+    "subtitle": "The Secret Designs of Moths",
+    "isbn10": "3791329685",
+    "isbn13": "9783791329680",
+    "external": "https://www.goodreads.com/book/show/236351.Night_Visions"
+  },
+  {
+    "title": "Treasures of the American Arts and Crafts Movement, 1890-1920",
+    "isbn10": "0810916959",
+    "isbn13": "9780810916951",
+    "external": "https://www.goodreads.com/book/show/2010810.Treasures_of_the_American_Arts_and_Crafts_Movement_1890_1920"
+  },
+  {
+    "title": "Impossible Worlds",
+    "isbn10": "2081233606",
+    "isbn13": "9782081233607",
+    "external": "https://www.goodreads.com/book/show/17790274-tiffany",
+    "note": "Combines two books by Bruno Ernst: Adventures with Impossible Objects and Optical Illusions"
+  },
+  {
+    "title": "Tiffany",
+    "subtitle": "Color and Light",
+    "isbn10": "2081233606",
+    "isbn13": "9782081233607",
+    "external": "https://www.goodreads.com/book/show/17790274-tiffany"
+  },
+  {
+    "title": "The Art of Maurice Sendak",
+    "subtitle": "1980 to Present",
+    "isbn10": "0810944480",
+    "isbn13": "9780810944480",
+    "external": "https://www.goodreads.com/book/show/918487.The_Art_of_Maurice_Sendak"
+  },
+  {
+    "title": "Nature and Architecture",
+    "isbn10": "8881186586",
+    "isbn13": "9788881186587",
+    "external": "https://www.goodreads.com/book/show/2517605.Nature_and_Architecture"
+  },
+  {
+    "title": "Wooden Houses",
+    "isbn10": "0810917629",
+    "isbn13": "9780810917620",
+    "external": "https://www.goodreads.com/book/show/886906.Wooden_Houses"
+  },
+  {
+    "title": "Romanesque",
+    "subtitle": "Architecture, Sculpture, Painting",
+    "isbn10": "3833111925",
+    "isbn13": "9783833111921",
+    "external": "https://www.goodreads.com/book/show/1998425.Romanesque_"
+  },
+  {
+    "title": "Ruler and Compass",
+    "subtitle": "Practical Geometric Constructions",
+    "series": "Wooden Books",
+    "isbn10": "0802717764",
+    "isbn13": "9780802717764",
+    "external": "https://www.goodreads.com/book/show/7724840-ruler-and-compass"
+  },
+  {
+    "title": "Lost Cities of the Mayas",
+    "subtitle": "The Life, Art and Discoveries of Frederick Catherwood",
+    "isbn10": "1840370424",
+    "isbn13": "9781840370423",
+    "external": "https://www.goodreads.com/book/show/3466491-lost-cities-of-the-mayas"
+  },
+  {
+    "title": "Sacred Geometry",
+    "subtitle": "Philosophy and Practice",
+    "series": "Art and Imagination",
+    "isbn10": "0500810303",
+    "isbn13": "9780500810309",
+    "external": "https://www.goodreads.com/book/show/180660.Sacred_Geometry"
+  },
+  {
+    "title": "Freemasonry",
+    "subtitle": "A Journey Through Ritual and Symbol",
+    "series": "Art and Imagination",
+    "isbn10": "0500810370",
+    "isbn13": "9780500810378",
+    "external": "https://www.goodreads.com/book/show/588156.Freemasonry"
+  },
+  {
+    "title": "Zen",
+    "subtitle": "Direct Pointing to Reality",
+    "series": "Art and Imagination",
+    "isbn10": "0500810184",
+    "isbn13": "9780500810187",
+    "external": "https://www.goodreads.com/book/show/1205596.Zen"
+  },
+  {
+    "title": "Kabbalah",
+    "subtitle": "Tradition of Hidden Knowledge",
+    "series": "Art and Imagination",
+    "isbn10": "0500810230",
+    "isbn13": "9780500810231",
+    "external": "https://www.goodreads.com/book/show/841508.Kabbalah"
+  },
+  {
+    "title": "Egyptian Mysteries",
+    "subtitle": "New Light on Ancient Knowledge",
+    "series": "Art and Imagination",
+    "isbn10": "0500810249",
+    "isbn13": "9780500810248",
+    "external": "https://www.goodreads.com/book/show/1760326.Egyptian_Mysteries"
+  },
+  {
+    "title": "The Visionary Art of Nicholas Roerich",
+    "subtitle": "A Messenger of Beauty",
+    "isbn10": "1644117975",
+    "isbn13": "9781644117972",
+    "external": "https://www.goodreads.com/book/show/62361053-the-visionary-art-of-nicholas-roerich"
+  },
+  {
+    "title": "The Romantic Vision of Caspar David Friedrich",
+    "isbn10": "0870996037",
+    "isbn13": "9780870996030",
+    "external": "https://www.goodreads.com/book/show/1853067.The_Romantic_Vision_of_Caspar_David_Friedrich"
+  },
+  {
+    "title": "The Arts & Crafts Movement in Europe & America",
+    "isbn10": "0875871917",
+    "isbn13": "9780875871912",
+    "external": "https://www.goodreads.com/book/show/8694739-the-arts-crafts-movement-in-europe-america"
+  },
+  {
+    "title": "Essential Pre-Raphaelites",
+    "isbn10": "1840845244",
+    "isbn13": "9781840845242",
+    "external": "https://www.goodreads.com/book/show/1366900.Essential_Pre_Raphaelites"
+  },
+  {
+    "title": "Chinese Bridges",
+    "subtitle": "Living Architecture from China's Past",
+    "isbn10": "0804843767",
+    "isbn13": "9780804843768",
+    "external": "https://www.goodreads.com/book/show/16101431-chinese-bridges"
+  },
+  {
+    "title": "Botanical Prints",
+    "isbn10": "0716701928",
+    "isbn13": "9780716701927",
+    "external": "https://www.goodreads.com/book/show/3352173-botanical-prints"
+  },
+  {
+    "title": "Masterpieces of Faberge",
+    "subtitle": "Matilda Geddings Gray Foundation Collection",
+    "isbn10": "0894940406",
+    "isbn13": "9780894940408",
+    "external": "https://www.goodreads.com/book/show/130682.Masterpieces_of_Faberge"
+  },
+  {
     "title": "Magician",
     "subtitle": "The Lost Journals of the Magus Geoffrey Carlyle",
     "isbn10": "090589569X",
