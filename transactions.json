@@ -1,6 +1,14 @@
 [
   {
     "type": "purchased",
+    "location": "brused_books",
+    "books": [
+      "Olmec Art of Ancient Mexico"
+    ],
+    "note": "I think I bought this in early 2024 but forgot to catalog the date and found it in the house later on"
+  },
+  {
+    "type": "purchased",
     "location": "moes",
     "date": "March 20, 2024",
     "books": [
