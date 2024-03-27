@@ -101,7 +101,7 @@ const filter_input = document.getElementById("filter");
 
 filter_input.addEventListener("input", ({ target }) => {
   for (const row of table_body.children) {
-    if (row.children[0].textContent.includes(target.value)) {
+    if (new RegExp(target.value, "i").test(row.children[0].textContent)) {
       row.style.removeProperty("display");
     } else {
       row.style.setProperty("display", "none");
