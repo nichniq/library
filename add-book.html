@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<h2>Add book</h2>
+
+<form method="POST" action="/books/add">
+  <h3>Add book</h3>
+  <ul>
+    <li><label>Title: <input name="title">
+    <li><label>Subtitle: <input name="subtitle">
+    <li><label>Series: <input name="series">
+    <li><label>ISBN-10: <input name="isbn10">
+    <li><label>ISBN-13: <input name="isbn13">
+    <li><label>LCCN: <input name="lccn">
+    <li><label>External reference: <input name="external">
+    <li><label>Initial transaction: <select id="txns" name="txn"></select>
+    <li><label>Disambiguation: <input name="disambiguation">
+    <li><label>Note: <input name="note">
+  </ul>
+  <button>Add</button>
+</form>
+
+<form method="POST" action="/transactions/add">
+  <h3>Add transaction</h3>
+  <ul>
+    <li><label>Type: <input name="type" list="txn-types">
+    <li><label>Date: <input name="title" type="date">
+    <li><label>Location: <select id="txn-locations" name="location"></select>
+    <li><label>Note: <input name="note">
+  </ul>
+  <button>Add</button>
+</form>
+
+<form method="POST" action="/locations/add">
+  <h3>Add location</h3>
+  <ul>
+    <li><label>ID: <input name="id">
+    <li><label>Name: <input name="name">
+    <li><label>Address: <input name="address">
+    <li><label>Type: <input list="location-types" name="type">
+    <li><label>Note: <input name="note">
+  </ul>
+  <button>Add</button>
+</form>
+
+<datalist id="txn-types">
+  <option value="purchased"></option>
+  <option value="ordered"></option>
+  <option value="given"></option>
+  <option value="found"></option>
+  <option value="inherited"></option>
+  <option value="gave"></option>
+</datalist>
+
+<datalist id="location-types">
+  <option value="bookstore"></option>
+  <option value="thrift_store">thrift store</option>
+  <option value="museum"></option>
+  <option value="other"></option>
+</datalist>
+
+<script type="module">
+
+const transactions = await fetch("./transactions.json").then(x => x.json());
+const locations = await fetch("./locations.json").then(x => x.json());
+
+const id_to_loc = locations.reduce((acc, loc) => {
+  acc[loc.id] = loc.name;
+  return acc;
+}, {});
+
+function element(tag, children = [], attributes = {}) {
+  const ele = document.createElement(tag);
+
+  for (const child of [ children ].flat()) {
+    if (child instanceof Node) {
+      ele.appendChild(child);
+    } else if (typeof child === "string") {
+      ele.appendChild(document.createTextNode(child));
+    }
+  }
+
+  for (const [ name, value ] of Object.entries(attributes)) {
+    ele.setAttribute(name, value);
+  }
+
+  return ele;
+}
+
+const option = (children, attrs) => element("option", children, attrs);
+
+document.getElementById("txns").append(...transactions.filter(txn =>
+  txn.date != null && id_to_loc[txn.location] != null
+).flatMap(txn => option([ txn.date, id_to_loc[txn.location] ].join(" @ "))));
+
+document.getElementById("txn-locations").append(...locations.flatMap(
+  loc => option(loc.name, { value: loc.id })
+));
+
+</script>

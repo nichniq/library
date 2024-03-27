@@ -1,0 +1,31 @@
+- Create a UI to view and organize library
+  - Add costs
+    - Go through bank txns and line up with book txns
+    - Add costs found on physical books
+  - Fix external reference
+    - Move from Goodreads to Open Library for primary external reference
+    - Automatically generate external links
+  - Scrape book data
+      - Scrape book cover
+      - Scrape publisher data
+      - Scrape author data
+      - Scrape LCCN / ISBN
+  - Add controls to add new entries
+    - Add new books
+      - Create warning for title ambiguity
+    - Add new bookstores
+    - Add new transactions
+  - View books
+    - View all books
+    - Sort books by attribute
+    - Filter books by attribute
+    - Show and hide attributes
+    - Summarize books by attribute
+  - Edit books
+    - Delete book
+    - Edit attribute
+  - View and edit bookstores
+  - View and edit txns
+
+Library of Congress API: https://www.loc.gov/apis/json-and-yaml/
+Open Library API: https://openlibrary.org/developers/api
