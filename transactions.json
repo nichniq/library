@@ -2,6 +2,17 @@
   {
     "type": "purchased",
     "location": "brused_books",
+    "date": "March 30, 2024",
+    "books": [
+      "Old Houses in England",
+      "The Ultimate Sashiko Sourcebook",
+      "The Ship That Sailed to Mars",
+      "The Life-Changing Magic of Tidying Up"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
     "books": [
       "Olmec Art of Ancient Mexico"
     ],
