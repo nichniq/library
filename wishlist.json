@@ -1,0 +1,137 @@
+{
+  "artists": [
+    {
+      "name": "Alexander Von Humboldt",
+      "description": "Famous naturalist. I have a photo of a book 'Alexander bon Humboldt and the United States' that I saw but didn't buy"
+    },
+    {
+      "name": "Hubert Robert",
+      "description": "Painted a bunch of ruins",
+      "images": [
+        "/img/robert-01.jpg",
+        "/img/robert-02.jpg",
+        "/img/robert-03.jpg"
+      ]
+    },
+    {
+      "name": "Gustaf Fjaestad",
+      "description": "19th century Swedish painter. He has a lot of beautiful winter landscapes and flowing water. He has two pieces in 'Nordic Landscape Painting in the Nineteenth Century', but I added him to the list after seeing 'The Boy Who Sees with His Heart'. Can't find any monographs",
+      "links": [
+        "https://www.artnet.com/artists/gustaf-fjaestad/"
+      ],
+      "images": [
+        "/img/fjaestad-01.jpg",
+        "/img/fjaestad-02.jpg",
+        "/img/fjaestad-03.jpg",
+        "/img/fjaestad-04.jpg",
+        "/img/fjaestad-05.jpg",
+        "/img/fjaestad-06.jpg"
+      ]
+    },
+    {
+      "name": "Heinrich Kley",
+      "description": "Early cartoonist and satirist, had an influence on Disney. His drawings and sketches are interesting but maybe more interesting for their historical status",
+      "images": [
+        "/img/kley-01.jpg",
+        "/img/kley-02.jpg",
+        "/img/kley-03.jpg",
+        "/img/kley-04.jpg",
+        "/img/kley-05.jpg"
+      ]
+    },
+    {
+      "name": "John Singer Sargent",
+      "description": "Considered the best portraitist of his generation, American expat, beautiful painting style, probably gay. Read about him first on Kottke. WSU libraries have a bunch of books about him",
+      "links": [
+        "https://kottke.org/23/03/the-impressionish-painter",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99198694230101842",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99164616290101842",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99127649660101842",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99269830350101842",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99269546550101842",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99415154440101842"
+      ]
+    },
+    {
+      "name": "Félix Vallotton",
+      "description": "French artist that produced paintings and woodcuts in several styles. WSU libraries have two books about him, the Royal Academy of Arts one is probably best",
+      "links": [
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99900415901201842",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99198694230101842"
+      ],
+      "images": [
+        "/img/vallotton-01.jpg",
+        "/img/vallotton-02.jpg",
+        "/img/vallotton-03.jpg",
+        "/img/vallotton-04.jpg"
+      ]
+    },
+    {
+      "name": "Mikhail Nesterov",
+      "description": "Russian painter known for Russian Symbolism, which is to say traditional Russian scenes with deep meaning",
+      "links": [
+        "https://www.wikiart.org/en/mikhail-nesterov"
+      ],
+      "images": [
+        "/img/nesterov-01.jpg",
+        "/img/nesterov-02.jpg",
+        "/img/nesterov-03.jpg",
+        "/img/nesterov-04.jpg"
+      ]
+    },
+    {
+      "name": "Nicholas Roerich",
+      "description": "Russian painter and mystic; I have a book of some of his works, but it's mostly focused on the later work and I want to see more of the earlier stuff",
+      "links": [
+        "https://www.wikiart.org/en/nicholas-roerich"
+      ],
+      "images": [
+        "/img/roerich-01.jpg",
+        "/img/roerich-02.jpg",
+        "/img/roerich-03.jpg"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Costume design",
+      "description": "Custom design for theater with artists including Leon Bakst"
+    },
+    {
+      "topic": "Swedish art around 1900",
+      "description": "I'm interested in a book with Gustaf Fjaestad and Anna Boberg"
+    }
+  ],
+  "books": [
+    {
+      "title": "Tales of Mystery and Imagination",
+      "author": "Edgar Allan Poe",
+      "description": "The illustrations by Harry Clarke are weird and beautiful. I think WSU libraries has a copy I can check out first",
+      "images": [
+        "/img/clarke-01.jpg",
+        "/img/clarke-02.jpg",
+        "/img/clarke-03.jpg"
+      ],
+      "links": [
+        "https://www.themarginalian.org/2019/10/13/harry-clarke-edgar-allan-poe-tales-of-mystery-and-imagination/",
+        "https://archive.org/details/TalesOfMysteryAndImagination/mode/2up",
+        "https://searchit.libraries.wsu.edu/permalink/01ALLIANCE_WSU/1rq08rk/alma99179961320101842"
+      ]
+    },
+    {
+      "title": "J.C. Leyendecker",
+      "author": "Laurence S. Cutler",
+      "isbn": "9780810995215",
+      "description": "I read an interesting article about him and his homoerotic art on Messy Nessy and am very interested in learning more. It looks like this is the best book on the subject",
+      "images": [
+        "/img/leyendecker-01.jpg",
+        "/img/leyendecker-02.jpg",
+        "/img/leyendecker-03.jpg",
+        "/img/leyendecker-04.jpg"
+      ],
+      "links": [
+        "https://www.messynessychic.com/2019/02/05/hiding-homosexuality-on-the-cover-of-americas-magazines-a-century-ago/"
+      ]
+    }
+  ]
+}
