@@ -1,5 +1,389 @@
 [
   {
+    "title": "The Ark",
+    "isbn10": "039543078X",
+    "isbn13": "9780395430781",
+    "external": "https://www.goodreads.com/book/show/6941748-the-ark"
+  },
+  {
+    "title": "Art of the Basket",
+    "subtitle": "Traditional Basketry from Around the World",
+    "isbn10": "0500510482",
+    "isbn13": "9780500510483",
+    "external": "https://www.goodreads.com/book/show/2577577-art-of-the-basket"
+  },
+  {
+    "title": "Tarahumara",
+    "subtitle": "Where Night Is the Day of the Moon",
+    "isbn10": "0873581830",
+    "isbn13": "9780873581837",
+    "external": "https://www.goodreads.com/book/show/4348475-tarahumara"
+  },
+  {
+    "title": "Trouble with Trolls",
+    "isbn10": "0698117913",
+    "isbn13": "9780698117914",
+    "external": "https://www.goodreads.com/book/show/100480.Trouble_with_Trolls"
+  },
+  {
+    "title": "Pyramid",
+    "lccn": "75009964",
+    "external": "https://lccn.loc.gov/75009964"
+  },
+  {
+    "title": "The Something",
+    "lccn": "70125143",
+    "external": "https://lccn.loc.gov/70125143"
+  },
+  {
+    "title": "The Lives of Lichens",
+    "subtitle": "A Natural History",
+    "series": "The Lives of the Natural World",
+    "isbn10": "0691247277",
+    "isbn13": "9780691247274",
+    "external": "https://www.goodreads.com/book/show/195794892-the-lives-of-lichens"
+  },
+  {
+    "title": "Little Witch Hazel",
+    "series": "A Year in the Forest",
+    "isbn10": "0735264899",
+    "isbn13": "9780735264892",
+    "external": "https://www.goodreads.com/book/show/56200635-little-witch-hazel"
+  },
+  {
+    "title": "The Dawn of Civilization",
+    "series": "The First World Survey of Human Cultures in Early Times",
+    "lccn": "61011703",
+    "external": "https://lccn.loc.gov/61011703"
+  },
+  {
+    "title": "The Hudson River School",
+    "series": "The Landscape Art of Bierstadt, Cole, Church, Durand, Heade and Twenty Other Artists",
+    "isbn10": "0760717117",
+    "isbn13": "9780760717110",
+    "external": "https://www.goodreads.com/book/show/619534.The_Hudson_River_School"
+  },
+  {
+    "title": "The Prints Of Richard Haas",
+    "series": "A Catalogue Raisonné, 1970-2004",
+    "isbn10": "0936598107",
+    "isbn13": "9780936598109",
+    "external": "https://www.goodreads.com/book/show/2393715.Richard_Haas"
+  },
+  {
+    "title": "Alaskan Eskimo Life in the 1890S as Sketched by Native Artists",
+    "isbn10": "0874741149",
+    "isbn13": "9780874741148",
+    "external": "https://www.goodreads.com/book/show/5104465-alaskan-eskimo-life-in-the-1890s-as-sketched-by-native-artists"
+  },
+  {
+    "title": "Designing and Drawing for the Theatre",
+    "isbn10": "007557232X",
+    "isbn13": "9780075572329",
+    "external": "https://www.goodreads.com/book/show/654348.Designing_and_Drawing_for_the_Theatre"
+  },
+  {
+    "title": "How to Fight",
+    "series": "Mindfulness Essentials",
+    "isbn10": "1941529860",
+    "isbn13": "9781941529867",
+    "external": "https://www.goodreads.com/book/show/33776764-how-to-fight"
+  },
+  {
+    "title": "The Nightwatchers",
+    "lccn": "70161023",
+    "external": "https://lccn.loc.gov/70161023"
+  },
+  {
+    "title": "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+    "isbn10": "1451663889",
+    "isbn13": "9781451663884",
+    "external": "https://www.goodreads.com/book/show/12131153-how-to-talk-so-kids-will-listen-listen-so-kids-will-talk"
+  },
+  {
+    "title": "J.C. Leyendecker",
+    "subtitle": "American Imagist",
+    "isbn10": "0810995212",
+    "isbn13": "9780810995215",
+    "external": "https://www.goodreads.com/book/show/3753634-j-c-leyendecker"
+  },
+  {
+    "title": "Mammal Evolution",
+    "subtitle": "An Illustrated Guide",
+    "isbn10": "081601194X",
+    "isbn13": "9780816011940",
+    "external": "https://www.goodreads.com/book/show/2389635.Mammal_evolution"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind",
+    "isbn10": "1421550644",
+    "isbn13": "9781421550640",
+    "external": "https://www.goodreads.com/book/show/15800525-nausica-of-the-valley-of-the-wind"
+  },
+  {
+    "title": "Pullman",
+    "subtitle": "Know Your City",
+    "note": "Booklet published in 1977 by the League of Women Voters about Pullman government and civil services"
+  },
+  {
+    "title": "The Art of Maurice Sendak",
+    "isbn10": "1435119711",
+    "isbn13": "9781435119710",
+    "external": "https://www.goodreads.com/book/show/6978912-the-art-of-maurice-sendak"
+  },
+  {
+    "title": "Encyclopedia of Gods",
+    "subtitle": "Over 2,500 Deities of the World",
+    "isbn10": "0816029091",
+    "isbn13": "9780816029099",
+    "external": "https://www.goodreads.com/book/show/1131779.Encyclopedia_of_Gods"
+  },
+  {
+    "title": "A Children's Book of Demons",
+    "isbn10": "1927668662",
+    "isbn13": "9781927668665",
+    "external": "https://www.goodreads.com/book/show/46222036-a-children-s-book-of-demons"
+  },
+  {
+    "title": "Spirit City Toronto",
+    "isbn10": "0978481062",
+    "isbn13": "9780978481063",
+    "external": "https://www.goodreads.com/book/show/77170761-spirit-city-toronto"
+  },
+  {
+    "title": "Folk-Lore and Fable",
+    "subtitle": "Aesop, Grimm, Andersen",
+    "series": "The Harvard Classics",
+    "note": "Leather bound and gilded, printed 1988"
+  },
+  {
+    "title": "Good Night, Sleep Tight, Don't Let The Bed Bugs Bite!",
+    "series": "Gilbert and Friends",
+    "isbn10": "0439773342",
+    "isbn13": "9780439662246",
+    "external": "https://www.goodreads.com/book/show/393882.Good_Night_Sleep_Tight_Don_t_Let_The_Bed_Bugs_Bite_"
+  },
+  {
+    "title": "A Ring of Tricksters",
+    "subtitle": "Tales from America, the West Indies, and Africa",
+    "isbn10": "0590473743",
+    "isbn13": "9780590473743",
+    "external": "https://www.goodreads.com/book/show/605453.Ring_of_Tricksters"
+  },
+  {
+    "title": "The Story of Noah's Ark",
+    "note": "Special edition published by Cadmus Books"
+  },
+  {
+    "title": "A Cache of Jewels",
+    "subtitle": "And Other Collective Nouns",
+    "isbn10": "0590425862",
+    "isbn13": "9780590425865",
+    "external": "https://www.goodreads.com/book/show/673002.A_Cache_of_Jewels"
+  },
+  {
+    "title": "Mogo's Flute",
+    "lccn": "66011911",
+    "external": "https://lccn.loc.gov/66011911"
+  },
+  {
+    "title": "Architecture",
+    "subtitle": "Man in Possession of His Earth",
+    "lccn": "62015928",
+    "external": "https://lccn.loc.gov/62015928",
+    "disambiguation": "Architecture (lccn 62015928)"
+  },
+  {
+    "title": "The Chile Reader",
+    "subtitle": "History, Culture, Politics",
+    "series": "The Latin America Readers",
+    "isbn10": "0822353601",
+    "isbn13": "9780822353607",
+    "external": "https://www.goodreads.com/book/show/17802167-the-chile-reader"
+  },
+  {
+    "title": "gigantic hand",
+    "external": "https://fakesick.bandcamp.com/album/gigantic-hand",
+    "note": "Booklet for Fake Sick album"
+  },
+  {
+    "title": "Cats",
+    "subtitle": "Paintings by Mimi Vang Olsen",
+    "isbn10": "0764903675",
+    "isbn13": "9780764903670",
+    "note": "Booklet of postcards"
+  },
+  {
+    "title": "This Is How You Lose the Time War",
+    "isbn10": "1534430997",
+    "isbn13": "9781534430990",
+    "external": "https://www.goodreads.com/book/show/53870787-this-is-how-you-lose-the-time-war"
+  },
+  {
+    "title": "The Song of Achilles",
+    "isbn10": "1408821982",
+    "isbn13": "9781408821985",
+    "external": "https://www.goodreads.com/book/show/13516154-the-song-of-achilles"
+  },
+  {
+    "title": "The Watchmaker of Filigree Street",
+    "isbn10": "1620408333",
+    "isbn13": "9781620408339",
+    "external": "https://www.goodreads.com/book/show/22929563-the-watchmaker-of-filigree-street"
+  },
+  {
+    "title": "Sandry's Book",
+    "series": "Circle of Magic",
+    "isbn10": "0590554085",
+    "isbn13": "9780590554084",
+    "external": "https://www.goodreads.com/book/show/58889.Sandry_s_Book"
+  },
+  {
+    "title": "Things We Lost in the Fire",
+    "isbn10": "045149511X",
+    "isbn13": "9780451495112",
+    "external": "https://www.goodreads.com/book/show/30375706-things-we-lost-in-the-fire"
+  },
+  {
+    "title": "Dictionary of the English Language",
+    "isbn10": "0405124147",
+    "isbn13": "9780405124143",
+    "external": "https://www.goodreads.com/book/show/2068259.Dictionary_of_the_English_Language",
+    "note": "Facsimile of 1755 edition, published in 1979"
+  },
+  {
+    "title": "Woodlander",
+    "subtitle": "A Guide to Sustainable Woodland Management",
+    "isbn10": "1784945579",
+    "isbn13": "9781784945572",
+    "external": "https://www.goodreads.com/book/show/60545178-woodlander"
+  },
+  {
+    "title": "Shadow Portraits / Still Live Sculptures",
+    "note": "Exhibition booklet from one of Herbert George's shows"
+  },
+  {
+    "title": "Notes on Making a Sculpture",
+    "note": "Self published spiral-bound booklet by Herbert George"
+  },
+  {
+    "title": "The Blind Assassin",
+    "isbn10": "0385720955",
+    "isbn13": "9780385720953",
+    "external": "https://www.goodreads.com/book/show/227614.The_Blind_Assassin"
+  },
+  {
+    "title": "The Fireside Encyclopædia of Poetry",
+    "note": "Twenty-eighth edition"
+  },
+  {
+    "title": "A Life in Photography",
+    "isbn10": "0517468050",
+    "isbn13": "9780517468050",
+    "external": "https://www.goodreads.com/book/show/7311963-a-life-in-photography"
+  },
+  {
+    "title": "Haunted Air",
+    "subtitle": "Anonymous Halloween photographs from c. 1875–1955",
+    "isbn10": "0224089706",
+    "isbn13": "9780224089708",
+    "external": "https://www.goodreads.com/book/show/9462270-haunted-air"
+  },
+  {
+    "title": "Talking Stones",
+    "subtitle": "A Photographic Sojourn",
+    "isbn10": "3868286233",
+    "isbn13": "9783868286236",
+    "external": "https://www.goodreads.com/book/show/27142771-talking-stones"
+  },
+  {
+    "title": "Flowers and Herbs of Early America",
+    "isbn10": "0300145365",
+    "isbn13": "9780300145366",
+    "external": "https://www.goodreads.com/book/show/3367881-flowers-and-herbs-of-early-america"
+  },
+  {
+    "title": "Toxic Garden",
+    "isbn10": "9657725070",
+    "isbn13": "9789657725078",
+    "external": "https://yundlerbrondino.com/books/toxic-garden/",
+    "note": "The ISBN in the book is listed as 97899657725078, which is 14 characters long"
+  },
+  {
+    "title": "Aquatic Entomology",
+    "subtitle": "The Fishermen's and Ecologists' Illustrated Guide to Insects and Their Relatives",
+    "isbn10": "0867200006",
+    "isbn13": "9780867200003",
+    "external": "https://www.goodreads.com/book/show/11120346-aquatic-entomology"
+  },
+  {
+    "title": "Frames of Mind",
+    "subtitle": "The Theory Of Multiple Intelligences",
+    "isbn10": "0465025102",
+    "isbn13": "9780465025107",
+    "external": "https://www.goodreads.com/book/show/294035.Frames_Of_Mind"
+  },
+  {
+    "title": "Lost in Translation",
+    "subtitle": "An Illustrated Compendium of Untranslatable Words from Around the World",
+    "isbn10": "1607747103",
+    "isbn13": "9781607747109",
+    "external": "https://www.goodreads.com/book/show/20176282-lost-in-translation"
+  },
+  {
+    "title": "A Philosophy of Software Design",
+    "isbn10": "1732102201",
+    "isbn13": "9781732102200",
+    "external": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design"
+  },
+  {
+    "title": "Knots That Simplify Your Life",
+    "isbn10": "3943330257",
+    "isbn13": "9783943330250",
+    "external": "https://www.goodreads.com/book/show/54284439-knots"
+  },
+  {
+    "title": "Belknap's Waterproof Grand Canyon River Guide",
+    "isbn10": "0916370240",
+    "isbn13": "9780916370244",
+    "external": "https://www.goodreads.com/book/show/34832166-belknap-s-waterproof-grand-canyon-river-guide"
+  },
+  {
+    "title": "Great Moments in Architecture",
+    "isbn10": "0395267110",
+    "isbn13": "9780395267110",
+    "external": "https://www.goodreads.com/book/show/2526052.Great_Moments_in_Architecture"
+  },
+  {
+    "title": "The Ancient Ones",
+    "isbn10": "0963955608",
+    "isbn13": "9780963955609",
+    "external": "https://www.goodreads.com/book/show/479105.The_Ancient_Ones"
+  },
+  {
+    "title": "Our Native Land",
+    "subtitle": "Or, Glances at American Scenery and Places with Sketches of Life and Adventure"
+  },
+  {
+    "title": "Hometown Diners",
+    "isbn10": "0810941554",
+    "isbn13": "9780810941557",
+    "external": "https://www.goodreads.com/book/show/139935.Hometown_Diners"
+  },
+  {
+    "title": "Handmade in Japan",
+    "subtitle": "The Pursuit of Perfection in Traditional Crafts",
+    "isbn10": "3899559924",
+    "isbn13": "9783899559927",
+    "external": "https://www.goodreads.com/book/show/50268212-handmade-in-japan"
+  },
+  {
+    "title": "A Treasury of the Great Children's Book Illustrators",
+    "isbn10": "0810980819",
+    "isbn13": "9780810980815",
+    "external": "https://www.goodreads.com/book/show/1143902.A_Treasury_of_the_Great_Children_s_Book_Illustrators"
+  },
+  {
     "title": "Old Houses in England",
     "external": "https://www.goodreads.com/book/show/56270548-old-houses-in-england"
   },
@@ -90,7 +474,7 @@
     "external": "https://www.goodreads.com/book/show/7724840-ruler-and-compass"
   },
   {
-    "title": "Lost Cities of the Mayas",
+    "title": "The Lost Cities of the Mayas",
     "subtitle": "The Life, Art and Discoveries of Frederick Catherwood",
     "isbn10": "1840370424",
     "isbn13": "9781840370423",
@@ -1060,7 +1444,7 @@
     "external": "https://www.goodreads.com/book/show/849152.A_Dark_Dark_Tale"
   },
   {
-    "title": "Ring Of Tricksters",
+    "title": "Ring of Tricksters",
     "subtitle": "Tales From America, the West Indies, and Africa",
     "isbn10": "0590473743",
     "isbn13": "9780590473743",
@@ -1528,8 +1912,8 @@
     "external": "https://www.goodreads.com/book/show/1464167.Puppets_And_Automata"
   },
   {
-    "title": "Botany For Gardeners",
-    "subtitle": "An Introduction And Guide",
+    "title": "Botany for Gardeners",
+    "subtitle": "An Introduction and Guide",
     "isbn10": "0881922587",
     "isbn13": "9780881922585",
     "external": "https://www.goodreads.com/book/show/1462444.Botany_For_Gardeners"
@@ -1663,7 +2047,7 @@
     "external": "https://www.goodreads.com/book/show/35535702-flower-fairies-of-the-spring"
   },
   {
-    "title": "Qayaqs",
+    "title": "Qayaq",
     "subtitle": "Kayaks of Alaska Siberia",
     "isbn10": "1889963100",
     "isbn13": "9781889963105",
@@ -1778,7 +2162,7 @@
     "external": "https://openlibrary.org/books/OL24975246M/Everything_under_a_mushroom"
   },
   {
-    "title": "A Guide to Spiders and Their Kin",
+    "title": "Spiders and Their Kin",
     "series": "Golden Guide",
     "lccn": "68023522",
     "external": "https://lccn.loc.gov/68023522"
@@ -1816,7 +2200,7 @@
     "external": "https://www.goodreads.com/book/show/170967.Dreads"
   },
   {
-    "title": "Adventure with Impossible Objects",
+    "title": "Adventures with Impossible Objects",
     "isbn10": "1886155011",
     "isbn13": "9781886155015",
     "external": "https://www.goodreads.com/book/show/147495.Adventure_with_Impossible_Objects"
@@ -1850,7 +2234,7 @@
     "external": "https://www.goodreads.com/book/show/51292820-central-oregon"
   },
   {
-    "title": "Book of Celtic Verse",
+    "title": "The Book of Celtic Verse",
     "subtitle": "A Treasury of Poetry, Dreams & Visions",
     "isbn10": "1786786656",
     "isbn13": "9781786786654",
@@ -2014,7 +2398,7 @@
     "external": "https://www.goodreads.com/book/show/690476.Light_Screens"
   },
   {
-    "title": "The Stones Of Venice",
+    "title": "The Stones of Venice",
     "isbn10": "0865652457",
     "isbn13": "9780865652453",
     "external": "https://www.goodreads.com/book/show/953991.Stones_of_Venice"
@@ -2172,7 +2556,7 @@
     "external": "https://www.goodreads.com/book/show/56537554-cereal-drying-racks"
   },
   {
-    "title": "Art Of Japanese Paper",
+    "title": "The Art of Japanese Paper",
     "subtitle": "Masks, Lanterns, Kites, Dolls, Origami",
     "isbn10": "2879390095",
     "isbn13": "9782879390093",
@@ -2203,7 +2587,7 @@
     "subtitle": "Tales of Ancient Persia",
     "isbn10": "0877731098",
     "isbn13": "9780877731092",
-    "external": "Gulistan: Tales of Ancient Persia"
+    "external": "https://www.goodreads.com/book/show/2740569-gulistan"
   },
   {
     "title": "Hair",
@@ -2245,6 +2629,7 @@
   },
   {
     "title": "Migrations",
+    "subtitle": "Humanity in Transition",
     "isbn10": "0893818917",
     "isbn13": "9780893818913",
     "external": "https://www.goodreads.com/book/show/905081.Migrations"
@@ -2510,7 +2895,7 @@
     "external": "https://www.goodreads.com/book/show/17398627-for-forever-i-ll-be-here"
   },
   {
-    "title": "The History of Illustration",
+    "title": "History of Illustration",
     "isbn10": "1501342118",
     "isbn13": "9781501342110",
     "external": "https://www.goodreads.com/book/show/36902597-history-of-illustration"
@@ -2570,8 +2955,7 @@
     "external": "https://lccn.loc.gov/61015011"
   },
   {
-    "title": "Pop-Up Animal-Alphabet Book",
-    "series": "Pop-Up",
+    "title": "Pop-Up Animal Alphabet Book",
     "isbn10": "0394818660",
     "isbn13": "9780394818665",
     "external": "https://www.goodreads.com/book/show/12584362-pop-up-animal-alphabet-book"
@@ -2608,7 +2992,7 @@
   },
   {
     "title": "Arthur Rackham",
-    "subtitle": "Masterpieces of Art",
+    "series": "Masterpieces of Art",
     "isbn10": "1783613629",
     "isbn13": "9781783613625",
     "external": "https://www.goodreads.com/book/show/26231159-arthur-rackham-masterpieces-of-art"
@@ -2627,14 +3011,14 @@
     "external": "https://daylightbooks.org/products/ex-crucible-the-passion-of-incarcerated-artists"
   },
   {
-    "title": "The Centaur’s Smile",
+    "title": "The Centaur's Smile",
     "subtitle": "The Human Animal in Early Greek Art",
     "isbn10": "0300101635",
     "isbn13": "9780300101638",
     "external": "https://www.goodreads.com/book/show/1225329.The_Centaur_s_Smile"
   },
   {
-    "title": "The Natural History Book",
+    "title": "Natural History",
     "subtitle": "The Ultimate Visual Guide to Everything on Earth",
     "isbn10": "0744035015",
     "isbn13": "9780744035018",
@@ -2710,7 +3094,7 @@
   },
   {
     "title": "Supreme Instants",
-    "subtitle": "The Photography Of Edward Weston",
+    "subtitle": "The Photography of Edward Weston",
     "isbn10": "0821216317",
     "isbn13": "9780821216316",
     "external": "https://www.goodreads.com/book/show/1523992.Supreme_Instants"
@@ -2786,7 +3170,7 @@
     "external": "https://www.goodreads.com/book/show/239931.Particular_Voices"
   },
   {
-    "title": "Kissa by Kiss",
+    "title": "Kissa by Kissa",
     "external": "https://shop.specialprojects.jp/products/kissa-by-kissa-3rd-ed"
   },
   {
@@ -2837,7 +3221,7 @@
     "external": "https://www.goodreads.com/book/show/6604926-duane-michals"
   },
   {
-    "title": "Merveilles d’Egypte",
+    "title": "Merveilles d'Egypte",
     "external": "https://africainthephotobook.com/2020/10/23/merveilles-degypte-1978/"
   },
   {
@@ -3104,7 +3488,7 @@
     "external": "https://www.goodreads.com/book/show/1693256.The_Seaside_Naturalist"
   },
   {
-    "title": "Discovery Of Luray Caverns, Virginia",
+    "title": "Discovery of Luray Caverns, Virginia",
     "isbn10": "0931402018",
     "isbn13": "9780931402012",
     "external": "https://www.goodreads.com/book/show/5919345-discovery-of-luray-caverns-virginia"
@@ -3360,7 +3744,7 @@
     "external": "https://www.goodreads.com/book/show/59923336-mexico"
   },
   {
-    "title": "The Encyclopaedia Of World Costume",
+    "title": "The Encyclopaedia of World Costume",
     "isbn10": "0713413395",
     "isbn13": "9780713413397",
     "external": "https://www.goodreads.com/book/show/3988760-the-encyclopaedia-of-world-costume"
@@ -3542,7 +3926,7 @@
     "external": "https://www.goodreads.com/book/show/22271827-the-open-road"
   },
   {
-    "title": "Grail",
+    "title": "The Grail",
     "subtitle": "Quest for the Eternal",
     "series": "The Illustrated Library of Sacred Imagination",
     "isbn10": "0824500350",
@@ -3559,6 +3943,7 @@
   {
     "title": "The Lives of Fungi",
     "subtitle": "A Natural History of Our Planet's Decomposers",
+    "series": "The Lives of the Natural World",
     "isbn10": "0691229848",
     "isbn13": "9780691229843",
     "external": "https://www.goodreads.com/book/show/58885972-the-lives-of-fungi"
@@ -3617,8 +4002,7 @@
     "external": "https://www.goodreads.com/book/show/32767743-whither-the-waters"
   },
   {
-    "title": "Louis Comfort Tiffany",
-    "subtitle": "Masterworks",
+    "title": "Louis Comfort Tiffany Masterworks",
     "isbn10": "1787552330",
     "isbn13": "9781787552333",
     "external": "https://www.goodreads.com/book/show/39993341-louis-comfort-tiffany"
@@ -3664,7 +4048,7 @@
     "external": "https://www.goodreads.com/book/show/2731980-manor-houses-in-normandy"
   },
   {
-    "title": "Montessori Method",
+    "title": "The Montessori Method",
     "isbn13": "2221112521539",
     "external": "https://www.powells.com/book/montessori-method-2221112521539"
   },
@@ -4116,7 +4500,8 @@
     "subtitle": "Form, Space and Order",
     "isbn10": "0442215355",
     "isbn13": "9780442215354",
-    "external": "https://www.goodreads.com/book/show/2359407.Architecture"
+    "external": "https://www.goodreads.com/book/show/2359407.Architecture",
+    "disambiguation": "Architecture (9780442215354)"
   },
   {
     "title": "Architecture Without Architects",
@@ -4128,7 +4513,7 @@
     "title": "Art Nouveau"
   },
   {
-    "title": "Art of Journey",
+    "title": "The Art of Journey",
     "isbn10": "0985902213",
     "isbn13": "9780985902216",
     "external": "https://www.goodreads.com/book/show/16084509-the-art-of-journey"
@@ -4564,7 +4949,7 @@
   },
   {
     "title": "Drawing the Curtain",
-    "subtitle": "Maurice Sendak’s Designs for Opera and Ballet",
+    "subtitle": "Maurice Sendak's Designs for Opera and Ballet",
     "isbn10": "3791358553",
     "isbn13": "9783791358550",
     "external": "https://www.goodreads.com/book/show/46000560-drawing-the-curtain"
@@ -4655,7 +5040,8 @@
     "external": "https://www.goodreads.com/book/show/53288045-edward-weston"
   },
   {
-    "title": "Egon Schiele Masterpieces of Art",
+    "title": "Egon Schiele",
+    "series": "Masterpieces of Art",
     "isbn10": "1786640287",
     "isbn13": "9781786640284",
     "external": "https://www.goodreads.com/book/show/30280541-egon-schiele-masterpieces-of-art"
@@ -4715,7 +5101,8 @@
     "external": "https://www.goodreads.com/book/show/4880381-expressions-of-place"
   },
   {
-    "title": "Eye to Eye: Portraits of Lesbians",
+    "title": "Eye to Eye",
+    "subtitle": "Portraits of Lesbians",
     "isbn10": "1944860371",
     "isbn13": "9781944860370",
     "external": "https://www.goodreads.com/book/show/56765700-eye-to-eye"
@@ -4854,11 +5241,10 @@
     "title": "French Posters"
   },
   {
-    "title": "From Nudity To Raiment",
-    "subtitle": "An Introduction To The Study Of Costume",
-    "isbn10": "087968156X",
-    "isbn13": "9780879681562",
-    "external": "https://www.goodreads.com/book/show/3457563-from-nudity-to-raiment"
+    "title": "An Introduction to the Study of Costume",
+    "subtitle": "From Nudity to Raiment",
+    "lccn": "30007263",
+    "external": "https://lccn.loc.gov/30007263"
   },
   {
     "title": "Fruit Cake",
@@ -4894,7 +5280,7 @@
     "external": "https://www.goodreads.com/book/show/10043089-v-pattern"
   },
   {
-    "title": "Garden Gates And Arches",
+    "title": "Garden Gates and Arches",
     "series": "For Your Garden",
     "isbn10": "1567999247",
     "isbn13": "9781567999242",
@@ -4926,11 +5312,8 @@
     "external": "https://www.goodreads.com/book/show/22521573-getting-things-done"
   },
   {
-    "title": "Giuoco Di Carte",
-    "subtitle": "Con nuova forma di Tarocchini",
-    "lccn": "74212420",
-    "external": "https://www.loc.gov/item/74212420/",
-    "note": "Prefatory remarks in German; hand bound, 73/150"
+    "title": "Bologneser Tarockspiel des 17. Jahrhunderts",
+    "note": "German reprint of Italian copper carvings, 'Giuoco di carte con nuoua forma di Tarocchini'. German title translate to 'Bolognese tarot game of the 17th century'. Print 73/150"
   },
   {
     "title": "Glass Houses",
@@ -5004,10 +5387,11 @@
     "external": "https://www.jamesreadsmerch.com/products/green-glyphs-lenormand-first-edition"
   },
   {
-    "title": "Große Bürgerbauten deutscher Vergangenheit"
+    "title": "Große Bürgerbauten deutscher Vergangenheit",
+    "note": "Book text in German, title translates to 'Large civic buildings from Germany's past'"
   },
   {
-    "title": "Guide to Raising Chickens",
+    "title": "Storey's Guide to Raising Chickens",
     "subtitle": "Care, Feeding, Facilities",
     "series": "Storey Guide to Raising",
     "isbn10": "1603424695",
@@ -5155,14 +5539,14 @@
     "external": "https://www.goodreads.com/book/show/35801274-how-not-to-kill-yourself"
   },
   {
-    "title": "How to Raise a Plant and Make it Love You Back",
+    "title": "How to Raise a Plant and Make It Love You Back",
     "isbn10": "1786273020",
     "isbn13": "9781786273024",
     "external": "https://www.goodreads.com/book/show/38743224-how-to-raise-a-plant-and-make-it-love-you-back"
   },
   {
     "title": "How to Read a Suit",
-    "subtitle": "A Guide to Changing Men’s Fashion from the 17th to the 20th Century",
+    "subtitle": "A Guide to Changing Men's Fashion from the 17th to the 20th Century",
     "isbn10": "135007120X",
     "isbn13": "9781350071209",
     "external": "https://www.goodreads.com/book/show/45457426-how-to-read-a-suit"
@@ -5193,7 +5577,7 @@
   },
   {
     "title": "Howard Pyle",
-    "subtitle": "Writer, Illustrator, Founder Of The Brandywine School",
+    "subtitle": "Writer, Illustrator, Founder of the Brandywine School",
     "isbn10": "0517516659",
     "isbn13": "9780517516652",
     "external": "https://www.goodreads.com/book/show/30330957-howard-pyle"
@@ -5231,7 +5615,7 @@
     "external": "https://www.goodreads.com/book/show/9108773-infinite-city"
   },
   {
-    "title": "Interactions of Color",
+    "title": "Interaction of Color",
     "isbn10": "0300179359",
     "isbn13": "9780300179354",
     "external": "https://www.goodreads.com/book/show/16073227-interaction-of-color"
@@ -5677,7 +6061,8 @@
     "title": "Natural Dyes in the United States"
   },
   {
-    "title": "Natural Fashion: Tribal Decoration from Africa",
+    "title": "Natural Fashion",
+    "subtitle": "Tribal Decoration from Africa",
     "isbn10": "0500288054",
     "isbn13": "9780500288054",
     "external": "https://www.goodreads.com/book/show/6155647-natural-fashion"
@@ -5760,7 +6145,7 @@
   },
   {
     "title": "Norway",
-    "subtitle": "Home Of The Trolls",
+    "subtitle": "Home of the Trolls",
     "isbn10": "8290988028",
     "isbn13": "9788290988024",
     "external": "https://www.goodreads.com/book/show/2119042.Norway_Home_Of_The_Trolls"
@@ -5773,7 +6158,7 @@
   },
   {
     "title": "Ojime",
-    "subtitle": "The Magical Jewels Of Japan",
+    "subtitle": "The Magical Jewels of Japan",
     "isbn10": "0810924714",
     "isbn13": "9780810924710",
     "external": "https://www.goodreads.com/book/show/3961693-ojime"
@@ -5868,17 +6253,19 @@
     "external": "https://www.goodreads.com/book/show/43984470-pattern-in-painting"
   },
   {
-    "title": "Patterns In Nature",
+    "title": "Patterns in Nature",
     "isbn10": "0316813311",
     "isbn13": "9780316813310",
-    "external": "https://www.goodreads.com/book/show/2956523-patterns-in-nature"
+    "external": "https://www.goodreads.com/book/show/2956523-patterns-in-nature",
+    "disambiguation": "Patterns in Nature (9780316813310)"
   },
   {
     "title": "Patterns in Nature",
     "subtitle": "Why the Natural World Looks the Way It Does",
     "isbn10": "022633242X",
     "isbn13": "9780226332420",
-    "external": "https://www.goodreads.com/book/show/26240445-patterns-in-nature"
+    "external": "https://www.goodreads.com/book/show/26240445-patterns-in-nature",
+    "disambiguation": "Patterns in Nature (9780226332420)"
   },
   {
     "title": "Patterns that Connect",
@@ -5895,10 +6282,10 @@
     "external": "https://www.goodreads.com/book/show/800156.Paul_Cadmus"
   },
   {
-    "title": "Peasant Costume in Europe: Book I"
+    "title": "Peasant Costume in Europe, Book I"
   },
   {
-    "title": "Peasant Costume in Europe: Book II"
+    "title": "Peasant Costume in Europe, Book II"
   },
   {
     "title": "People I've Met from the Internet",
@@ -5962,7 +6349,7 @@
     "external": "https://www.goodreads.com/book/show/207448.Pond_Life"
   },
   {
-    "title": "Power of Limits",
+    "title": "The Power of Limits",
     "subtitle": "Proportional Harmonies in Nature, Art & Architecture",
     "isbn10": "0394735803",
     "isbn13": "9780394735801",
@@ -6087,7 +6474,7 @@
   },
   {
     "title": "Rugs",
-    "subtitle": "Oriental & Occidental",
+    "subtitle": "Oriental & Occidental, Antique & Modern",
     "external": "https://www.goodreads.com/book/show/59017378-rugs"
   },
   {
@@ -6153,7 +6540,7 @@
   },
   {
     "title": "Scat & Tracks of North America",
-    "subtitle": "A Field Guide To The Signs Of Nearly 150 Wildlife Species",
+    "subtitle": "A Field Guide To The Signs of Nearly 150 Wildlife Species",
     "isbn10": "1493043021",
     "isbn13": "9781493043026",
     "external": "https://www.goodreads.com/book/show/46637548-scats-and-tracks-of-north-america"
@@ -6237,7 +6624,7 @@
     "external": "https://lccn.loc.gov/59017801"
   },
   {
-    "title": "Sleeping Beauty",
+    "title": "The Sleeping Beauty",
     "subtitle": "Illustrated by Arthur Rackham",
     "isbn10": "1851520562",
     "isbn13": "9781851520565",
@@ -6276,7 +6663,7 @@
     "isbn13": "9784874391082"
   },
   {
-    "title": "Stage Design Properties",
+    "title": "Stage Design and Properties",
     "series": "Phaidon Theater Manuals",
     "isbn10": "0714825158",
     "isbn13": "9780714825151",
@@ -6595,7 +6982,7 @@
     "external": "https://www.goodreads.com/book/show/515601.The_C_Programming_Language"
   },
   {
-    "title": "The Changing World Of Mongolia's Nomads",
+    "title": "The Changing World of Mongolia's Nomads",
     "isbn10": "0520085515",
     "isbn13": "9780520085510",
     "external": "https://www.goodreads.com/book/show/1287059.The_Changing_World_of_Mongolia_s_Nomads"
@@ -6819,8 +7206,8 @@
     "external": "https://www.goodreads.com/book/show/31425227-the-illustrated-book-of-edible-plants"
   },
   {
-    "title": "The Illustrated History of Weaponry",
-    "subtitle": "From Flint Axes to Automatic Weapons",
+    "title": "Weaponry",
+    "subtitle": "An Illustrated History",
     "isbn10": "1592581277",
     "isbn13": "9781592581276",
     "external": "https://www.goodreads.com/book/show/1912258.The_Illustrated_History_of_Weaponry"
@@ -6838,7 +7225,7 @@
     "external": "https://www.goodreads.com/book/show/11224019-the-invention-of-the-western-garden"
   },
   {
-    "title": "The Journal Of Etienne Mercier",
+    "title": "The Journal of Etienne Mercier",
     "subtitle": "Queen Charlotte Islands, 1853",
     "isbn10": "1551431289",
     "isbn13": "9781551431284",
@@ -6866,7 +7253,7 @@
     "external": "https://www.goodreads.com/book/show/54319922-the-lavender-palette"
   },
   {
-    "title": "The Law's Guide to Nature Drawing and Journaling",
+    "title": "The Laws Guide to Nature Drawing and Journaling",
     "isbn10": "1597143154",
     "isbn13": "9781597143158",
     "external": "https://www.goodreads.com/book/show/27791380-laws-guide-to-nature-drawing-and-journaling"
@@ -6884,7 +7271,8 @@
     "external": "https://www.goodreads.com/book/show/38741074-the-little-guide-to-bugs"
   },
   {
-    "title": "The Little Guides: Space",
+    "title": "Space",
+    "series": "The Little Guides",
     "isbn10": "0705433056",
     "isbn13": "9780705433051",
     "external": "https://www.goodreads.com/book/show/41555774-the-little-guides"
@@ -6894,7 +7282,7 @@
   },
   {
     "title": "The Living Tradition of Yup'ik Masks",
-    "subtitle": "Agayuliyararput: Our Way of Making Prayer",
+    "subtitle": "Agayuliyararput, Our Way of Making Prayer",
     "isbn10": "0295975016",
     "isbn13": "9780295975016",
     "external": "https://www.goodreads.com/book/show/1068604.The_Living_Tradition_of_Yup_ik_Masks"
@@ -6994,7 +7382,7 @@
     "external": "https://www.goodreads.com/book/show/58142160-the-pebble-spotter-s-guide"
   },
   {
-    "title": "The Peopels of the Great North",
+    "title": "The Peoples of the Great North",
     "isbn10": "1859954790",
     "isbn13": "9781859954799",
     "external": "https://www.goodreads.com/book/show/4339751-the-peoples-of-the-great-north"
@@ -7238,7 +7626,7 @@
     "external": "https://www.goodreads.com/book/show/39102657-the-world-encyclopedia-of-calligraphy"
   },
   {
-    "title": "The World Of M.C. Escher",
+    "title": "The World of M.C. Escher",
     "isbn10": "0810901072",
     "isbn13": "9780810901070",
     "external": "https://www.goodreads.com/book/show/1038389.The_World_Of_M_C_Escher"
@@ -7298,7 +7686,7 @@
     "external": "https://www.goodreads.com/book/show/1417616.Traditional_Houses_Of_Rural_Spain"
   },
   {
-    "title": "Treasures Of Disney Animation Art",
+    "title": "Treasures of Disney Animation Art",
     "isbn10": "0896595811",
     "isbn13": "9780896595811",
     "external": "https://www.goodreads.com/book/show/1337335.Treasures_Of_Disney_Animation_Art"
@@ -7389,8 +7777,9 @@
     "title": "Visual Explanations"
   },
   {
-    "title": "Waking up to landscape",
-    "external": "https://www.worldcat.org/title/waking-up-to-landscape/oclc/39935431"
+    "title": "Awakening to Landscape",
+    "external": "https://www.worldcat.org/title/waking-up-to-landscape/oclc/39935431",
+    "note": "The outer cover says 'Awakening to Landscape' but the inner cover says 'Waking up to landscape'"
   },
   {
     "title": "Water",
@@ -7415,7 +7804,7 @@
     "external": "https://www.goodreads.com/book/show/1887831.Water_and_Architecture"
   },
   {
-    "title": "Water Garden",
+    "title": "The Water Garden",
     "subtitle": "Styles, Designs and Visions",
     "isbn10": "0500015716",
     "isbn13": "9780500015711",

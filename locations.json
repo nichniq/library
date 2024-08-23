@@ -1,5 +1,38 @@
 [
   {
+    "id": "swale",
+    "name": "Swale",
+    "address": "125 E Main St, Palouse, WA 99161",
+    "type": "other",
+    "note": "Art and gift store with a few books"
+  },
+  {
+    "id": "myopic",
+    "name": "Myopic Books",
+    "address": "1564 N Milwaukee Ave, Chicago, IL 60622",
+    "type": "bookstore"
+  },
+  {
+    "id": "late_night_vintage",
+    "name": "Late Night Vintage Market",
+    "address": "517 E Pike St, Seattle, WA 98122",
+    "type": "other",
+    "note": "Consignment store, mostly clothes with a small book section"
+  },
+  {
+    "id": "one_world_cafe",
+    "name": "One World Cafe",
+    "address": "533 S Main St, Moscow, ID 83843",
+    "type": "other",
+    "note": "Moscow coffee shop with a little used book shelf next to the bathroom"
+  },
+  {
+    "id": "yes_books",
+    "name": "Yes Books",
+    "address": "589 Congress St, Portland, ME 04101",
+    "type": "bookstore"
+  },
+  {
     "id": "pegasus_berkeley",
     "name": "Pegasus Books",
     "address": "2349 Shattuck Ave., Berkeley, CA 94704",
