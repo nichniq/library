@@ -1,5 +1,37 @@
 [
   {
+    "title": "The World Atlas of Rivers, Estuaries, and Deltas",
+    "isbn10": "0691244839",
+    "isbn13": "9780691244839",
+    "external": "https://www.goodreads.com/book/show/195401447-the-world-atlas-of-rivers-estuaries-and-deltas"
+  },
+  {
+    "title": "John Singer Sargent",
+    "isbn10": "0896600149",
+    "isbn13": "9780896600140",
+    "external": "https://www.goodreads.com/book/show/1298622.John_Singer_Sargent"
+  },
+  {
+    "title": "Labyrinths & Mazes",
+    "subtitle": "A Complete Guide to Magical Paths of the World",
+    "isbn10": "1579905390",
+    "isbn13": "9781579905392",
+    "external": "https://www.goodreads.com/book/show/55477.Labyrinths_Mazes"
+  },
+  {
+    "title": "Early California Costumes, 1769-1850",
+    "subtitle": "And Historic Flags of California",
+    "lccn": "49003332",
+    "external": "https://lccn.loc.gov/49003332"
+  },
+  {
+    "title": "Sufi",
+    "subtitle": "Expressions of the Mystic Quest",
+    "isbn10": "050081015X",
+    "isbn13": "9780500810156",
+    "external": "https://www.goodreads.com/book/show/271392.Sufi"
+  },
+  {
     "title": "The Ark",
     "isbn10": "039543078X",
     "isbn13": "9780395430781",
@@ -6810,7 +6842,7 @@
     "external": "https://www.goodreads.com/book/show/35959996-terrarium"
   },
   {
-    "title": "Textiiles",
+    "title": "Textiles",
     "subtitle": "Art of Mankind",
     "isbn10": "0500516456",
     "isbn13": "9780500516454",

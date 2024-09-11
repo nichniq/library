@@ -1,9 +1,23 @@
 [
   {
     "type": "purchased",
+    "location": "powells",
+    "date": "September 7, 2024",
+    "books": [
+      "The World Atlas of Rivers, Estuaries, and Deltas",
+      "John Singer Sargent",
+      "Labyrinths & Mazes",
+      "Early California Costumes, 1769-1850",
+      "Sufi"
+    ],
+    "cost": "$150.80",
+    "note": "Included a The Palace of Forty Pillars, $16.95, for Jefferson and a $6 card"
+  },
+  {
+    "type": "purchased",
     "location": "brused_books",
     "date": "August 22, 2024",
-    "books":   [
+    "books": [
       "The Ark",
       "Art of the Basket",
       "Tarahumara",
