@@ -1,5 +1,110 @@
 [
   {
+    "title": "Children's Book Illustration and Design",
+    "isbn10": "0866361472",
+    "isbn13": "9780866361477",
+    "external": "https://www.goodreads.com/book/show/4906223-children-s-book-illustration-and-design"
+  },
+  {
+    "title": "The Male Nude",
+    "subtitle": "A Modern View",
+    "isbn10": "0847805816",
+    "isbn13": "9780847805815",
+    "external": "https://www.goodreads.com/book/show/4044906-the-male-nude"
+  },
+  {
+    "title": "John Singer Sargent",
+    "isbn10": "069100434X",
+    "isbn13": "9780691004341",
+    "external": "https://www.goodreads.com/book/show/1165147.John_Singer_Sargent"
+  },
+  {
+    "title": "A Brush with Hong Kong",
+    "isbn10": "9622170943",
+    "isbn13": "9789622170940",
+    "external": "https://www.goodreads.com/book/show/60995541-a-brush-with-hong-kong"
+  },
+  {
+    "title": "Nocturne",
+    "subtitle": "Night in American Art, 1890–1917",
+    "isbn10": "0300223994",
+    "isbn13": "9780300223996",
+    "external": "https://www.goodreads.com/book/show/36288014-nocturne"
+  },
+  {
+    "title": "What Life Was Like in the Lands of the Prophet",
+    "subtitle": "Islamic World, AD 570-1405",
+    "series": "What Life Was Like",
+    "isbn10": "0783554656",
+    "isbn13": "9780783554655",
+    "external": "https://www.goodreads.com/book/show/340672.What_Life_Was_Like_in_the_Lands_of_the_Prophet"
+  },
+  {
+    "title": "Lighthouse",
+    "subtitle": "An Illuminating History of the World's Coastal Sentinels",
+    "isbn10": "0316414476",
+    "isbn13": "9780316414470",
+    "external": "https://www.goodreads.com/book/show/15161437-old-time-crafts-and-trades"
+  },
+  {
+    "title": "Dale DeArmond",
+    "subtitle": "A First Book Collection of Her Prints",
+    "isbn10": "0882401319Ω",
+    "isbn13": "9780882401317",
+    "external": "https://www.goodreads.com/book/show/4857715-dale-dearmond"
+  },
+  {
+    "title": "Old-Time Crafts and Trades",
+    "isbn10": "0486273989",
+    "isbn13": "9780486273983",
+    "external": "https://www.goodreads.com/book/show/15161437-old-time-crafts-and-trades"
+  },
+  {
+    "title": "Roumanian Peasant Art",
+    "isbn10": "0262600234",
+    "isbn13": "9780262600231",
+    "external": "https://www.goodreads.com/book/show/136057665-roumanian-romanian-peasant-art"
+  },
+  {
+    "title": "Great Streets",
+    "isbn10": "0262600234",
+    "isbn13": "9780262600231",
+    "external": "https://www.goodreads.com/book/show/175874.Great_Streets"
+  },
+  {
+    "title": "Simple Printmaking",
+    "subtitle": "A Beginner's Guide to Making Relief Prints",
+    "isbn10": "1579901581",
+    "isbn13": "9781579901585",
+    "external": "https://www.goodreads.com/book/show/374602.Simple_Printmaking"
+  },
+  {
+    "title": "Clown Paintings",
+    "isbn10": "1576871487",
+    "isbn13": "9781576871485",
+    "external": "https://www.goodreads.com/book/show/551093.Clown_Paintings"
+  },
+  {
+    "title": "The Watercolorist's Essential Notebook",
+    "isbn10": "0891349464",
+    "isbn13": "9780891349464",
+    "external": "https://www.goodreads.com/book/show/24102.The_Watercolorist_s_Essential_Notebook"
+  },
+  {
+    "title": "Plants and Fungi",
+    "subtitle": "The Definitive Visual Encyclopedia",
+    "isbn10": "0593844076",
+    "isbn13": "9780593844076",
+    "external": "https://www.goodreads.com/book/show/203164620-plants-and-fungi"
+  },
+  {
+    "title": "Norman Rockwell",
+    "subtitle": "332 Magazine Covers",
+    "isbn10": "0896600580",
+    "isbn13": "9780896600584",
+    "external": "https://www.goodreads.com/book/show/2381696.332_Magazine_Covers"
+  },
+  {
     "title": "The World Atlas of Rivers, Estuaries, and Deltas",
     "isbn10": "0691244839",
     "isbn13": "9780691244839",

@@ -1,6 +1,72 @@
 [
   {
     "type": "purchased",
+    "location": "brused_books",
+    "date": "March 15, 2025",
+    "books": [
+      "Children's Book Illustration and Design",
+      "The Male Nude",
+      "John Singer Sargent",
+      "A Brush with Hong Kong",
+      "Nocturne",
+      "What Life Was Like in the Lands of the Prophet",
+      "Lighthouse",
+      "Dale DeArmond"
+    ],
+    "cost": "$185.98",
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "January 25, 2025",
+    "books": [
+      "Old-Time Crafts and Trades",
+      "Roumanian Peasant Art"
+    ],
+    "cost": "$36.72",
+    "note": "Also bought: Two Bad Ants, Moon Rope, and I think one more"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "December 17, 2024",
+    "books": [
+      "Great Streets",
+      "Simple Printmaking",
+      "Clown Paintings"
+    ],
+    "cost": "$25.90",
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "November 18, 2024",
+    "books": [
+      "The Watercolorist's Essential Notebook"
+    ],
+    "cost": "$11.87",
+    "note": "I also bought New Worlds from Old, which I didn't realize I already owned, and a book about parables"
+  },
+  {
+    "type": "given",
+    "giver": "Maria",
+    "date": "October 13, 2024",
+    "books": [
+      "Plants and Fungi"
+    ],
+    "note": "Birthday present from Maria during a visit to Seattle. They get a discount on books from work, and I asked them to get this one planning to pay them back, but they said it was a bday present"
+  },
+  {
+    "type": "given",
+    "giver": "Jefferson Ramsey",
+    "date": "October 9, 2024",
+    "books": [
+      "Norman Rockwell"
+    ],
+    "note": "Birthday present from Jefferson"
+  },
+  {
+    "type": "purchased",
     "location": "powells",
     "date": "September 7, 2024",
     "books": [
