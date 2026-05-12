@@ -1,0 +1,4302 @@
+[
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "May 6, 2026",
+    "books": [
+      "Pre-Rafaelite, Symbolist, Visionary"
+    ],
+    "cost": "$27.00",
+    "note": "$20 on AbeBooks, saw at Twice Sold Tales 5/4 but I think it was being sold for like $40 and I wasn't sure if it was going to be redundant"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "May 6, 2026",
+    "books": [
+      "Feed the Planet",
+      "Wild Ocean"
+    ],
+    "cost": "$63.04",
+    "note": "Saw both at Third Place Books at full price, wanted to get them cheaper (Feed the Planet $9.75, Wild Ocean $48.62)"
+  },
+  {
+    "type": "purchased",
+    "location": "elliott_bay_book_co",
+    "date": "May 5, 2026",
+    "books": [
+      "Falkland Road"
+    ],
+    "cost": "$75.17",
+    "note": "Saw in-store 5/3 at full price ($80) with some scuffs on the cover, too steep for the moment. Called them later and asked to buy it discounted because of the scuffs, they gave me a 15% off"
+  },
+  {
+    "type": "purchased",
+    "location": "twice_sold_tales",
+    "date": "May 4, 2026",
+    "books": [
+      "A Pattern Language",
+      "Optical Illusions",
+      "Early Days",
+      "Man and His Symbols",
+      "The Temple",
+      "Herbs",
+      "The Art of Dean Cornwell",
+      "Sarawak",
+      "The Painted Ladies Revisited",
+      "Juan Rulfo's Mexico",
+      "The History of Architecture in India",
+      "Amazing Everything"
+    ],
+    "cost": "$509.63"
+  },
+  {
+    "type": "given",
+    "giver": "McKenzie Adkins",
+    "date": "May 3, 2022",
+    "books": [
+      "Landscape Graphics"
+    ],
+    "note": "He had two editions and gifted me one"
+  },
+  {
+    "type": "purchased",
+    "location": "third_place_books_ravenna",
+    "date": "May 3, 2026",
+    "books": [
+      "Hopi Kachinas"
+    ],
+    "cost": "$4.40"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "April 23, 2026",
+    "books": [
+      "Fantastic Forts"
+    ],
+    "cost": "$30.24",
+    "note": "Purchased this book and a few children's books"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "April 13, 2026",
+    "books": [
+      "Montserrat",
+      "Sketches of Korea",
+      "The Art of Warcraft",
+      "Photography and the Old West",
+      "The State We're in",
+      "Exploring Washington's Smaller Cities",
+      "Washington for the Curious",
+      "Pindus",
+      "Sepik Diary",
+      "Extraction",
+      "A Dark History",
+      "Keeping a Nature Journal",
+      "British Hills and Mountains",
+      "The Peloponnese",
+      "Stalking the Wild Asparagus"
+    ],
+    "cost": "$140.40",
+    "note": "Probably got some kids books too",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Keeping a Nature Journal']"
+  },
+  {
+    "type": "purchased",
+    "location": "bookpeople",
+    "date": "April 11, 2026",
+    "books": [
+      "Hiking Hot Springs in the Pacific Northwest"
+    ],
+    "cost": "$86.86",
+    "note": "This book plus two kids books"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "March 26, 2026",
+    "books": [
+      "Highrises"
+    ],
+    "cost": "$105",
+    "note": "Self-published book, purchased from artist hythacg.com, $100 plus shipping. Instagram find"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 26, 2026",
+    "books": [
+      "Memory",
+      "Black Africa Masks Sculpture Jewelry",
+      "John Singer Sargent: The Sensualist",
+      "Beatrix Potter's Art",
+      "Wilderness Kingdom"
+    ],
+    "cost": "$66.42"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "March 18, 2026",
+    "books": [
+      "Le Pater"
+    ],
+    "cost": "$189.47",
+    "note": "Ordered from Century Guild online, $179.00 plus shipping. Instagram find"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 14, 2026",
+    "books": [
+      "Tales of a Tent",
+      "Native American Ethnobotany"
+    ],
+    "cost": "$39.96",
+    "note": "I saw the ethnobotany in an unpriced stack and asked them to give me a call when it was priced"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "March 12, 2026",
+    "books": [
+      "Frank Lloyd Wright"
+    ],
+    "cost": "$49.33",
+    "note": "Saw this book at Hello Everything but the spine was damaged so I was waiting for it to go down in price. When I returned, it was already sold so I bought it here"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 9, 2026",
+    "books": [],
+    "cost": "$16.12",
+    "note": "I have no idea what was purchased in this txn (TODO)"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 6, 2026",
+    "books": [
+      "Creation Myths",
+      "A Street Through Time",
+      "Northwest Drylands"
+    ],
+    "cost": "$20.52"
+  },
+  {
+    "type": "purchased",
+    "location": "friends_of_moscow",
+    "date": "March 6, 2026",
+    "books": [
+      "Earth Spirit",
+      "Discovering Northwest Volcanoes",
+      "Time in Astronomy",
+      "Painted Ladies",
+      "Storehouses of Time",
+      "The National Trust Book of the Farm",
+      "James Herriot's Yorkshire",
+      "American Horticultural Society Pruning and Training",
+      "Drawing from Nature",
+      "Into the Wilderness"
+    ],
+    "cost": "21.00",
+    "note": "Spring sale; children soft $0.50 (2) and hard $1 (2); adult soft $1 (4) and hard $3 (5)"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "February 20, 2026",
+    "books": [
+      "Picturing the Americas",
+      "Charles Simonds",
+      "Storm Cloud",
+      "Cut and Fold Techniques for Promotional Materials",
+      "The Fortune Tellers",
+      "Jose Maria Velasco",
+      "The Chicago World's Fair of 1893",
+      "Sacred Places",
+      "Symbolorum",
+      "Urban Forager",
+      "Urban Forager",
+      "Experiences in Visual Thinking",
+      "The Missions of New Mexico, 1776"
+    ],
+    "cost": "$274.18"
+  },
+  {
+    "type": "purchased",
+    "location": "arundel",
+    "date": "February 3, 2026",
+    "books": [
+      "Thomas Cole"
+    ],
+    "cost": "$33.10",
+    "note": "Wasn't sure if I already had a book of this artist, so I ordered it over the phone after I came home and checked"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "January 29, 2026",
+    "books": [
+      "Minn of the Mississippi",
+      "Magic Symbols of the World",
+      "The Northern World",
+      "Washington Mountain Ranges",
+      "Images of the Land",
+      "Backyard Structures",
+      "Sahel"
+    ],
+    "cost": "$81.54"
+  },
+  {
+    "type": "purchased",
+    "location": "hello_everything",
+    "date": "January 27, 2026",
+    "books": [
+      "Washington State Place Names"
+    ],
+    "note": "Entire purchase was $335.86 but that included fancy lamps"
+  },
+  {
+    "type": "purchased",
+    "location": "last_word_books",
+    "date": "December 27, 2025",
+    "books": [
+      "Rose Windows",
+      "American Ruins",
+      "Galdrastafir"
+    ],
+    "cost": "$65.88"
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "December 27, 2025",
+    "books": [
+      "Forever Sky",
+      "An American Vision",
+      "Salmon, Cedar, Rock & Rain",
+      "Treasures of Gilcrease"
+    ],
+    "cost": "$81.56"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "December 22, 2025",
+    "books": [
+      "The Man Behind The Maps"
+    ],
+    "cost": "$151.15",
+    "note": "$125 + $15 shipping, $9 WA tax, $2 Pullman tax (?!). Instagram find"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "December 21, 2025",
+    "books": [
+      "Jugendstil 1896"
+    ],
+    "cost": "$104.97",
+    "note": "Purchased online from Century Guild, $99. Instagram find"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "December 21, 2025",
+    "books": [
+      "Jugendstil 1896"
+    ],
+    "cost": "$104.97",
+    "note": "Purchased online from Century Guild, $99. Instagram find"
+  },
+  {
+    "type": "given",
+    "giver": "Robert Cassleman",
+    "books": [
+      "Japan Modern"
+    ],
+    "note": "Dad bought me this book on his river cruise with Mom; TODO get approx date"
+  },
+  {
+    "type": "purchased",
+    "location": "friends_of_moscow",
+    "date": "December 13, 2025",
+    "books": [
+      "Journey into China",
+      "The Olympic Peninsula",
+      "Homes in the Earth"
+    ],
+    "cost": "$5.00",
+    "note": "From the 1912 Center room"
+  },
+  {
+    "type": "purchased",
+    "location": "arundel",
+    "date": "December 5, 2025",
+    "books": [
+      "Charms, Amulets, Talismans & Spells",
+      "Amber",
+      "Traveler Artists",
+      "Arthur Rackham",
+      "William Blake",
+      "Hayao Miyazaki",
+      "Etched in Sunlight",
+      "Hand Bookbinding"
+    ],
+    "cost": "$273.56",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Arthur Rackham']"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "November 6, 2025",
+    "books": [
+      "Fruit",
+      "The Lore of Love",
+      "Monuments of the Incas",
+      "Things Maps Don't Tell Us"
+    ],
+    "cost": "$48.02"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "November 1, 2025",
+    "books": [
+      "Nature's Garden",
+      "Wild Places",
+      "Thermal",
+      "Subterranea",
+      "Doves and Dovecotes",
+      "The Magic City",
+      "Near East to Far West",
+      "Lost Cities"
+    ],
+    "cost": "$307.66"
+  },
+  {
+    "type": "given",
+    "giver": "McKenzie Adkins",
+    "date": "October 30, 2025",
+    "books": [],
+    "note": "McKenzie sent me some zines he had helped produce. TODO"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "October 9, 2025",
+    "books": [
+      "Swords and Hilt Weapons"
+    ],
+    "cost": "$9.72"
+  },
+  {
+    "type": "purchased",
+    "location": "third_place_books_steward_park",
+    "date": "October 6, 2025",
+    "books": [
+      "Andean Patagonia",
+      "Modernist Cuisine at Home",
+      "Tales of Mystery and Imagination"
+    ],
+    "cost": "$100.00",
+    "note": "Maria used their employee discount and I paid them back"
+  },
+  {
+    "type": "purchased",
+    "location": "spectator_books",
+    "date": "October 5, 2025",
+    "books": [
+      "Indigenous Tattoo Traditions"
+    ],
+    "cost": "$48.12",
+    "note": "Also bought a book for Nick Pasta's kid"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "October 4, 2025",
+    "books": [
+      "A Hidden Love",
+      "My Buddy",
+      "Shamans",
+      "Art of the Grimoire",
+      "California"
+    ],
+    "cost": "$272.65"
+  },
+  {
+    "type": "purchased",
+    "location": "friends_of_moscow",
+    "date": "September 19, 2025",
+    "books": [
+      "Pruning Simplified",
+      "A Treasury of American Scrimshaw",
+      "Edible Landscaping",
+      "Color Choices",
+      "Folk Costumes of the World",
+      "The Seven Mysteries of Life",
+      "Ventriloquism",
+      "The Group of Seven and Tom Thomson",
+      "Art from Many Hands",
+      "Islands",
+      "American Realism",
+      "Wonders of the African World",
+      "Connections",
+      "Eric Sloane's Weather Book",
+      "America's Painted Ladies",
+      "Thread of Life",
+      "Tribal Art",
+      "Back Roads of California",
+      "The First Horsemen",
+      "The Elements of Lettering"
+    ],
+    "cost": "Actually two transactions: $68.25 + $17.00; also included LPs and children's books"
+  },
+  {
+    "type": "purchased",
+    "location": "packwood",
+    "date": "August 30, 2025",
+    "books": [
+      "India"
+    ],
+    "note": "Purchased from a vendor at the Packwood market, forgot to record the price"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
+    "date": "August 21, 2025",
+    "books": [
+      "The Book"
+    ],
+    "cost": "$128.53",
+    "note": "Purchased online from publisher Hungry Minds, $119.00. Instagram find"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 14, 2025",
+    "books": [
+      "The Diamond Path",
+      "Sagas of the Norsemen",
+      "Titans and Olympians",
+      "Realm of the Rising Sun",
+      "Epics of Early Civilization",
+      "Art, History, Place",
+      "Lure of the West",
+      "Diary of an Early American Boy",
+      "Dinotopia",
+      "The Dinosaurs",
+      "Kinsey Photographer"
+    ],
+    "cost": "$92.34"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "July 17, 2025",
+    "books": [
+      "The Way to Eternity",
+      "Legends of Chivalry",
+      "Forests of the Vampires",
+      "Mother Earth, Father Sky",
+      "Wise Lord of the Sky",
+      "Lost Realms of Gold",
+      "Journeys Through Dreamtime",
+      "Triumph of the Hero",
+      "Land of the Dragon"
+    ],
+    "cost": "$48.60"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "August 26, 2025",
+    "books": [
+      "Godfather Death",
+      "The Complete Book of the Flower Fairies",
+      "Imps, Demons, Hobgoblins, Witches, Fairies & Elves",
+      "How to Make Hand-Drawn Maps",
+      "The Discovery of Dragons",
+      "Peoples of the Plateau",
+      "The Living Forest",
+      "Image and Exploration",
+      "Golden Treasury of Myths and Legends",
+      "Inspired by Nature",
+      "Fairie-ality",
+      "Mariposas Nocturnas"
+    ],
+    "cost": "$275.62"
+  },
+  {
+    "type": "purchased",
+    "location": "well_read_moose",
+    "date": "July 14, 2025",
+    "books": [
+      "Big River",
+      "Superbloom"
+    ],
+    "cost": "$74.51"
+  },
+  {
+    "type": "gifted",
+    "giver": "Jessica Rock",
+    "date": "June 28, 2025",
+    "books": [
+      "Love in a F*cked-Up World",
+      "Bog Myrtle"
+    ],
+    "note": "Gifts when I visited Seattle for Pride"
+  },
+  {
+    "type": "gifted",
+    "giver": "Sofia",
+    "date": "June 19, 2025",
+    "books": [
+      "UNESCO Global Geoparks in Greece"
+    ],
+    "note": "I hit it off with Sofia at the Northern Pindos National Park Information Center and she gifted me this book"
+  },
+  {
+    "type": "purchased",
+    "location": "great_meteoron",
+    "date": "June 13, 2025",
+    "books": [
+      "Meteora"
+    ],
+    "note": "Purchased from a handsome vendor outside Great Meteoron, forgot to record how much"
+  },
+  {
+    "type": "gifted",
+    "giver": "Rui Hwang",
+    "date": "June 10, 2025",
+    "books": [
+      "百実帖"
+    ],
+    "note": "Gift from Rui when we arrived in Greece, purchased on her family trip to Japan"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "June 7, 2025",
+    "books": [
+      "Speak Italian",
+      "Lonely Planet Greece",
+      "Greek for Travellers"
+    ],
+    "cost": "16.20",
+    "note": "Bought some books about Greece the night before my trip"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "May 26, 2025",
+    "books": [
+      "Where the Great River Bends",
+      "Native American Architecture",
+      "The Mime Book",
+      "The Family Storytelling Handbook",
+      "Wood Motifs in American Domestic Architecture",
+      "Back Roads of Washington",
+      "Adventuring on the Columbia River",
+      "The Elements of Pop-Up"
+    ],
+    "cost": "97.74",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Back Roads of Washington']"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "May 12, 2025",
+    "books": [
+      "Edward Hopper",
+      "Dore's London",
+      "Primitive Art"
+    ],
+    "cost": "41.58",
+    "note": "I had a note 'brused books, not sure if this was a separate txn', possibly from May 26, 2025, possibly from my April 2025 txns",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Edward Hopper']"
+  },
+  {
+    "type": "purchased",
+    "location": "java_bloom",
+    "date": "May 3, 2025",
+    "books": [
+      "Narrow Gauge... Then and Now"
+    ],
+    "cost": "I'm not 100% about the date. I had a txn for $57.08 that day which would have included some other present I bought for folks"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "April 28, 2025",
+    "cost": "$16.20"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "April 26, 2025",
+    "cost": "$47.25"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "April 16, 2025",
+    "cost": "$5.40"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "April 2025",
+    "books": [
+      "Draw and Sketch Buildings",
+      "Illustrating Children's Books",
+      "A Pattern of Herbs",
+      "Discovering Corn Dollies",
+      "Outside Over There",
+      "Singing Grass, Burning Sage",
+      "Oceanic Art",
+      "Burning Time"
+    ],
+    "note": "I had a lapse in my record keeping and might have accidentally combined these between visits to Brused Books on April 16, 26, and 28, 2025"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "March 15, 2025",
+    "books": [
+      "Children's Book Illustration and Design",
+      "The Male Nude",
+      "John Singer Sargent (9780691004341)",
+      "A Brush with Hong Kong",
+      "Nocturne",
+      "What Life Was Like in the Lands of the Prophet",
+      "Lighthouse",
+      "Dale DeArmond"
+    ],
+    "cost": "$185.98"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "January 25, 2025",
+    "books": [
+      "Old-Time Crafts and Trades",
+      "Roumanian Peasant Art"
+    ],
+    "cost": "$36.72",
+    "note": "Also bought: Two Bad Ants, Moon Rope, and I think one more"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "December 17, 2024",
+    "books": [
+      "Great Streets",
+      "Simple Printmaking",
+      "Clown Paintings"
+    ],
+    "cost": "$25.90"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "November 18, 2024",
+    "books": [
+      "The Watercolorist's Essential Notebook"
+    ],
+    "cost": "$11.87",
+    "note": "I also bought New Worlds from Old, which I didn't realize I already owned, and a book about parables"
+  },
+  {
+    "type": "given",
+    "giver": "Maria",
+    "date": "October 13, 2024",
+    "books": [
+      "Plants and Fungi"
+    ],
+    "note": "Birthday present from Maria during a visit to Seattle. They get a discount on books from work, and I asked them to get this one planning to pay them back, but they said it was a bday present"
+  },
+  {
+    "type": "given",
+    "giver": "Jefferson Ramsey",
+    "date": "October 9, 2024",
+    "books": [
+      "Norman Rockwell"
+    ],
+    "note": "Birthday present from Jefferson"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "September 7, 2024",
+    "books": [
+      "The World Atlas of Rivers, Estuaries, and Deltas",
+      "John Singer Sargent (9780896600140)",
+      "Labyrinths & Mazes",
+      "Early California Costumes, 1769-1850",
+      "Sufi"
+    ],
+    "cost": "$150.80",
+    "note": "Included a The Palace of Forty Pillars, $16.95, for Jefferson and a $6 card",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Labyrinths & Mazes']"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 22, 2024",
+    "books": [
+      "The Ark",
+      "Art of the Basket",
+      "Tarahumara",
+      "Trouble with Trolls",
+      "Pyramid",
+      "The Something"
+    ],
+    "cost": "$43.70"
+  },
+  {
+    "type": "purchased",
+    "location": "bookpeople",
+    "date": "August 17, 2024",
+    "books": [
+      "The Lives of Lichens"
+    ],
+    "cost": "$37.10"
+  },
+  {
+    "type": "purchased",
+    "location": "swale",
+    "date": "August 8, 2024",
+    "books": [
+      "Little Witch Hazel"
+    ],
+    "note": "Book was new, back cover lists $20"
+  },
+  {
+    "type": "purchased",
+    "location": "myopic",
+    "date": "July 31, 2024",
+    "books": [
+      "The Dawn of Civilization",
+      "The Hudson River School",
+      "The Prints Of Richard Haas",
+      "Alaskan Eskimo Life in the 1890S as Sketched by Native Artists",
+      "Designing and Drawing for the Theatre"
+    ],
+    "cost": "$94.82"
+  },
+  {
+    "type": "given",
+    "giver": "Jessica Rock",
+    "date": "July 14, 2024",
+    "books": [
+      "How to Fight"
+    ],
+    "note": "Sam had recently given this to Jess, but I really liked it and it came at an important time for me, so she passed it on"
+  },
+  {
+    "type": "purchased",
+    "location": "late_night_vintage",
+    "date": "July 14, 2024",
+    "books": [
+      "The Nightwatchers"
+    ],
+    "cost": "$20",
+    "note": "Total txn was $100.33 but included non-book stuff; $20 cost doesn't include tax or consignment fee"
+  },
+  {
+    "type": "won",
+    "date": "July 3, 2024",
+    "books": [
+      "How to Talk So Kids Will Listen & Listen So Kids Will Talk"
+    ],
+    "note": "Won in a game of bingo at Jefferson's family reunion"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "June 22, 2024",
+    "books": [
+      "J.C. Leyendecker"
+    ],
+    "cost": "$39.91",
+    "note": "Purchased from my wishlist because Jefferson had stumbled across Leyendecker and it seemed like a great time to buy the book so I could lend it out"
+  },
+  {
+    "type": "purchased",
+    "date": "May 4, 2024",
+    "books": [
+      "Mammal Evolution"
+    ],
+    "cost": "$3.00",
+    "note": "Purchased from estate sale at the Werner's, 207 NW Sunrise Dr, Pullman"
+  },
+  {
+    "type": "purchased",
+    "date": "April 20, 2024",
+    "books": [
+      "The Art of Maurice Sendak"
+    ],
+    "cost": "$1.00",
+    "note": "Purchased from estate sale at 1310 SE Earthtone Ct, Pullman",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['The Art of Maurice Sendak']"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "April 18, 2024",
+    "books": [
+      "Nausicaä of the Valley of the Wind"
+    ],
+    "cost": "$79.83"
+  },
+  {
+    "type": "purchased",
+    "location": "one_world_cafe",
+    "date": "April 12, 2024",
+    "books": [
+      "Pullman"
+    ],
+    "cost": "$5.00"
+  },
+  {
+    "type": "purchased",
+    "location": "yes_books",
+    "date": "April 9, 2024",
+    "books": [
+      "A Treasury of the Great Children's Book Illustrators"
+    ],
+    "cost": "$16.27"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 30, 2024",
+    "books": [
+      "Old Houses in England",
+      "The Ultimate Sashiko Sourcebook",
+      "The Ship That Sailed to Mars",
+      "The Life-Changing Magic of Tidying Up"
+    ],
+    "cost": "$48.56"
+  },
+  {
+    "type": "purchased",
+    "location": "moes",
+    "date": "March 20, 2024",
+    "books": [
+      "Night Visions",
+      "Treasures of the American Arts and Crafts Movement, 1890-1920",
+      "Impossible Worlds",
+      "Tiffany",
+      "The Art of Maurice Sendak",
+      "Nature and Architecture",
+      "Wooden Houses",
+      "Romanesque",
+      "Ruler and Compass",
+      "The Lost Cities of the Mayas",
+      "Sacred Geometry",
+      "Freemasonry",
+      "Zen",
+      "Kabbalah",
+      "Egyptian Mysteries",
+      "The Visionary Art of Nicholas Roerich",
+      "The Romantic Vision of Caspar David Friedrich",
+      "The Arts & Crafts Movement in Europe & America",
+      "Essential Pre-Raphaelites",
+      "Chinese Bridges",
+      "Botanical Prints",
+      "Masterpieces of Faberge"
+    ],
+    "cost": "$502.80",
+    "note": "Big shopping spree during my first solo trip without Arty. Shipping was a whopping $60",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['The Art of Maurice Sendak']"
+  },
+  {
+    "type": "purchased",
+    "location": "pegasus_berkeley",
+    "date": "March 20, 2024",
+    "books": [
+      "Magician",
+      "The Encyclopedia of Tarot, Volume I",
+      "All Under Heaven",
+      "Istanbul 1900"
+    ],
+    "cost": "$92.28"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 9, 2024",
+    "books": [
+      "The Classic Tales of Brer Rabbit",
+      "Castle",
+      "The Tomten and the Fox",
+      "King Island Christmas",
+      "Perrault's Fairy Tales",
+      "Anansi the Spider",
+      "Chez Panisse Vegetables",
+      "The Palouse"
+    ],
+    "cost": "$45.86",
+    "note": "I saw the Pendragon Castle pop-up book but had a feeling that I already owned it and so put it on their hold shelf. Before checking my list, I decided to return to buy it and got several others. In fact, I did have a copy already. I'm not including it in this list as I plan to give it away. Two purchases: $36.15 + $9.71, which includes duplicate Pendragon book"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "March 6, 2024",
+    "books": [
+      "The World of the Druids",
+      "Fools, Clowns, & Jesters"
+    ],
+    "cost": "$16.19"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "February 28, 2024",
+    "books": [
+      "This Is the American Earth",
+      "Ninstints"
+    ],
+    "cost": "$12.95"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "February 22, 2024",
+    "books": [
+      "Hans Christian Andersen on Copenhagen",
+      "Pond Lake River Sea",
+      "Adobe Architecture",
+      "The Gene Keys"
+    ],
+    "cost": "$35.61"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "February 21, 2024",
+    "books": [
+      "Kanaval"
+    ],
+    "cost": "$69.94",
+    "note": "Adam Sussman had this book and I had taken a picture of it. It popped into my head, so I ordered it from the publisher in the UK. Coincidentally, the last book I ordered was exactly one year ago and also shipped internationally. Plus shipping to US was £53.00"
+  },
+  {
+    "type": "purchased",
+    "location": "blue_lantern_coffee",
+    "date": "February 19, 2024",
+    "books": [
+      "Discovering the Hidden Woodland World"
+    ],
+    "cost": "$18.65",
+    "note": "I might have bought a snack alongside the book?"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "February 9, 2024",
+    "books": [
+      "Animalia",
+      "Sacred Mountains of the World",
+      "Bridge of the Gods, Mountains of Fire",
+      "Spirit of the North",
+      "Caspar David Friedrich",
+      "Marine Ecoregions of North America",
+      "Underground",
+      "Cathedral",
+      "City",
+      "The Velveteen Rabbit",
+      "Angels and Demons in Art",
+      "Symmetries of Culture"
+    ],
+    "cost": "$92.79"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "February 7, 2024",
+    "books": [
+      "The Sun"
+    ],
+    "cost": "$12.95"
+  },
+  {
+    "type": "purchased",
+    "location": "fringe_and_fray",
+    "date": "January 15, 2024",
+    "books": [
+      "The Amateur Naturalist"
+    ],
+    "cost": "$9.81"
+  },
+  {
+    "type": "purchased",
+    "location": "forest_books",
+    "date": "January 14, 2024",
+    "books": [
+      "Masks of Bali"
+    ],
+    "cost": "$21.73"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "December 6, 2023",
+    "books": [
+      "Timothy O'Sullivan",
+      "The North American Indians in Early Photographs",
+      "Manzanar"
+    ],
+    "cost": "$31.29"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "November 29, 2023",
+    "books": [
+      "Washington Then & Now",
+      "Northwest Drylands - Seasons",
+      "Ephemeral Folk Figures",
+      "Castles of Britain and Ireland",
+      "Pioneer Superstitions",
+      "Keepers of the Earth",
+      "Chile",
+      "Kinder aus aller welt",
+      "The Book of Christmas",
+      "Paul Caponigro",
+      "The Art of the South Sea Islands",
+      "A Celebration of Bells",
+      "These Gentle Hills"
+    ],
+    "cost": "$99.54"
+  },
+  {
+    "type": "given",
+    "giver": "Ignacia Perez",
+    "date": "November 19, 2023",
+    "books": [
+      "La ballena"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "libro_del_capitan",
+    "date": "November 17, 2023",
+    "books": [
+      "Mapuche"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "libreria_mac_kay",
+    "date": "November 15, 2023",
+    "books": [
+      "Zorro vuelve a casa",
+      "Sobre las alas del cóndor",
+      "Jardín de Chile",
+      "La danza del mar",
+      "Tejuelas de Chiloé"
+    ],
+    "cost": "$93.99",
+    "note": "There was a book here, La piedra desobediente, that I wanted to buy, but I thought there was an English version so I didn't get it, but it turns out there isn't. Paid in Chilean pesos (cost includes card fee)"
+  },
+  {
+    "type": "purchased",
+    "location": "museo_de_iglesias",
+    "date": "November 7, 2023",
+    "books": [
+      "Origen y Evolución Sistema Constructivo Iglesias de Chiloé",
+      "Miradas de Chiloé"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "plaza_de_chacao",
+    "date": "November 7, 2023",
+    "books": [
+      "Chiloé"
+    ],
+    "note": "There were several booklets about Chiloé, this one was the only one translated into English but also seemed to have the most diverse info"
+  },
+  {
+    "type": "purchased",
+    "location": "cafeteria_ovejero",
+    "date": "November 5, 2023",
+    "books": [
+      "Fotografías de Martín Gusinde en Tierra del Fuego (1919–1924)"
+    ],
+    "cost": "$44.70",
+    "note": "Paid in Chilean pesos (cost includes card fee), I might have gotten some empanadas too"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "September 21, 2023",
+    "books": [
+      "A Vanished World"
+    ],
+    "cost": "$8.63",
+    "note": "I had seen this book a few times, but it was just below my inner threshold to buy. Then, something drew me to go get it, so I took a walk during an at-home Satsang retreat to pick it up. Turns out I have another book as part of the same series of photos"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "September 14, 2023",
+    "books": [
+      "Edward S. Curtis",
+      "The Science of Good Cooking",
+      "The Tent Book",
+      "Gold of the Andes",
+      "Trees of Washington",
+      "Know Your Toes (and Other Things to Know)",
+      "The Flower Family Album",
+      "Cusco and the Sacred Valley of the Incas",
+      "Artemis",
+      "Trees on the Palouse",
+      "The Place of the Circle in Elementary Geometry"
+    ],
+    "cost": "$96.03"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "September 8, 2023",
+    "books": [
+      "Historic Sheep Stations of the South Island",
+      "New Worlds From Old",
+      "William Glen Crooks",
+      "Patrick Caulfield",
+      "De vossen hebben holen",
+      "John Buck",
+      "Star Maps",
+      "Archaeology in Washington"
+    ],
+    "cost": "$86.32"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "September 2, 2023",
+    "books": [
+      "The Secret Arts",
+      "Magical Justice",
+      "The Book of Beginnings",
+      "The Faeryland Companion",
+      "The Dragon",
+      "The Artist's Way"
+    ],
+    "cost": "$34.69",
+    "note": "I had gone in looking for the Artist's Way a few days previous but they didn't have a copy. Then I went to BookPeople and they were out. I passed through Brused Books to get to Main St and saw it partially covered in the very back in a box of un-purchased books"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 19, 2023",
+    "note": "Purchased after Lentil Fest parade",
+    "books": [
+      "Tracks in the Sky",
+      "Form, Function & Design",
+      "Gardening with Stone",
+      "Making Wood Signs",
+      "Painting the Drama of Wildlife Step by Step",
+      "Hacienda Courtyards"
+    ],
+    "cost": "$41.00"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 10, 2023",
+    "books": [
+      "Discovering Timber-Framed Buildings",
+      "Paul Goble, Storyteller",
+      "Edward Hopper",
+      "The Wooden Architecture of Russia",
+      "The Majesty of the Grand Canyon",
+      "The American Barn",
+      "Nutcracker",
+      "Portraits from North American Indian Life",
+      "Joseph, Chief of the Nez Perce",
+      "The Complete Book of Spells, Ceremonies & Magic"
+    ],
+    "cost": "$94.95",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Edward Hopper']"
+  },
+  {
+    "type": "purchased",
+    "location": "2nd_look_books",
+    "date": "August 8, 2023",
+    "books": [
+      "Ancient Places",
+      "Poldark's Cornwall",
+      "A Cry from the Earth",
+      "Roadside Geology of Washington (9780878421602)",
+      "The Golden Era"
+    ],
+    "cost": "$46.87",
+    "note": "I had the second edition of Roadside Geology but wanted to compare to this first edition copy"
+  },
+  {
+    "type": "purchased",
+    "location": "depot_historical_museum",
+    "date": "July 28, 2023",
+    "books": [
+      "Palouse Rails"
+    ],
+    "cost": "$30.83"
+  },
+  {
+    "type": "purchased",
+    "location": "bookpeople",
+    "date": "July 22, 2023",
+    "books": [
+      "Devotions"
+    ],
+    "cost": "$32.86"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "July 10, 2023",
+    "books": [
+      "The Hero"
+    ],
+    "cost": "$10.86"
+  },
+  {
+    "type": "purchased",
+    "location": "point_reyes_books",
+    "date": "July 9, 2023",
+    "books": [
+      "Venice of to-day",
+      "Book of Earth",
+      "Anni Albers On Weaving",
+      "Block Prints"
+    ],
+    "cost": "$354.94",
+    "note": "Venice was an old book forgotten on the bottom shelf in the back of the store. A sticky note on the inside said '400? / 200' which the cashier had to text the owner about (I got it for 200)"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "June 8, 2023",
+    "books": [
+      "The Complete Mosaic Handbook",
+      "In a Sacred Manner We Live",
+      "Drawing Geometry",
+      "Drawing with Children",
+      "The Art of Hand Lettering",
+      "Northwest Exposures"
+    ],
+    "cost": "$43.16",
+    "note": "I first saw Drawing with Children in Seattle and didn't buy it; then again at Brused Books where I didn't buy it again; then I went back to find it and it was gone; finally I saw it there again"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "May 26, 2023",
+    "books": [
+      "Magical Beasts",
+      "The Fall of Camelot",
+      "Giants and Ogres",
+      "Ghosts",
+      "Seekers and Saviors",
+      "Dwarfs",
+      "Idaho Soils Atlas",
+      "Introducing Puppetry",
+      "A Kids' Guide to Building Forts",
+      "A Dark, Dark Tale",
+      "A Ring of Tricksters",
+      "The Dark-Thirty"
+    ],
+    "cost": "$62.58"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "February 21, 2023",
+    "books": [
+      "Terraced Landscapes"
+    ],
+    "cost": "$57.85",
+    "note": "A saw a PDF version of this book while searching for books about terraces online. I went to the publisher's website to buy a physical copy, but the page was in Slovenian. I used a translating program to fill out my info but the form had errors so I had to use my browser's dev tools to un-disable the submit button. Remarkably, it worked and the book arrived from overseas.  Book: €26.10, shipping: €25.00"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "February 6, 2023",
+    "books": [
+      "Natural Likeness",
+      "Greetings From Washington"
+    ],
+    "cost": "$11.87"
+  },
+  {
+    "type": "purchased",
+    "location": "global_neighborhood_thrift",
+    "date": "February 3, 2023",
+    "books": [
+      "Nature's Chaos",
+      "Frederick",
+      "Elton Bennett",
+      "Eric Sloane's America",
+      "The Book of Giant Stories",
+      "Paco Goes to the Fair"
+    ],
+    "cost": "$24.52"
+  },
+  {
+    "type": "purchased",
+    "location": "aunties",
+    "date": "February 3, 2023",
+    "books": [
+      "Day Hiking Eastern Washington",
+      "The Complete Adventures of Snugglepot and Cuddlepie"
+    ],
+    "cost": "$32.68"
+  },
+  {
+    "type": "purchased",
+    "location": "fringe_and_fray",
+    "date": "February 3, 2023",
+    "books": [
+      "The Mill",
+      "Wild Animals of North America",
+      "America Land of Beauty and Splendor",
+      "Nomads of the World"
+    ],
+    "cost": "$88.29",
+    "note": "I think the cost also included a jumpsuit I bought"
+  },
+  {
+    "type": "purchased",
+    "location": "pie_safe",
+    "date": "January 20, 2023",
+    "books": [
+      "Barns of Idaho"
+    ],
+    "cost": "$72.87",
+    "note": "This must have included food too. I remember they charged me the wrong price for the book, less than it was listed"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "January 17, 2023",
+    "books": [
+      "Adventure Time"
+    ],
+    "cost": "$220.11"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "January 17, 2023",
+    "books": [
+      "Steven Universe"
+    ],
+    "cost": "$140.44"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "January 13, 2023",
+    "books": [
+      "Paintings of Maine",
+      "Frederic Whitaker",
+      "Frank Boyden",
+      "Southeast Alaska",
+      "Messages from Washington",
+      "Vanishing Ice",
+      "Buried Treasures",
+      "Angels in Art",
+      "The Art of James Christensen",
+      "Over Washington",
+      "Window to the Palouse",
+      "Palouse Country"
+    ],
+    "cost": "$98.08"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "January 11, 2023",
+    "books": [
+      "Orientalism",
+      "The Art of Bev Doolittle",
+      "The Surface Plane",
+      "Indian Summers"
+    ],
+    "cost": "$56.65"
+  },
+  {
+    "type": "given",
+    "giver": "John Cassleman",
+    "date": "December 25, 2022",
+    "books": [
+      "Pendragon Castle",
+      "Anno's Medieval World",
+      "Anno's Alphabet"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Brendan Cassleman",
+    "date": "December 25, 2022",
+    "books": [
+      "The Woodbook"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Brendan Cassleman",
+    "date": "December 25, 2022",
+    "books": [
+      "Struggle",
+      "The Incal",
+      "Awaking Beauty"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "December 21, 2022",
+    "books": [
+      "Cliff Dwellers of Cedar Mesa",
+      "The Art and Character of Nutcrackers",
+      "Geometric Designs for Artists and Craftsmen",
+      "Anasazi",
+      "Dimensional Mazes",
+      "Little Monsters",
+      "Panoramas of Promise",
+      "Early Churches of Washington State",
+      "Myth, Magic, and Mystery",
+      "The Mapmaker's Eye",
+      "Shaman"
+    ],
+    "cost": "94.95",
+    "note": "I had seen Dimensional Mazes a long time ago and it was still there. Two purchases: $18.88 + $76.07"
+  },
+  {
+    "type": "purchased",
+    "location": "the_hope_center",
+    "date": "December 17, 2022",
+    "books": [
+      "Secrets of a Wildlife Watcher"
+    ],
+    "note": "I went in to buy a book about 'gem trails of Idaho' but it was gone and this was in its place"
+  },
+  {
+    "type": "purchased",
+    "location": "the_hope_center",
+    "date": "December 16, 2022",
+    "books": [
+      "The Father and His Two Sons"
+    ],
+    "note": "Saw this and went back to purchase a few days later. Couldn't find the ISBN registered anywhere online"
+  },
+  {
+    "type": "gave",
+    "receiver": "John Cassleman",
+    "date": "December 6, 2022",
+    "books": [
+      "Pathfinder Roleplaying Game"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Cam Dunn",
+    "date": "November 30, 2022",
+    "books": [
+      "Tomorrow, and Tomorrow, and Tomorrow",
+      "The 99% Invisible City"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "November 30, 2022",
+    "books": [
+      "Animal Tracks and Hunter Signs",
+      "How Things Work"
+    ],
+    "cost": "$40.41"
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "November 27, 2022",
+    "books": [
+      "Spirit of Place",
+      "The Way to Start a Day",
+      "The World of the Fox",
+      "Arms and Armor in Africa",
+      "A Private Anthropological Cabinet"
+    ],
+    "cost": "$191.34",
+    "note": "I thought I bought Arms and Armor on a previous trip and couldn't find it on the shelf I remembered it in. It was in rare books, and the reason I didn't buy it was because it was very expensive ($90)"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "November 12, 2022",
+    "books": [
+      "Greenhouses and Conservatories",
+      "The Paper Ark",
+      "Forests",
+      "Once Upon a Time",
+      "The Undercliff",
+      "The Keeping Quilt",
+      "Aesop",
+      "Mole",
+      "Puppets & Automata",
+      "Botany for Gardeners",
+      "The Art of Migration",
+      "How to Read Gardens"
+    ],
+    "cost": "$150.72",
+    "note": "I had first Botany for Gardeners by recommendation of the Brooklyn Botanic Garden whose library I checked the book out from"
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "November 11, 2022",
+    "books": [
+      "The Insect Wonderland",
+      "Why?",
+      "The Pop-Up Book",
+      "Hidden Images",
+      "Golem",
+      "Nisqually Watershed",
+      "The Talking Eggs",
+      "Back Roads of Oregon",
+      "The Spirited Earth",
+      "Aïda",
+      "The Big Green Book",
+      "Light On Australia",
+      "Bats at the Ballgame",
+      "Madeline",
+      "Dogon World",
+      "Make Way For Ducklings",
+      "Games Babies Play",
+      "Flower Fairies of the Spring"
+    ],
+    "cost": "$174.59"
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "November 4, 2022",
+    "books": [
+      "Qayaq",
+      "Between Worlds",
+      "The White Deer",
+      "The 500 Years of Indigenous Resistance Comic Book",
+      "The Arts and Crafts Movement in the Pacific Northwest",
+      "The Caves At Aurangabad",
+      "Arts of Oceania / Shells of Oceania",
+      "New Land, North of the Columbia",
+      "Washington",
+      "Pécs",
+      "Signs & Symbols",
+      "The World of the Coyote",
+      "The Mystic Spiral",
+      "Between the Mountains",
+      "Beautiful Wounds",
+      "Metamagical Themas",
+      "Everything Under a Mushroom",
+      "Spiders and Their Kin",
+      "North American Indian Arts"
+    ],
+    "cost": "$338.00"
+  },
+  {
+    "type": "given",
+    "giver": "Beth Carlson",
+    "date": "October 20, 2022",
+    "books": [
+      "Women"
+    ],
+    "note": "Gave to me when she and Emily moved out of their Olympia home"
+  },
+  {
+    "type": "purchased",
+    "location": "last_word_books",
+    "date": "October 18, 2022",
+    "books": [
+      "Wyeth at Kuerners",
+      "Never Let a Fool Kiss You or a Kiss Fool You",
+      "Dreads",
+      "Adventures with Impossible Objects",
+      "Roadside Geology of Washington (9780878426775)"
+    ],
+    "cost": "$131.28"
+  },
+  {
+    "type": "purchased",
+    "location": "atom_heart",
+    "date": "October 8, 2022",
+    "books": [
+      "Harmony For Guitar",
+      "The Guitar Grimoire"
+    ],
+    "note": "Store closing sale, BOGO"
+  },
+  {
+    "type": "purchased",
+    "location": "dudleys_bookshop_cafe",
+    "date": "October 1, 2022",
+    "books": [
+      "Central Oregon"
+    ],
+    "cost": "$16.74"
+  },
+  {
+    "type": "purchased",
+    "location": "pegasus_bend",
+    "date": "October 1, 2022",
+    "books": [
+      "The Book of Celtic Verse",
+      "England on Fire",
+      "Pirates, Patriots, and Princesses",
+      "Pre-Raphaelite Vision",
+      "The Goblins of Labyrinth"
+    ],
+    "cost": "$144.85"
+  },
+  {
+    "type": "purchased",
+    "location": "moes",
+    "date": "September 25, 2022",
+    "books": [
+      "Kashmir",
+      "The Art of Gaman",
+      "Appalachia",
+      "Children of a Vanished World",
+      "Typewriter",
+      "Cruising",
+      "The Architecture of the Indian Sultanates",
+      "Splendeurs Du Maroc",
+      "Silent Spaces",
+      "Legacy",
+      "Jan Saudek",
+      "Steps to Water",
+      "The Early Louis Sullivan Building Photographs",
+      "The Superorganism",
+      "Nature's Night Life",
+      "Print Workshop",
+      "Gathering Places",
+      "Language of the Robe",
+      "Transparent Window Scenes Through the Year",
+      "Light Screens (9780847823055)",
+      "The Stones of Venice",
+      "Rubber Stamping",
+      "Rivers of Life",
+      "Slow",
+      "Here Be Dragons",
+      "Arthur Wesley Dow and the American Arts & Crafts",
+      "Driftwood Shacks",
+      "Roads of Arabia"
+    ],
+    "cost": "$1128.72"
+  },
+  {
+    "type": "purchased",
+    "location": "william_stout_architectural_books",
+    "date": "September 23, 2022",
+    "books": [
+      "Taken by the Wind",
+      "Romanesque Architecture",
+      "Santiago",
+      "Technical Drawing for Stage Design",
+      "Model Making",
+      "Untitled",
+      "Mallorca",
+      "The Architect's Brother",
+      "Maske",
+      "Kahn / Selesnick",
+      "Garden Seats and Benches",
+      "Photography And Architecture",
+      "Delta West",
+      "Lighthouses of the World",
+      "James Casebere",
+      "Cereal Drying Racks"
+    ],
+    "cost": "$1079.35"
+  },
+  {
+    "type": "purchased",
+    "location": "stuff",
+    "date": "September 21, 2022",
+    "books": [
+      "The Art of Japanese Paper",
+      "Grand Illusions",
+      "Encyclopedia of Mysterious Places",
+      "Vanishing Steam",
+      "Gulistan"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "auto_erotica",
+    "date": "September 18, 2022",
+    "books": [
+      "Hair"
+    ],
+    "cost": "$141.22",
+    "note": "The cost might have included some magazines too"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "September 18, 2022",
+    "books": [
+      "Nice Ass",
+      "1001 Black Men",
+      "Ice"
+    ],
+    "cost": "$149.85"
+  },
+  {
+    "type": "purchased",
+    "location": "bird_and_beckett",
+    "date": "September 15, 2022",
+    "books": [
+      "The San Quentin Project",
+      "The Land of the Anka Bird",
+      "Migrations",
+      "The Art of Tim Burton",
+      "Megaliths",
+      "Missouri",
+      "Secret Corners of the World",
+      "God of Money",
+      "Atlas of the Visible Human Male",
+      "The Masks",
+      "Car Crashes & Other Sad Stories",
+      "Skyline",
+      "This Was San Francisco",
+      "Past Tents",
+      "Juneau",
+      "Perpetual Mirage",
+      "A Book of Books",
+      "Point Reyes and the San Andreas Fault Zone",
+      "The Sacred & Secular"
+    ],
+    "cost": "$771.01"
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "September 11, 2022",
+    "books": [
+      "The Geometrical Foundation of Natural Structure",
+      "Tsonakwa And Yolaikia",
+      "The Woman's Way",
+      "Architectural Composition",
+      "Folk-toys",
+      "Between Two Towers",
+      "Animal Kingdom"
+    ],
+    "cost": "$215.90"
+  },
+  {
+    "type": "purchased",
+    "location": "orca_books_coop",
+    "date": "September 10, 2022",
+    "books": [
+      "Amaldus Nielsen",
+      "The Secrets of Aikido",
+      "The Book of the Toad",
+      "Back Roads of Washington",
+      "Keeping a Nature Journal",
+      "Inventing Kindergarten",
+      "Miradas en el tiempo",
+      "Tibetan Tantric Charms and Amulets",
+      "Collecting Books",
+      "Dimensions of Black",
+      "Manners and Customs of the Coeur d'Alene Indians",
+      "This Is for You",
+      "The Nepal Festivals"
+    ],
+    "cost": "$302.71",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Back Roads of Washington', 'Keeping a Nature Journal']"
+  },
+  {
+    "type": "given",
+    "giver": "Jason Dana",
+    "date": "August 28, 2022",
+    "books": [
+      "Curiosa"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "community_thrift",
+    "date": "August 23, 2022",
+    "books": [
+      "Chez Panisse Fruit",
+      "Eighteen Songs of a Nomad Flute"
+    ],
+    "cost": "$29.87",
+    "note": "Might have included other stuff in the purchase"
+  },
+  {
+    "type": "purchased",
+    "location": "little_free_library_dolores",
+    "date": "August 22, 2022",
+    "books": [
+      "Are You My Type?"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "August 20, 2022",
+    "books": [
+      "For Forever I'll Be Here",
+      "History of Illustration",
+      "Gay Life & Culture"
+    ],
+    "cost": "$184.66"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "August 20, 2022",
+    "books": [
+      "The Gay Kama Sutra",
+      "Bats"
+    ],
+    "cost": "$82.75"
+  },
+  {
+    "type": "purchased",
+    "location": "stuff",
+    "date": "August 17, 2022",
+    "books": [
+      "Sudek",
+      "Aubrey Beardsley",
+      "Books of the Dead",
+      "The Monkey and the Crocodile",
+      "Flying Animals",
+      "Pop-Up Animal Alphabet Book",
+      "Spooky Rhymes and Riddles"
+    ],
+    "cost": "$411.45",
+    "note": "Cost may have included other stuff"
+  },
+  {
+    "type": "purchased",
+    "location": "community_thrift",
+    "date": "August 17, 2022",
+    "books": [
+      "The Chinese Century",
+      "The Hidden Life of Wolves",
+      "Jung"
+    ],
+    "cost": "$16.90",
+    "note": "Cost may have included other stuff"
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "August 15, 2022",
+    "books": [
+      "Baskets, Nets and Rope",
+      "Arthur Rackham",
+      "Jukebox",
+      "Ex Crucible",
+      "The Centaur’s Smile",
+      "The Natural History Book",
+      "Luigi Lucioni",
+      "Adi Nes",
+      "Gnomes",
+      "The Face in the Lens",
+      "Infinite Perspectives",
+      "Zones of Exclusion",
+      "Empty Quarter",
+      "A Compendium of Collective Nouns",
+      "Morbid Curiosities",
+      "Visions of Adventure",
+      "Supreme Instants",
+      "Mind Fields",
+      "Waterworks"
+    ],
+    "note": "$525.35",
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Arthur Rackham']"
+  },
+  {
+    "type": "purchased",
+    "location": "green_arcade",
+    "date": "August 13, 2022",
+    "books": [
+      "Alcatraz",
+      "San Francisco"
+    ],
+    "cost": "$18.36"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "August 13, 2022",
+    "books": [
+      "Chicago at the Turn of the Century in Photographs",
+      "America's Hidden Wilderness",
+      "Majestic Island Worlds",
+      "America's Majestic Canyons",
+      "America's Seashore Wonderlands",
+      "Particular Voices"
+    ],
+    "cost": "$195.52",
+    "note": "Bought the Chicago book with Dad in mind"
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "August 13, 2022",
+    "books": [
+      "Kissa by Kissa"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "auto_erotica",
+    "date": "August 12, 2022",
+    "books": [
+      "The Asian Male",
+      "Olympic Portraits"
+    ],
+    "cost": "$114.06",
+    "note": "The cost might have included some magazines too"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "August 12, 2022",
+    "books": [
+      "Bible Road",
+      "The Black Book (9783888142147)",
+      "The Beautiful Boy",
+      "Tom of Finland (9788857246512)",
+      "Duane Michals",
+      "Merveilles d’Egypte"
+    ],
+    "cost": "$297.49",
+    "note": "Looking at my bank statement, this might be two purchases, $238.92 + $58.57"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "August 12, 2022",
+    "books": [
+      "A Book of a Hundred Hands",
+      "The Procession",
+      "The Legendary Artists of Taos",
+      "The Occult Reliquary",
+      "The Complete Book of Amulets & Talismans",
+      "Welcome to Camp America"
+    ],
+    "cost": "$370.41",
+    "note": "I saw Camp America locked rare books cabinet a few months ago. I had to ask an employee about it who remembered it being moved downstairs and got it for me. I had to ask for Occult Reliquary from behind the counter"
+  },
+  {
+    "type": "purchased",
+    "location": "needles_and_pens",
+    "date": "August 12, 2022",
+    "books": [
+      "Homeland Wastleland Dreamland"
+    ],
+    "cost": "$38.02",
+    "note": "Local photographer. The cost might have included something else"
+  },
+  {
+    "type": "purchased",
+    "location": "scarlet_sage",
+    "date": "August 12, 2022",
+    "books": [
+      "The Handbook of Yoruba Religious Concepts"
+    ],
+    "cost": "$81.32",
+    "note": "I think the cost may have included some crystals and other stuff too"
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "August 12, 2022",
+    "books": [
+      "The Good Enough Parent"
+    ],
+    "cost": "$25.46",
+    "note": "This cost probably included a coffee"
+  },
+  {
+    "type": "purchased",
+    "location": "sword_and_rose",
+    "date": "August 11, 2022",
+    "books": [
+      "A Book of Staves",
+      "Taro as Colour",
+      "The Emerald Tablet of Hermes & The Kybalion"
+    ],
+    "cost": "$230.49",
+    "note": "I had been asking the clerk various questions, and she asked if I was familiar with Hermetic Philosophy which underpins a lot of modern Western occultism. She recommended the Emerald Tablet. Cost included some other stuff too"
+  },
+  {
+    "type": "purchased",
+    "location": "brooklyn_museum",
+    "date": "August 7, 2022",
+    "books": [
+      "Duke Riley",
+      "Picturing Resistance"
+    ],
+    "cost": "$87.76",
+    "note": "Sam Landen and I went to the BK Museum and Duke Riley's exhibit, Death to the Living: Long Live Trash, was one of my favorites to date. Not totally sure whether I matched the right transaction from my bank statement"
+  },
+  {
+    "type": "purchased",
+    "location": "westsider_books",
+    "date": "August 6, 2022",
+    "books": [
+      "Churches in Rock",
+      "Cistercian Abbeys",
+      "Remington & Russell and the Art of the American West",
+      "Nicobobinus"
+    ],
+    "cost": "$116.89"
+  },
+  {
+    "type": "purchased",
+    "location": "neue_galerie",
+    "date": "August 6, 2022",
+    "books": [
+      "The Wanderer",
+      "The World Around 1900"
+    ],
+    "cost": "$51.11"
+  },
+  {
+    "type": "purchased",
+    "location": "the_strand",
+    "date": "August 6, 2022",
+    "books": [
+      "Shadow Hunters",
+      "Stone Age",
+      "Afghanistan",
+      "Männer sehen Männer",
+      "Astrology",
+      "Magical Symbols and Alphabets",
+      "Plant Families"
+    ],
+    "cost": "$216.91"
+  },
+  {
+    "type": "purchased",
+    "location": "raven_books",
+    "date": "August 2, 2022",
+    "books": [
+      "Tangible Visions",
+      "Islamic Arms and Armor",
+      "Landscape Body Dwelling",
+      "Water Towers",
+      "Kanban"
+    ],
+    "cost": "$152.79"
+  },
+  {
+    "type": "purchased",
+    "location": "peabody_museum",
+    "date": "August 1, 2022",
+    "books": [
+      "A Lakota War Book from the Little Bighorn"
+    ],
+    "cost": "$50.00",
+    "note": "Rachel, Nick, and I went to the Peabody Museum at Harvard. I especially loved one exhibit and said to my friends, 'I wanna buy that' (knowing it would make a good exhibit book). There were no books displayed at the front desk, but I asked the lady and she pulled a few out. Luckily for me, one of the books was about the exhibit hoped for: this one. Not sure I matched the right bank transaction"
+  },
+  {
+    "type": "purchased",
+    "location": "chronicle_books",
+    "date": "July 26, 2022",
+    "books": [
+      "The Flavor Equation",
+      "Forest School for Grown-ups",
+      "The Elements of a Home"
+    ],
+    "cost": "$86.69",
+    "note": "COVID had closed the showroom of Chronicle Books and the guy at the desk said I was lucky: the receptionist has been out sick and he happened to be there for packages"
+  },
+  {
+    "type": "purchased",
+    "location": "bernal_cutlery",
+    "date": "July 24, 2022",
+    "books": [
+      "Tools for Food",
+      "The Curious World of Seaweed",
+      "With the Grain"
+    ],
+    "cost": "$110.78",
+    "note": "Cost might have included something else"
+  },
+  {
+    "type": "purchased",
+    "location": "community_thrift",
+    "date": "July 24, 2022",
+    "books": [
+      "The Seaside Naturalist",
+      "Discovery of Luray Caverns, Virginia",
+      "Knights of the Brush"
+    ],
+    "cost": "$105.37",
+    "note": "The cost definitely includes something else"
+  },
+  {
+    "type": "purchased",
+    "location": "cafe_international",
+    "date": "July 23, 2022",
+    "books": [
+      "City Surf"
+    ],
+    "note": "Zahra was selling these. She said that one of her customers is the father of one of the authors. When I bought it, some youths in front of me said they'd recently come across the City Surf Project"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "July 20, 2022",
+    "books": [
+      "The Year of Knots"
+    ],
+    "cost": "$18.47"
+  },
+  {
+    "type": "purchased",
+    "location": "william_stout_architectural_books",
+    "date": "July 19, 2022",
+    "books": [
+      "Ireland",
+      "Making the Scene",
+      "Italian Hilltowns",
+      "Architecture and Model Building"
+    ],
+    "cost": "$245.48"
+  },
+  {
+    "type": "purchased",
+    "location": "stuff",
+    "date": "July 16, 2022",
+    "books": [
+      "African Faces, African Figures",
+      "American Photographs",
+      "I Dream a World",
+      "How to Paint Successful Seascapes",
+      "Lost San Francisco",
+      "Gustave Doré",
+      "Swish, the Sorrowful Sea Serpent",
+      "Beardsley's Illustrations for Le Morte D'Arthur",
+      "Sea Shells",
+      "Maxfield Parrish"
+    ],
+    "cost": "$719.64",
+    "note": "Cost may have included other stuff"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "July 13, 2022",
+    "books": [
+      "Men, A Pictorial Archive from Nineteenth-Century Sources",
+      "Fatal Harvest",
+      "The Bells and Other Poems",
+      "Edward's Crochet Doll Emporium",
+      "Teaching Tessellating Art"
+    ],
+    "cost": "$152.74"
+  },
+  {
+    "type": "purchased",
+    "location": "cove",
+    "date": "July 2, 2022",
+    "books": [
+      "The Sea Journal"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "June 25, 2022",
+    "books": [
+      "Outback Bushmen",
+      "Gay by the Bay",
+      "Riding the Skies",
+      "American Boys"
+    ],
+    "cost": "$103.19",
+    "note": "I came back to buy Outback Bushmen and Riding the Skies after seeing them previously with Bren. Outback Bushmen was listed as $200, but I was only charged $20 so I went back later and paid the difference. I don't see an extra transaction in my bank statements though"
+  },
+  {
+    "type": "given",
+    "giver": "fayes",
+    "date": "June 17, 2022",
+    "books": [
+      "The Lost History of the Incas"
+    ],
+    "note": "This was one of several old books Fayes had lying around. I asked if they were for sale and they said someone left them and I could take them if I wanted"
+  },
+  {
+    "type": "purchased",
+    "location": "paxton_gate",
+    "date": "June 5, 2022",
+    "books": [
+      "Animal Architecture"
+    ],
+    "cost": "$32.53",
+    "note": "Brendan Book Tour Shopping Spree 2022 #5"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "June 5, 2022",
+    "books": [
+      "The Look of Men"
+    ],
+    "cost": "$27.16",
+    "note": "Brendan Book Tour Shopping Spree 2022 #4"
+  },
+  {
+    "type": "purchased",
+    "location": "green_arcade",
+    "date": "June 5, 2022",
+    "books": [
+      "Predicting the Past"
+    ],
+    "cost": "$108.63",
+    "note": "Brendan Book Tour Shopping Spree 2022 #3. I left it at Dog Eared by accident and had to return to grab it"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "June 5, 2022",
+    "books": [
+      "Humanature",
+      "The People of Vietnam will triumph! The U.S. aggressors will be defeated!"
+    ],
+    "cost": "$43.45",
+    "note": "Brendan Book Tour Shopping Spree 2022 #2. I found Humanature in the free book bin"
+  },
+  {
+    "type": "purchased",
+    "location": "booksmith",
+    "date": "June 4, 2022",
+    "books": [
+      "The Black Book (9781400068487)"
+    ],
+    "cost": "$38.02",
+    "note": "Brendan Book Tour Shopping Spree 2022 #1"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "May 22, 2022",
+    "books": [
+      "The End of the Game",
+      "Repentant Monk",
+      "Composition",
+      "Mexico"
+    ],
+    "cost": "$119.49"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "May 21, 2022",
+    "books": [
+      "The Encyclopaedia of World Costume",
+      "The World of Tattoo",
+      "Nude Men",
+      "BUTCH",
+      "New Queer Photography",
+      "Friends of Dorothy",
+      "Witchcraft"
+    ],
+    "cost": "$401.37"
+  },
+  {
+    "type": "purchased",
+    "location": "booksmith",
+    "date": "May 14, 2022",
+    "books": [
+      "The Geometry of Hand-Sewing",
+      "The Dictionary of Obscure Sorrows"
+    ],
+    "cost": "$48.86",
+    "note": "I saw Geometry on a previous visit and kept thinking about it, so I returned to buy it"
+  },
+  {
+    "type": "purchased",
+    "location": "william_stout_architectural_books",
+    "date": "May 13, 2022",
+    "books": [
+      "The City of the Divine King",
+      "The City of the Landowner",
+      "The City of the Merchant",
+      "The City of the Hunter",
+      "Colonnes",
+      "Compositions in Architecture",
+      "Natural Surfaces",
+      "Steps & Stairways"
+    ],
+    "cost": "$544.16",
+    "note": "City books came in a four volume 4 set 'An Outline of the History of Urban Development', ISBN 9788787136990"
+  },
+  {
+    "type": "given",
+    "giver": "fayes",
+    "date": "May 10, 2022",
+    "books": [
+      "Amy Bennett",
+      "Liz Larner"
+    ],
+    "note": "These were sitting around at Fayes, so I asked if they were for sale. Chris didn't know, Mike said ask Justin, and Justin said someone had left them so I could just take them"
+  },
+  {
+    "type": "purchased",
+    "location": "booksmith",
+    "date": "May 7, 2022",
+    "books": [
+      "The Annotated Arabian Nights",
+      "Watercolor Workbook",
+      "Tom of Finland (9782374951331)"
+    ],
+    "cost": "$108.52"
+  },
+  {
+    "type": "purchased",
+    "date": "May 7, 2022",
+    "books": [
+      "Plants That Never Ever Bloom"
+    ],
+    "note": "Purchased at a little street sale on the corner of Page and Webster in SF while walking with JRock and crew for Fiona's wedding"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "May 5, 2022",
+    "books": [
+      "The Original Bambi",
+      "The Art of Rube Goldberg",
+      "Nightcrawlers",
+      "The Open Road"
+    ],
+    "cost": "$355.14",
+    "note": "I saw Bambi at the bookstore previously and shortly after read an article about it in the New Yorker"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "April 27, 2022",
+    "books": [
+      "The Grail",
+      "Our Boots",
+      "The Lives of Fungi"
+    ],
+    "cost": "$57.52"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "April 22, 2022",
+    "books": [
+      "The Weather of the Pacific Northwest",
+      "Microworlds",
+      "Prelude Lake",
+      "Balls and Bulldust",
+      "Mosses of the Northern Forest",
+      "Pharmako/Gnosis, Revised and Updated",
+      "The Private Life of Spiders",
+      "Whither the Waters",
+      "Louis Comfort Tiffany Masterworks",
+      "Antique and Collectible Thimbles and Accessories",
+      "Flora",
+      "Man-Made Wonders of the World",
+      "In Pursuit of Clouds",
+      "Musical Instruments",
+      "Manor Houses in Normandy",
+      "The Montessori Method",
+      "Spectrum 19",
+      "Inside American Gods",
+      "Dante's Divine Comedy",
+      "Jim Henson",
+      "Nightmares in the Sky",
+      "The Sounds of Star Wars",
+      "Mystical Stitches"
+    ],
+    "cost": "$550.79"
+  },
+  {
+    "type": "purchased",
+    "location": "stable_cafe",
+    "date": "April 17, 2022",
+    "books": [
+      "Home Sweet Houseplant"
+    ],
+    "cost": "$66.34",
+    "note": "Breakfast with Shaun after boat dance party. Cost probably included food"
+  },
+  {
+    "type": "purchased",
+    "location": "city_lights",
+    "date": "April 11, 2022",
+    "books": [
+      "Čáw Pawá Láakni, 'They Are Not Forgotten'",
+      "Frederick Law Olmsted"
+    ],
+    "cost": "$113.95"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "April 9, 2022",
+    "books": [
+      "The Oblivion Seekers",
+      "Rice's Language of Buildings",
+      "Adornment",
+      "Strange Fruit",
+      "Gustav Stickley and the American Arts Crafts Movement"
+    ],
+    "cost": "$152.62"
+  },
+  {
+    "type": "purchased",
+    "location": "medicine_for_nightmares",
+    "date": "April 9, 2022",
+    "books": [
+      "A Swarm, a Flock, a Host",
+      "A Bestiary",
+      "Italic Calligraphy and Handwriting",
+      "Godless Utopia",
+      "500 Handmade Books",
+      "The Androgyne",
+      "Silent Witnesses",
+      "Emmet Gowin"
+    ],
+    "note": "A Swarm had a faded receipt in the book from its original purchase from Green Arcade in SF, July 21, 2013"
+  },
+  {
+    "type": "found",
+    "location": "little_free_library_dolores",
+    "date": "April 8, 2022",
+    "books": [
+      "I Sing with a New Voice"
+    ],
+    "note": "There were two copies signed by the author, a local. I read the whole thing in one sitting and was quite moved"
+  },
+  {
+    "type": "purchased",
+    "location": "third_place_books_steward_park",
+    "date": "March 31, 2022",
+    "books": [
+      "The Lavender Palette"
+    ],
+    "note": "Bought while visiting Jessica for her birthday! We stopped in for bagels and I left with this book"
+  },
+  {
+    "type": "purchased",
+    "location": "refugee_eye_gallery",
+    "date": "March 25, 2022",
+    "books": [
+      "My Gaza"
+    ],
+    "note": "Passed by a new gallery on Valencia with Josh and he suggested we stop by. The artist is a Palestinian photographer from Gaza and printed this book, he now lives in the Bay"
+  },
+  {
+    "type": "purchased",
+    "location": "fabulosa",
+    "date": "March 13, 2022",
+    "books": [
+      "A History of Magic, Witchcraft, and the Occult",
+      "Butch Heroes",
+      "The Maxfield Parrish Pop-Up Book"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "stuff",
+    "date": "March 13, 2022",
+    "books": [
+      "Andy Goldsworthy",
+      "Before Photography",
+      "Costume Patterns and Designs",
+      "Expressions of Place",
+      "Frank Schoonover",
+      "Howard Pyle",
+      "J.W. Waterhouse",
+      "Salome",
+      "Wrath of the Serfs"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "March 13, 2022",
+    "books": [
+      "Animal Logic",
+      "Ansel Adams",
+      "Dreams",
+      "Everything is Its Own Reward",
+      "Head, Heart, and Hand",
+      "Japanese Antique Chests",
+      "Moorish Architecture in Andalusia"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "paxton_gate",
+    "date": "March 13, 2022",
+    "books": [
+      "Heavenly Bodies",
+      "Mothmeister"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "william_stout_architectural_books",
+    "date": "March 7, 2022",
+    "books": [
+      "Dry Stone Walls",
+      "The Glasshouse"
+    ],
+    "note": "Bought this on a walk after getting rejected after interviewing with Coda"
+  },
+  {
+    "type": "purchased",
+    "location": "community_thrift",
+    "date": "March 4, 2022",
+    "books": [
+      "I'm in Charge of Celebrations"
+    ],
+    "note": "Went to Community Thrift with Josh Chang and he spotted me $2.50 for it"
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "March 4, 2022",
+    "books": [
+      "Prisoners' Inventions"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "March 2, 2022",
+    "books": [
+      "Krampus",
+      "The Cruising Diaries"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "sf_moma",
+    "date": "February 19, 2022",
+    "books": [
+      "American Geography",
+      "Edward Weston",
+      "Palate Palette",
+      "S v Z",
+      "The Neri Oxman Material Ecology Catalogue"
+    ],
+    "note": "From MoMA trip with Adam, Rachel, Nick, Shaun, Julian, Galen"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "February 18, 2022",
+    "books": [
+      "An Atlas of Rare City Maps",
+      "Arts of Clay",
+      "Paper",
+      "The Doré Illustrations for Dante's Divine Comedy",
+      "Thomas Eakins",
+      "Water and Architecture"
+    ],
+    "note": "Got these while browsing with Rachel and Pasta"
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "February 15, 2022",
+    "books": [
+      "Music in the Air",
+      "Symbols of the Occult",
+      "The Eye"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "February 10, 2022",
+    "books": [
+      "Mushroom Botanical Art"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "third_place_books_steward_park",
+    "date": "February 5, 2022",
+    "books": [
+      "Homo Art",
+      "Miniature Rooms",
+      "Queer x Design",
+      "The Mischievous Art of Jim Flora"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "January 30, 2022",
+    "books": [
+      "A Navajo Sketch Book",
+      "Ancient Art of the Amur Region",
+      "Ancient Ones",
+      "Chinese Houses & Gardens",
+      "Columbia River Gorge",
+      "Ethnic Jewellery",
+      "Fantastic Journeys",
+      "Jugoslavia",
+      "Masters of Deception",
+      "Mountains in the Sea",
+      "Natural Worlds",
+      "Norway",
+      "Rie Muñoz",
+      "Siamese Bestiary",
+      "The World of M.C. Escher",
+      "Vanishing Histories"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "January 22, 2022",
+    "books": [
+      "A Handbook of Weaves",
+      "Kaibyo",
+      "Prisoners",
+      "Stretching",
+      "Ten Patterns That Explain the Universe",
+      "Weaponry",
+      "True Remarkable Occurrences",
+      "Awakening to Landscape"
+    ]
+  },
+  {
+    "type": "found",
+    "location": "little_free_library_reveille",
+    "date": "January 14, 2022",
+    "books": [
+      "Favourite Poems We Learned in School"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Rilka Li and Chris Varenhorst",
+    "date": "January 7, 2022",
+    "books": [
+      "Semiology of Graphics"
+    ],
+    "note": "Gift from Rilka and Chris for letting them stay in my room over the holidays. They got it from Dog Eared Books on Valencia"
+  },
+  {
+    "type": "given",
+    "giver": "Jessica Rock",
+    "date": "January 4, 2022",
+    "books": [
+      "The Book of Delights"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "bookpeople",
+    "date": "January 3, 2022",
+    "books": [
+      "A Chronology of Film",
+      "Gradient Light",
+      "The People"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Brendan Cassleman",
+    "date": "December 25, 2021",
+    "books": [
+      "A Field Guide to Sprawl"
+    ],
+    "note": "Christmas gift from Bren. He got it from BookPeople"
+  },
+  {
+    "type": "purchased",
+    "location": "community_thrift",
+    "date": "December 12, 2021",
+    "books": [
+      "After Man",
+      "Andrew Wyeth",
+      "Nomads of Western Tibet",
+      "The Changing World of Mongolia's Nomads"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "December 11, 2021",
+    "books": [
+      "One Million Insects"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "moes",
+    "date": "December 5, 2021",
+    "books": [
+      "African Kings",
+      "Anatolian Weights and Measures",
+      "Brought to Light",
+      "Civilizing Terrains",
+      "Globes",
+      "Handmade Houses",
+      "Heretics!",
+      "Hiroshige",
+      "Iraq",
+      "Istanbul City of Seven Hills",
+      "Monasteries",
+      "Monumental India",
+      "Morocco",
+      "Old Hebron",
+      "Peterson Guide to Bird Identification—in 12 Steps",
+      "San Francisco Views",
+      "Swiss Panorama",
+      "The Charting of the Oceans",
+      "The Konyaks",
+      "The Last Empire",
+      "Treasures of Disney Animation Art",
+      "Water (9783961712212)",
+      "Wayang Puppets",
+      "Xinjiang"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "berkeley_botanical_garden",
+    "date": "December 5, 2021",
+    "books": [
+      "Design by Nature"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "open_eye",
+    "date": "November 27, 2021",
+    "books": [
+      "Light in the East",
+      "The Age of God-Kings"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "November 26, 2021",
+    "books": [
+      "Africa Adorned",
+      "Ancient China",
+      "Boomerang",
+      "Dracula",
+      "Earth from Above",
+      "Egypt and the Holy Land in Historic Photographs",
+      "Fairy Tales from Many Lands",
+      "Father Four Seasons",
+      "Fighting Techniques of the Ancient World",
+      "Indian Sign Language",
+      "Keepers of the Secrets",
+      "Pueblo Stories And Storytellers",
+      "Rhapsody in Nature",
+      "Rip Van Winkle",
+      "Ruslan and Ludmila",
+      "Seven Simeons",
+      "Stories for Little Sioux & Others Too",
+      "Te Marae",
+      "The Indian's Secret World",
+      "The Journal of Etienne Mercier",
+      "The Picts and the Scots",
+      "The Wave of the Sea-Wolf"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_arcade",
+    "date": "November 14, 2021",
+    "books": [
+      "Cable Car Carnival",
+      "Desert Water",
+      "How to Read a Suit",
+      "Pocket Atlas of Remote Islands"
+    ],
+    "note": "Saw Cable Car a few weeks earlier so stopped by with Briseida and picked it up (and three more)"
+  },
+  {
+    "type": "given",
+    "giver": "Alan Martinez",
+    "date": "November 13, 2021",
+    "books": [
+      "The New View Over Atlantis"
+    ],
+    "note": "Another gift from Alan getting rid of old occult books. We'd been talking about ley lines a few weeks ago and he remembered he had this book about them"
+  },
+  {
+    "type": "given",
+    "giver": "Alan from Cafe International",
+    "date": "November 6, 2021",
+    "books": [
+      "Earth Ascending",
+      "Necronomicon",
+      "The Egyptian Miracle",
+      "Witchcraft and the Gay Counterculture (9780915480012)"
+    ],
+    "note": "I already had a copy of Witchcraft, but this is a first-edition copy"
+  },
+  {
+    "type": "found",
+    "location": "little_free_library_dolores",
+    "date": "November 5, 2021",
+    "books": [
+      "Pictorial Webster's"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "paxton_gate",
+    "date": "November 4, 2021",
+    "books": [
+      "50 Things to Do with a Penknife",
+      "The Hidden Beauty of Seeds Fruits",
+      "The Sinister Beauty of Carnivorous Plants",
+      "The Sky Atlas"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "November 3, 2021",
+    "books": [
+      "A History of Costume",
+      "Canoes",
+      "Dandy Lion",
+      "Storey's Guide to Raising Chickens",
+      "Hand Shadows and More Hand Shadows",
+      "Kay Nielsen",
+      "Piranesi",
+      "Play & Enjoy the Didjeridu of the Australian Aboriginal",
+      "Skiing with Pfeiffer",
+      "The Rubáiyát of Omar Khayyám",
+      "Zuni Fetishes"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "the_strand",
+    "date": "October 21, 2021",
+    "books": [
+      "Alphonse Mucha (9788857232430)",
+      "Chemical Communication",
+      "Garden Gates and Arches",
+      "Green Glyphs Lenormand",
+      "Ojime",
+      "Practical Sigil Magic",
+      "Spider-Man: Into the Spider-Verse",
+      "The Magical World of Moss Gardening",
+      "The Poster in History",
+      "Vanishing Act"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "patricias",
+    "date": "October 21, 2021",
+    "books": [
+      "Shadowplay"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brooklyn_botanic_garden",
+    "date": "October 17, 2021",
+    "books": [
+      "Building Stone Walls",
+      "The Melon"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "forest_books",
+    "date": "October 13, 2021",
+    "books": [
+      "Aikido and the Dynamic Sphere",
+      "Japanese Temples",
+      "Tassajara Cooking"
+    ],
+    "note": "Saw Aikido at Green Apple a while back. Saw Japanese Temples on a previous visit but it was too big for my backpack. Saw Tassajara on the way out and made another purchase"
+  },
+  {
+    "type": "purchased",
+    "location": "forest_books",
+    "date": "October 11, 2021",
+    "books": [
+      "Firecrackers",
+      "Old World Civilizations",
+      "Sadhus",
+      "Splendors of the Past",
+      "The Essence of Aikido",
+      "The Maronites",
+      "The Whirling Ecstasy"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Adam Sussman",
+    "date": "October 9, 2021",
+    "books": [
+      "Floriography"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "October 9, 2021",
+    "books": [
+      "In Search of Elsewhere",
+      "The Big Penis Book",
+      "The Posy Book"
+    ],
+    "note": "Big Penis Book was pressed flat against the wall on the bottom shelf, one of two books in their short section: Erotica. I had seen Posy Book a few times previously. Bought them for my bday"
+  },
+  {
+    "type": "given",
+    "giver": "Josh Chang",
+    "date": "September 30, 2021",
+    "books": [
+      "The Physiology of Taste"
+    ],
+    "note": "I saw this in Josh's house and coveted it; he said I could have it so I told him it would be my birthday present"
+  },
+  {
+    "type": "found",
+    "location": "little_free_library_dolores",
+    "date": "September 29, 2021",
+    "books": [
+      "Minecraft"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "moes",
+    "date": "September 26, 2021",
+    "books": [
+      "Animal Migration",
+      "Bad Luck, Hot Rocks",
+      "Brian Froud's Goblins!",
+      "Designing and Painting for the Theatre",
+      "Easy-to-Make Old-Fashioned Toys",
+      "Flames of Devotion",
+      "Folk Jewelry of the World",
+      "Georges de La Tour",
+      "Bologneser Tarockspiel des 17. Jahrhunderts",
+      "Little Manual for Players of the Glass Bead Game",
+      "Making Artist's Tools",
+      "Old Possum's Book of Practical Cats",
+      "People I've Met from the Internet",
+      "The Power of Limits",
+      "Pukka Indian",
+      "The Art of the Tin Toy",
+      "The Living Tradition of Yup'ik Masks",
+      "The Perfume Atomizer",
+      "The Phenomenon of Life",
+      "The Pre-Raphaelites",
+      "The Splendor of Iridescence",
+      "Vaudou / Voodoo / Vudù",
+      "Weather of the San Francisco Bay Region"
+    ],
+    "note": "Bologneser Tarockspiel was quite unexpected; it was randomly sticking out of a book cart with no identifying info"
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "September 26, 2021",
+    "books": [
+      "Lust Unearthed"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "half_price_books",
+    "date": "September 26, 2021",
+    "books": [
+      "Moss Gardening",
+      "The Book of Ceremonial Magic (1961 edition)",
+      "Tim Burton's Nightmare Before Christmas"
+    ],
+    "note": "I already owned Ceremonial Magic, but this one was rare ($150) and looked cooler"
+  },
+  {
+    "type": "purchased",
+    "location": "forest_books",
+    "date": "September 25, 2021",
+    "books": [
+      "Cultures in Transition",
+      "J.M.W. Turner",
+      "Living Tribes",
+      "Planet Peru",
+      "Tsutsumu"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "community_thrift",
+    "date": "September 23, 2021",
+    "books": [
+      "Classic Russian Idylls",
+      "Mountain Light"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "cliffs_variety",
+    "date": "September 20, 2021",
+    "books": [
+      "Weaving"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_arcade",
+    "date": "September 19, 2021",
+    "books": [
+      "A Bestiary of the Anthropocene",
+      "Printed in North Korea"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "adobe_books",
+    "date": "September 17, 2021",
+    "books": [
+      "Braids",
+      "Handbook on Irish Genealogy",
+      "Islamic Science",
+      "Rugs",
+      "The Historical Encyclopedia of Costume"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "alley_cat_books",
+    "date": "September 17, 2021",
+    "books": [
+      "Classical Dances & Costumes of India"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "September 6, 2021",
+    "books": [
+      "Mister Rogers' Neighborhood",
+      "Snow Crystals",
+      "String Figures and How to Make Them"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "readers_books",
+    "date": "September 4, 2021",
+    "books": [
+      "Masks of the World",
+      "Na Lei Makamae",
+      "Shadows",
+      "The Animal Family"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fayes",
+    "date": "September 1, 2021",
+    "books": [
+      "The Field Guide to Dumb Birds of North America"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "books_inc_berkeley",
+    "date": "July 25, 2021",
+    "books": [
+      "Avatar: The Last Airbender",
+      "Terrarium",
+      "The Art of the National Parks"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "half_price_books",
+    "date": "July 25, 2021",
+    "books": [
+      "Under the Skin",
+      "Untamed Encounters"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "darvills_book_store",
+    "date": "June 12, 2021",
+    "books": [
+      "Buchanan–Smith's Axe Handbook",
+      "Hands at Work",
+      "The Pebble Spotter's Guide",
+      "Wild Berries of Washington and Oregon"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "vashon_island_books",
+    "date": "June 11, 2021",
+    "books": [
+      "Architecture (9780442215354)",
+      "Costume & Fashion",
+      "Drawing the Curtain",
+      "Haida Art",
+      "Mirror of the Orient",
+      "Patterns in Nature (9780316813310)",
+      "Scents",
+      "Seeing Seeds",
+      "Signs, Symbols & Ornaments",
+      "The Invention of the Western Garden"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "May 16, 2021",
+    "books": [
+      "Japanese Detail",
+      "Nature's Palette",
+      "The Ancestral Power of Amulets, Talismans, and Mascots",
+      "The Art of The Hobbit by J.R.R. Tolkien"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "April 25, 2021",
+    "books": [
+      "Bruce Sargeant and His Circle",
+      "Eye to Eye",
+      "Große Bürgerbauten deutscher Vergangenheit",
+      "The Art of Making Dances",
+      "The Gay Seventies"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_castro",
+    "date": "April 24, 2021",
+    "books": [
+      "Accidentally Wes Anderson",
+      "Architecture Without Architects",
+      "How Not to Kill Yourself",
+      "How to Raise a Plant and Make It Love You Back",
+      "Loving",
+      "The Book of Ceremonial Magic (9780486818054)"
+    ]
+  },
+  {
+    "type": "found",
+    "date": "April 24, 2021",
+    "books": [
+      "Weatherwise"
+    ],
+    "note": "Found in a Free Little Library on walk with Armando"
+  },
+  {
+    "type": "given",
+    "giver": "Michael Cassleman",
+    "date": "April 9, 2021",
+    "books": [
+      "Beasts",
+      "Northwest Weeds"
+    ],
+    "note": "Christmas gift from Michael that he gave the next time he saw me"
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "April 8, 2021",
+    "books": [
+      "A Year of Embroidery",
+      "ABC Puppetry",
+      "Conscious Creativity",
+      "Creative Clowning",
+      "Stage Design and Properties"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "date": "April 7, 2021",
+    "books": [
+      "Designing for the Theatre",
+      "Himalayan Style",
+      "Moss",
+      "Natural Wonders of the World",
+      "The Fine Art of Paper Flowers",
+      "The Unquiet Landscape"
+    ]
+  },
+  {
+    "type": "given",
+    "location": "mutual_aid_books_popup_station",
+    "date": "March 21, 2021",
+    "books": [
+      "Braiding Sweetgrass",
+      "The Combahee River Collective Statement"
+    ],
+    "note": "Given by Mutual Aid Books at a pop-up outside The Station; Alex Neff from high school was working there"
+  },
+  {
+    "type": "purchased",
+    "location": "seamart_samples",
+    "date": "March 20, 2021",
+    "books": [
+      "Food Anatomy",
+      "Knife Skills Illustrated",
+      "The World Encyclopedia of Calligraphy"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fantagraphics_books",
+    "date": "March 20, 2021",
+    "books": [
+      "Forgiveness is Really Strange"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "February 27, 2021",
+    "books": [
+      "Four Quartets",
+      "Great Plains",
+      "Paper Dandy's Horrorgami",
+      "Saltscapes",
+      "The Art of Wolfwalkers",
+      "The Grand Budapest Hotel",
+      "The Houseboat Book",
+      "The Papercraft Ideas Book",
+      "The World of the Dark Crystal"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "February 14, 2021",
+    "books": [
+      "Brick",
+      "Stone (9780714879253)",
+      "The ACME Novelty Library #16",
+      "The Alcatraz Florilegium",
+      "The Hidden Geometry of Flowers",
+      "The Water Garden",
+      "Wood",
+      "You Are Here"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple_books_on_the_park",
+    "date": "January 12, 2021",
+    "books": [
+      "Fruit Cake"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Jason Dana",
+    "date": "January 12, 2021",
+    "books": [
+      "The Hidden Tracks"
+    ],
+    "note": "Jason and I were shopping together at Green Apple on the Park; I mentioned wanting it and he got it as a belated bday present"
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "December 31, 2020",
+    "books": [
+      "Airline Maps",
+      "Alison Berger",
+      "Ataxia II",
+      "Edward Gorey's Dracula",
+      "Japanese Taupe Quilts",
+      "Natural Architecture",
+      "Rocks & Fossils",
+      "Spectacular Helmets of Japan",
+      "The Topography of Tears",
+      "The Vanishing Stepwells of India",
+      "Traditional Houses of Rural Spain"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "December 30, 2020",
+    "books": [
+      "Faking It",
+      "Hilma af Klint",
+      "Ratio",
+      "The Sleeping Beauty",
+      "Symbol Sourcebook",
+      "Victorian London Street Life in Historic Photographs",
+      "Yokainoshima"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "cove",
+    "date": "December 18, 2020",
+    "books": [
+      "Pepper"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "point_reyes_books",
+    "date": "November 17, 2020",
+    "books": [
+      "Archipelago",
+      "Gossamer Days",
+      "How Zoologists Organize Things",
+      "Knots",
+      "Local Color",
+      "Monumental Journey",
+      "Ottolenghi Flavor",
+      "Patterns in Art",
+      "What It's Like to Be a Bird"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "November 1, 2020",
+    "books": [
+      "Building the Book Cathedral",
+      "Crystals",
+      "Paul Cadmus",
+      "Stage & Television Design of Japan II (1970-1978)",
+      "Toy Stories",
+      "Universal Principles of Design"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "October 17, 2020",
+    "books": [
+      "Circle Houses",
+      "Helios",
+      "Labyrinths & Mazes",
+      "Sun and Moon",
+      "The Wisdom of Trees",
+      "Wild Migrations"
+    ],
+    "todo": "Disambiguate book refs (plain titles map to multiple books): ['Labyrinths & Mazes']"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 22, 2020",
+    "books": [
+      "A Book of Chores",
+      "Ancient Angkor",
+      "Clues to American Architecture",
+      "Drawn from African Dwellings",
+      "Fenist the Falcon",
+      "Glimpses of Paradise",
+      "Gothic Gargoyles",
+      "Hobo Mom",
+      "Interior Design Illustrated",
+      "Marya Morevna",
+      "Nomads of the Serengeti",
+      "Railway Maps of the World",
+      "Rural America",
+      "The Body Decorated",
+      "The Curious Naturalist",
+      "The Frog Princess",
+      "The Peoples of the Great North",
+      "The Tale of Tsarevitch Ivan, the Fire-bird and Grey Wolf",
+      "Traditional Dress",
+      "Vassilisa the Beautiful"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 20, 2020",
+    "books": [
+      "A Book of Colors",
+      "Alphonse Mucha (9780856706868)",
+      "Designing from Nature",
+      "I Remember America",
+      "Landscapes of the World",
+      "One Hundred & One Beautiful Small Towns in Italy",
+      "Tassels",
+      "The Pipe Book",
+      "The World of Puppets"
+    ]
+  },
+  {
+    "type": "purchased",
+    "date": "August 8, 2020",
+    "books": [
+      "Film Posters of the Russian Avant-Garde",
+      "New Garden Book"
+    ],
+    "note": "From the thrift-type store when you first drive into Palouse"
+  },
+  {
+    "type": "ordered",
+    "date": "July 20, 2020",
+    "books": [
+      "A Children's Book of Demons",
+      "Spirit City Toronto"
+    ],
+    "note": "I came across the Book of Demons while searching for something similar I remember seeing at the Strand. It had a bunch of spam 1-star reviews from religious folks and was totally sold out. I emailed the author to see if there'd be a reprint; he said no but he'd send me a copy. It took forever, but arrived from Canada in the height of COVID, and signed no less! I bought another one of his books as a bonus"
+  },
+  {
+    "type": "given",
+    "giver": "Brendan Cassleman",
+    "date": "March 14, 2020",
+    "books": [
+      "Earthquakes and Geological Discovery",
+      "Fieldbook",
+      "Water (9781770858138)"
+    ],
+    "note": "Bren had bought these on his travels and gave them to me when he visited me in SF"
+  },
+  {
+    "type": "purchased",
+    "location": "green_arcade",
+    "date": "March 7, 2020",
+    "books": [
+      "Board Games",
+      "Map",
+      "Simple Shelters",
+      "The Art of Growing Miniature Trees, Plants and Landscapes"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "February 29, 2020",
+    "books": [
+      "Dragons",
+      "Fairies and Elves",
+      "Garden Florals",
+      "Gods and Goddesses",
+      "The Book of Pears",
+      "Wizards and Witches"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "point_reyes_books",
+    "date": "February 23, 2020",
+    "books": [
+      "How to Read the Landscape",
+      "Scale and the Incas"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "February 16, 2020",
+    "books": [
+      "Authentic Designs from the American Arts and Craft Movement",
+      "Dulac's Fair Taile Illustrations",
+      "Tahiti Tattoos"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "alley_cat_books",
+    "date": "February 15, 2020",
+    "books": [
+      "Edward Gorey",
+      "Gay Semiotics"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "william_stout_architectural_books",
+    "date": "February 11, 2020",
+    "books": [
+      "Glass Houses",
+      "The Follies and Garden Buildings of Ireland"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "adobe_books",
+    "date": "February 8, 2020",
+    "books": [
+      "An Introduction to the Study of Costume"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_castro",
+    "date": "February 8, 2020",
+    "books": [
+      "Los Capriochos"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "alley_cat_books",
+    "date": "February 8, 2020",
+    "books": [
+      "Stone (9780810938472)",
+      "The Clans and Tartans of Scotland",
+      "The Naughty Victorian Hand Book",
+      "Weather Almanac"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "green_apple",
+    "date": "February 1, 2020",
+    "books": [
+      "Nordic Landscape Painting in the Nineteenth Century",
+      "Patterns that Connect",
+      "The Genesis and Geometry of the Labyrinth",
+      "The Stars",
+      "Thirty-Six Views of the Eiffel Tower"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "stable_cafe",
+    "date": "January 29, 2020",
+    "books": [
+      "Decorating with Plants"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "william_stout_architectural_books",
+    "date": "January 27, 2020",
+    "books": [
+      "Buildings in Wood",
+      "Stav og laft i Norge"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "books_and_bookshelves",
+    "date": "January 25, 2020",
+    "books": [
+      "Craft Traditions of the World"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_castro",
+    "date": "January 25, 2020",
+    "books": [
+      "The Country Diary of an Edwardian Lady"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "January 18, 2020",
+    "books": [
+      "300 Art Nouveau Designs and Motifs in Full Color",
+      "Blackstock's Collections",
+      "Rackham's Fairy Tale Illustrations in Full Color",
+      "Shelter",
+      "Textiiles"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "russian_hill_bookstore",
+    "date": "January 16, 2020",
+    "books": [
+      "A Reverence for Wood",
+      "Victorian Architecture"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "russian_hill_bookstore",
+    "date": "January 14, 2020",
+    "books": [
+      "Peasant Costume in Europe, Book I",
+      "Peasant Costume in Europe, Book II",
+      "The Ancient Art of Northern Asia",
+      "The Holy Land"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_valencia",
+    "date": "January 5, 2020",
+    "books": [
+      "Scarecrows",
+      "Shin Hanga",
+      "Turner and the Sublime"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "December 26, 2019",
+    "books": [
+      "Antique Musical Instruments and Their Players",
+      "Eskimo Masks",
+      "Galley of American Quilts 1849–1988",
+      "Historic Designs and Patterns in Color From Arabic and Italian Sources",
+      "Jungle Bugs",
+      "Kites",
+      "Mergen and His Friends",
+      "National Audubon Society Field Guide to North American Weather",
+      "Nursery Tales Around the Wold",
+      "Outlines of Chinese Symbolism and Art Motives",
+      "The Firebird",
+      "The Lunar Almanac",
+      "Trolls and Their Relatives"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "russian_hill_bookstore",
+    "date": "December 19, 2019",
+    "books": [
+      "Ethiopian Magic Scrolls",
+      "Japanese Ghosts and Demons",
+      "Landscape Design",
+      "Rossetti"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "the_strand",
+    "date": "November 30, 2019",
+    "books": [
+      "A Field Guide to Rock Art Symbols of the Greater Southwest",
+      "A Field Guide to Trees and Shrubs",
+      "Art Nouveau",
+      "David Roberts",
+      "Dulac",
+      "Moths",
+      "The Curves of Life",
+      "The Orientalists"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "spoonbill_and_sugartown",
+    "date": "November 25, 2019",
+    "books": [
+      "Alchemy & Mysticism",
+      "The Living Surface"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "mcnally_jackson_books_williamsburg",
+    "date": "November 25, 2019",
+    "books": [
+      "Bird Life",
+      "Pond Life",
+      "Rocks, Gems and Minerals",
+      "Scat & Tracks of North America",
+      "Wildflowers"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "date": "February 4, 2016",
+    "books": [
+      "The Elements of Sculpture"
+    ]
+  },
+  {
+    "type": "stolen",
+    "date": "January 1, 2016",
+    "books": [
+      "Folk-Lore and Fable"
+    ],
+    "note": "The only thing I've ever stolen. I nabbed it from Anna Hill's old roommate"
+  },
+  {
+    "type": "given",
+    "giver": "Herbert George",
+    "date": "July 2022",
+    "books": [
+      "Shadow Portraits / Still Live Sculptures",
+      "Notes on Making a Sculpture"
+    ],
+    "note": "Herbert sent me some booklets and ephemera of his work after I completed his (second) website redesign"
+  },
+  {
+    "type": "given",
+    "giver": "Chase Nolan",
+    "date": "July 30, 2022",
+    "books": [
+      "The Blind Assassin"
+    ]
+  },
+  {
+    "type": "found",
+    "books": [
+      "Sandry's Book"
+    ],
+    "note": "I found this in a Free Little Library in San Francisco somewhere in the Mission"
+  },
+  {
+    "type": "found",
+    "books": [
+      "Pathfinder Roleplaying Game"
+    ]
+  },
+  {
+    "type": "gave",
+    "receiver": "Irish Michael from Café International",
+    "books": [
+      "Weather Almanac",
+      "How to Read the Landscape"
+    ],
+    "note": "Michael said he was going to walk across the country so I gave him these hoping they'd help him or be interesting"
+  },
+  {
+    "type": "given",
+    "giver": "Maria",
+    "books": [
+      "This Is How You Lose the Time War"
+    ]
+  },
+  {
+    "type": "given",
+    "books": [
+      "The Song of Achilles"
+    ],
+    "note": "I forgot who gave this to me but I think it was sometime after leaving Pilot and before moving back to Pullman"
+  },
+  {
+    "type": "given",
+    "giver": "Brendan Cassleman",
+    "books": [
+      "Woodlander"
+    ],
+    "note": "Bren got this from Woodcraft in Spokane Valley and probably gave it to me late 2023 / early 2024"
+  },
+  {
+    "type": "given",
+    "giver": "John Cassleman and Shanell Cox",
+    "books": [
+      "Flowers and Herbs of Early America"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Pilot",
+    "books": [
+      "A Philosophy of Software Design"
+    ],
+    "note": "We had a reading group at Pilot and read this book together"
+  },
+  {
+    "type": "given",
+    "giver": "Don Sensei",
+    "books": [
+      "Aikido and the Harmony of Nature",
+      "The New Aikido Complete"
+    ]
+  },
+  {
+    "type": "given",
+    "books": [
+      "The Art of Journey"
+    ],
+    "note": "I think this was a bday gift from one or more roommates in New York (Anna, Kalil, Willie, Erin)"
+  },
+  {
+    "type": "given",
+    "giver": "Julia Quigley",
+    "books": [
+      "Egon Schiele"
+    ],
+    "note": "Julia got this for me after seeing an exhibit on Schiele at Neue Galerie in NYC and thinking I'd identify with him"
+  },
+  {
+    "type": "given",
+    "giver": "Bradley Klein",
+    "books": [
+      "Field Guide to the Neighborhood Birds of New York City"
+    ],
+    "note": "I went to a few bird watching tours at BBG and got this from the guide who was giving it away"
+  },
+  {
+    "type": "given",
+    "giver": "John Cassleman",
+    "books": [
+      "Goblin Market",
+      "Hershel and the Hanukkah Goblins"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Michael George",
+    "books": [
+      "Night Sky With Exit Wounds"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Mom and Dad",
+    "books": [
+      "Palouse Perspective",
+      "The Pea and Lentil Cookbook"
+    ],
+    "note": "Given to me as a going away present for college"
+  },
+  {
+    "type": "given",
+    "giver": "Mom and Dad",
+    "books": [
+      "Manuscript Guide to Calligraphy"
+    ],
+    "note": "Calligraphy pens and books were a birthday present"
+  },
+  {
+    "type": "given",
+    "giver": "Rachel Hwang",
+    "books": [
+      "The Arrival"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Berenice Fernandez",
+    "books": [
+      "The Circus in America"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Yext",
+    "books": [
+      "The Creative Curve"
+    ],
+    "note": "Yext hosted this speaker to give a talk; and I got a free copy of the book afterwards"
+  },
+  {
+    "type": "given",
+    "giver": "Linda Howell",
+    "books": [
+      "The Phantom Tollbooth"
+    ],
+    "note": "Gifted from Linda as a graduation present"
+  },
+  {
+    "type": "given",
+    "giver": "Rob Cassleman",
+    "books": [
+      "The Slow Regard of Silent Things"
+    ],
+    "note": "I had mentioned liking Patrick Rothfuss to Dad and he bought this for me"
+  },
+  {
+    "type": "given",
+    "giver": "Willie Calvin and Erin Simpson",
+    "books": [
+      "The Technique of Copperplate Calligraphy"
+    ],
+    "note": "Birthday gift from the Prettiest Girls"
+  },
+  {
+    "type": "given",
+    "giver": "Zak Martellucci",
+    "books": [
+      "The Wisdom of the Enneagram"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Myles Juzkow",
+    "books": [
+      "Witchcraft and the Gay Counterculture (Fag Rag edition)"
+    ]
+  },
+  {
+    "type": "given",
+    "giver": "Charlie Barlow",
+    "books": [
+      "Roald Dahl's Revolting Recipes"
+    ],
+    "note": "This was Charlie's old book; he gave it to me while we were writing to each other over the summer in 2009 or 2010"
+  },
+  {
+    "type": "inherited",
+    "location": "home",
+    "books": [
+      "Architecture (lccn 62015928)"
+    ]
+  },
+  {
+    "type": "inherited",
+    "location": "home",
+    "books": [
+      "The Little Guide to Bugs",
+      "The Tao of Food"
+    ],
+    "note": "I think the Tao of Food used to be Bren's but I took it"
+  },
+  {
+    "type": "inherited",
+    "location": "home",
+    "books": [
+      "Insects",
+      "Maps and Mapmaking"
+    ]
+  },
+  {
+    "type": "inherited",
+    "books": [
+      "Maps and Mapmaking"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "books": [
+      "Beekeeping for Dummies"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "books": [
+      "The Hchom Book"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "books": [
+      "Drawing on the Right Side of the Brain",
+      "Game Design Workshop",
+      "The Perfect Scoop"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "books": [
+      "Structure and Interpretation of Computer Programs"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "books": [
+      "The Art of Princess Mononoke"
+    ]
+  },
+  {
+    "type": "ordered",
+    "location": "internet",
+    "books": [
+      "The Art of Game Design"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "books": [
+      "Encyclopedia of Gods"
+    ],
+    "note": "I bought this book in high school and found it somewhere in the house after moving back"
+  },
+  {
+    "type": "purchased",
+    "location": "open_eye",
+    "books": [
+      "The Story of Noah's Ark"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "half_price_books",
+    "books": [
+      "The Watchmaker of Filigree Street"
+    ],
+    "note": "I bought this to lend to Adam Tigar"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "The Fireside Encyclopædia of Poetry"
+    ],
+    "note": "I might have gotten this from Bruised Apple Books, but I could be conflating that with Johnson's dictionary"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "A Life in Photography"
+    ],
+    "note": "I didn't catalog this when I bought it. I think I bought it from Brused Books"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Haunted Air"
+    ],
+    "note": "I didn't catalog this when I bought it. I'm pretty sure I got it in SF and think maybe William Stout basement, but I'm probably conflating that with Untitled"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Talking Stones"
+    ],
+    "note": "I didn't catalog this when I bought it and I don't remember when or where it came from"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Toxic Garden"
+    ],
+    "note": "I didn't catalog this when I bought it. I have a feeling I got it in New York (but might be conflating it with the Living Surface which also has a delicate cover). I think I got it new, it has a really fragile cover that would have been definitely gotten messed up if used"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Aquatic Entomology"
+    ],
+    "note": "I didn't catalog when I bought this but I think it came from Brused Books"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Lost in Translation"
+    ],
+    "note": "I didn't catalog when I bought this. It's new, and I'm thinking maybe Point Reyes Station or Booksmith"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Knots"
+    ],
+    "note": "I didn't catalog when I bought this, but I think I purchased it from Point Reyes Station"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "The Laws Guide to Nature Drawing and Journaling",
+      "The Laws Guide to Drawing Birds"
+    ],
+    "note": "I'm surprised I don't have a record of either of these; I have no idea when or where I got them, but they're both new"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Belknap's Waterproof Grand Canyon River Guide"
+    ],
+    "note": "Purchased from CRATE before our Grand Canyon boat trip"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Great Moments in Architecture"
+    ],
+    "note": "I didn't catalog this when I bought it, but it might have come from Moe's"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "From Nudity to Raiment"
+    ],
+    "note": "I didn't catalog this when I bought it, but I think I got it from Adobe Books"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Hometown Diners"
+    ],
+    "note": "I didn't catalog this when I bought it. It was used, listed at original sale price, which makes me think it came from William Stout, maybe Sept 23, 2022"
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Handmade in Japan"
+    ],
+    "note": "I didn't catalog this when I bought it. I think it came from my Moe's purchase on Sept 25, 2022"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "books": [
+      "Olmec Art of Ancient Mexico"
+    ],
+    "note": "I think I bought this in early 2024 but forgot to catalog the date and found it in the house later on"
+  },
+  {
+    "type": "purchased",
+    "location": "patricias",
+    "books": [
+      "A New History of Photography",
+      "Bruno Munari",
+      "Landscape Gardening in Japan",
+      "Los Mayas"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "alley_cat_books",
+    "books": [
+      "Architectural Acoustics",
+      "Complete Book of Paper Mask Making"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "scarlet_sage",
+    "books": [
+      "Botany in a Day"
+    ]
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "French Posters"
+    ],
+    "note": "Purchased from a little used book store in Moscow I lost the name of"
+  },
+  {
+    "type": "purchased",
+    "location": "green_arcade",
+    "books": [
+      "Fylling's Illustrated Guide to Pacific Coast Tide Pools",
+      "The Poster Art of David Lance Goines"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "alexander_book_company",
+    "books": [
+      "Gettings Things Done"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "books": [
+      "Good Faeries, Bad Faeries",
+      "How to Think Like Leonardo da Vinci",
+      "Musical Instruments of the World",
+      "Stikky Night Skies",
+      "The Field Guide to Geology"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "books": [
+      "Wheel of the Year"
+    ],
+    "note": "I bought this in high school but lost track of all my Wiccan books. I found this one in a random box of books around Christmas 2021 and it took me a second to remember it"
+  },
+  {
+    "type": "purchased",
+    "location": "bruised_apple_books",
+    "books": [
+      "Irish Fairy and Folk Tales",
+      "Dictionary of the English Language"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "the_strand",
+    "books": [
+      "Iron Gold",
+      "Rogues",
+      "Salt, Fat, Acid, Heat",
+      "Stone Mattress",
+      "The Name of the Wind",
+      "The Stone Sky",
+      "The Wise Man's Fear"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "31_trinity",
+    "books": [
+      "Medieval Russian Ornament in Full Color",
+      "The Sinister Garden"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "dog_eared_books_castro",
+    "books": [
+      "The Book of Symbols",
+      "The Maze"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "powells",
+    "books": [
+      "The Butterflies of North America",
+      "The Collected Poems of Wallance Stevens"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "bookpeople",
+    "books": [
+      "The Illustrated Book of Edible Plants"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "seminary_coop",
+    "books": [
+      "We Made Uranium!"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "henderson_books",
+    "books": [
+      "Weeds in Winter"
+    ]
+  },
+  {
+    "type": "purchased",
+    "books": [
+      "Drawing"
+    ],
+    "note": "Bought early on at the big thrift sale at Beasley"
+  }
+]
