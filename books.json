@@ -1,5 +1,64 @@
 [
   {
+    "title": "People of the Stone Age",
+    "subtitle": "Hunter-Gatherers and Early Farmers",
+    "series": "Illuminated History of Humankind",
+    "isbn10": "0062502646",
+    "isbn13": "9780062502643",
+    "note": "Volume 2, Illuminated History of Humankind"
+  },
+  {
+    "title": "Spirits of the Snow",
+    "subtitle": "Arctic Myth",
+    "series": "Myth and Mankind",
+    "isbn10": "0705436535",
+    "isbn13": "9780705436533"
+  },
+  {
+    "title": "Crossroads of Continents",
+    "subtitle": "Cultures of Siberia and Alaska",
+    "isbn10": "0874744423",
+    "isbn13": "9780874744422"
+  },
+  {
+    "title": "Sadhus & Shamans",
+    "isbn10": "8174368647",
+    "isbn13": "9788174368645"
+  },
+  {
+    "title": "Colonial Living",
+    "isbn10": "0801862272",
+    "isbn13": "9780801862274"
+  },
+  {
+    "title": "Nez Perce Women in Transition, 1877–1990",
+    "isbn10": "0893011886",
+    "isbn13": "9780893011888"
+  },
+  {
+    "title": "Arthur and the Golden Rope",
+    "isbn10": "1911171038",
+    "isbn13": "9781911171034"
+  },
+  {
+    "title": "The Way of Animal Powers",
+    "subtitle": "Historical Atlas of World Mythology",
+    "isbn10": "0912383003",
+    "isbn13": "9780912383002",
+    "note": "Volume 1, Historical Atlas of World Mythology"
+  },
+  {
+    "title": "Palouse Country",
+    "disambiguation": "Palouse Country (George Bedirian)",
+    "note": "By George Bedirian, no IDs listed on book"
+  },
+  {
+    "title": "Palouse Prairie Field Guide",
+    "subtitle": "An Introductory Guide to Native Plants, Agricultural Crops, and Invasive Weeds for the Curious",
+    "isbn13": "9780692076187",
+    "note": "ISBN listed on spiral-bound book but not found online"
+  },
+  {
     "title": "Pre-Rafaelite, Symbolist, Visionary",
     "isbn13": "9781872508078"
   },
@@ -2888,6 +2947,7 @@
     "subtitle": "A Land and Its People, Oral History Edition",
     "isbn10": "0963731017",
     "isbn13": "9780963731012",
+    "disambiguation": "Palouse Country (9780963731012)",
     "external": "https://www.goodreads.com/book/show/3325717-palouse-country"
   },
   {

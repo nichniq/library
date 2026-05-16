@@ -1,4 +1,22 @@
 [
+{
+  "type": "purchased",
+  "location": "brused_books",
+  "date": "May 11, 2026",
+  "books": [
+    "People of the Stone Age",
+    "Spirits of the Snow",
+    "Crossroads of Continents",
+    "Sadhus & Shamans",
+    "Colonial Living",
+    "Nez Perce Women in Transition, 1877–1990",
+    "Arthur and the Golden Rope",
+    "The Way of Animal Powers",
+    "Palouse Country (George Bedirian)",
+    "Palouse Prairie Field Guide"
+  ],
+  "cost": "$95.54"
+},
   {
     "type": "purchased",
     "location": "online",
@@ -1419,7 +1437,7 @@
       "The Art of James Christensen",
       "Over Washington",
       "Window to the Palouse",
-      "Palouse Country"
+      "Palouse Country (9780963731012)"
     ],
     "cost": "$98.08"
   },
