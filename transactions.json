@@ -29,6 +29,16 @@
   {
     "type": "purchased",
     "location": "online",
+    "date": "May 10, 2026",
+    "books": [
+      "The Art of Final Fantasy Tactics"
+    ],
+    "cost": "$41.02",
+    "note": "Pre-ordered from Square-Enix website; $27.99 + tax and shipping; release date Nov 10, 2026"
+  },
+  {
+    "type": "purchased",
+    "location": "online",
     "date": "May 6, 2026",
     "books": [
       "Pre-Rafaelite, Symbolist, Visionary"
