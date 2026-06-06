@@ -1,4 +1,61 @@
 [
+    {
+    "title": "A Pattern Language",
+    "subtitle": "Towns, Buildings, Construction",
+    "isbn10": "0195019199",
+    "isbn13": "9780195019193",
+    "disambiguation": "A Pattern Language (2nd copy)",
+    "note": "I'd bought this one a month ago in Seattle thinking I got it at a good price ($30). It was half the price here (though in worse condition). I bought it to give to someone I know will appreciate it"
+  },
+  {
+    "title": "American Gargoyles",
+    "subtitle": "Spirits in Stone",
+    "isbn10": "0609606859",
+    "isbn13": "9780609606858"
+  },
+  {
+    "title": "Architectural Ornamentalism",
+    "subtitle": "Detailing in the Craft Tradition",
+    "isbn10": "0823070395",
+    "isbn13": "9780823070398"
+  },
+  {
+    "title": "Those Snake River Dams",
+    "isbn10": "0971146209",
+    "isbn13": "9780971146204"
+  },
+  {
+    "title": "Lietuvių liaudies menas",
+    "subtitle": "Lithuanian Folk Art",
+    "isbn10": "5415003630",
+    "isbn13": "9785415003631",
+    "note": "The book is in Lithuanian, English, and Russian"
+  },
+  {
+    "title": "Norman Rockwell",
+    "isbn10": "1572152915",
+    "isbn13": "9781572152915",
+    "disambiguation": "Norman Rockwell (9781572152915)"
+  },
+  {
+    "title": "Gazebos",
+    "subtitle": "And Other Garden Structures",
+    "isbn10": "091235500X",
+    "isbn13": "9780912355009"
+  },
+  {
+    "title": "Thomas Eakins",
+    "isbn10": "0300091117",
+    "isbn13": "9780300091113",
+    "disambiguation": "Thomas Eakins (9780300091113)",
+    "note": "I'd seen this in the window for a long time and it always caught my eye. I figured I'd already looked at it. Then realized I had another book about Eakins subtitled The Absolute Male and had not actually flipped through this one. I took a look and was hooked"
+  },
+  {
+    "title": "Hoofed Mammals of the World",
+    "lccn": "750169790",
+    "isbn10": "0684123827",
+    "note": "This book lists its SBN which is missing the prefixed 0"
+  },
   {
     "title": "The Art of Final Fantasy Tactics",
     "isbn13": "9798899100437"
@@ -90,7 +147,8 @@
     "title": "A Pattern Language",
     "subtitle": "Towns, Buildings, Construction",
     "isbn10": "0195019199",
-    "isbn13": "9780195019193"
+    "isbn13": "9780195019193",
+    "disambiguation": "A Pattern Language (1st copy)"
   },
   {
     "title": "Optical Illusions",
@@ -1301,6 +1359,7 @@
     "subtitle": "332 Magazine Covers",
     "isbn10": "0896600580",
     "isbn13": "9780896600584",
+    "disambiguation": "Norman Rockwell: 332 Magazine Covers",
     "external": "https://www.goodreads.com/book/show/2381696.332_Magazine_Covers"
   },
   {
@@ -8983,6 +9042,7 @@
     "subtitle": "The Absolute Male",
     "isbn10": "0789306786",
     "isbn13": "9780789306784",
+    "disambiguation": "Thomas Eakins: The Absolute Male",
     "external": "https://www.goodreads.com/book/show/118902.Thomas_Eakins_"
   },
   {

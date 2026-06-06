@@ -1,6 +1,23 @@
 [
   {
     "type": "purchased",
+    "location": "brused_books",
+    "date": "June 5, 2026",
+    "books": [
+      "A Pattern Language (2nd copy)",
+      "American Gargoyles",
+      "Architectural Ornamentalism",
+      "Those Snake River Dams",
+      "Lietuvių liaudies menas",
+      "Norman Rockwell (9781572152915)",
+      "Gazebos",
+      "Thomas Eakins (9780300091113)"
+    ],
+    "cost": "$85.86",
+    "note": "$27.50 of this was spent on uncatalogued kids books"
+  },
+  {
+    "type": "purchased",
     "location": "java_bloom",
     "date": "May 16, 2026",
     "books": [
@@ -72,7 +89,7 @@
     "location": "twice_sold_tales",
     "date": "May 4, 2026",
     "books": [
-      "A Pattern Language",
+      "A Pattern Language (1st copy)",
       "Optical Illusions",
       "Early Days",
       "Man and His Symbols",
@@ -763,7 +780,7 @@
     "giver": "Jefferson Ramsey",
     "date": "October 9, 2024",
     "books": [
-      "Norman Rockwell"
+      "Norman Rockwell: 332 Magazine Covers"
     ],
     "note": "Birthday present from Jefferson"
   },
@@ -2656,7 +2673,7 @@
       "Arts of Clay",
       "Paper",
       "The Doré Illustrations for Dante's Divine Comedy",
-      "Thomas Eakins",
+      "Thomas Eakins: The Absolute Male",
       "Water and Architecture"
     ],
     "note": "Got these while browsing with Rachel and Pasta"
