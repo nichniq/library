@@ -1,5 +1,140 @@
 [
-    {
+  {
+    "title": "Look at America"
+  },
+  {
+    "title": "Little Herder",
+    "note": "English and Navajo",
+    "isbn13": "9781858911083"
+  },
+  {
+    "title": "I Saw Esau",
+    "subtitle": "The Schoolchild's Pocket Book",
+    "isbn10": "0763611999",
+    "isbn13": "9780763611996"
+  },
+  {
+    "title": "In the Beginning",
+    "subtitle": "Creation Stories from Around the World",
+    "isbn10": "0152387404",
+    "isbn13": "9780152387402"
+  },
+  {
+    "title": "The Illustrated Shepherd's Life",
+    "isbn10": "1858911087",
+    "isbn13": "9781858911083"
+  },
+  {
+    "title": "Eric Sloane's America",
+    "isbn10": "0830002863",
+    "isbn13": "9780830002863",
+    "disambiguation": "Eric Sloane's America (9780830002863)",
+    "note": "I had a different edition of this book, but this one was bound in leather and gilded page edges so I bought it"
+  },
+  {
+    "title": "Land of the Quinault",
+    "isbn10": "0940359006",
+    "isbn13": "9780940359000"
+  },
+  {
+    "title": "Jessie Willcox Smith",
+    "isbn10": "0690014937",
+    "isbn13": "9780690014938"
+  },
+  {
+    "title": "Dream Tracks",
+    "subtitle": "The Railroad and the American Indian 1890–1930",
+    "isbn10": "0810908352",
+    "isbn13": "9780810908352"
+  },
+  {
+    "title": "Ukiyo-e to Shin Hanga",
+    "subtitle": "The Art of Japanese Woodblock Prints",
+    "isbn10": "0792453409",
+    "isbn13": "9780792453406"
+  },
+  {
+    "title": "Inside Mother Earth",
+    "subtitle": "Magic Caves",
+    "isbn10": "3934020674",
+    "isbn13": "9783934020672",
+    "note": "Text in English, German, and French"
+  },
+  {
+    "title": "The Underground House Book",
+    "isbn10": "0882661663",
+    "isbn13": "9780882661667"
+  },
+  {
+    "title": "Happy Birthday, Charlie Brown",
+    "isbn10": "0345292278",
+    "isbn13": "9780345292278"
+  },
+  {
+    "title": "The Cooking of Scandinavia",
+    "series": "Foods of the World",
+    "lccn": "98021587"
+  },
+  {
+    "title": "A Monograph of Muffins"
+  },
+  {
+    "title": "A Field Companion for Wander"
+  },
+  {
+    "title": "Russian Cooking",
+    "series": "Foods of the World",
+    "lccn": "78103302"
+  },
+  {
+    "title": "Middle Eastern Cooking",
+    "series": "Foods of the World",
+    "lccn": "70085530"
+  },
+  {
+    "title": "The City of Zacatecas",
+    "note": "The ISBN is listed as 9686084541, but online databases say that's a different book (Arquitectura y carpintería mudéjar en Nueva España)"
+  },
+  {
+    "title": "Blessings of the Cosmos",
+    "subtitle": "Benedictions from the Aramaic Words of Jesus",
+    "isbn10": "159179417X",
+    "isbn13": "9781591794172",
+    "note": "Got this with Mom and Dad in mind but was interested in the translation element"
+  },
+  {
+    "title": "Sorcerer's Screed",
+    "subtitle": "The Icelandic Book of Magic Spells",
+    "isbn10": "9935908984",
+    "isbn13": "9789935908988"
+  },
+  {
+    "title": "The Ledgerbook of Thomas Blue Eagle",
+    "isbn10": "1565660633",
+    "isbn13": "9781565660632"
+  },
+  {
+    "title": "Backroads of Washington",
+    "isbn10": "0528811010",
+    "isbn13": "9780528811012",
+    "note": "Not to be confused with Back Roads of Washington, a different book by a different author but otherwise the same premise"
+  },
+  {
+    "title": "The Modern Poster",
+    "isbn10": "0870705717",
+    "isbn13": "9780870705717"
+  },
+  {
+    "title": "Cooking by Hand",
+    "isbn10": "0609608932",
+    "isbn13": "9780609608937"
+  },
+  {
+    "title": "The Tortilla Book",
+    "isbn10": "006012346X",
+    "isbn13": "9780060123468"
+  },
+  {
     "title": "A Pattern Language",
     "subtitle": "Towns, Buildings, Construction",
     "isbn10": "0195019199",
@@ -2875,6 +3010,7 @@
     "title": "Eric Sloane's America",
     "isbn10": "0883656485",
     "isbn13": "9780883656488",
+    "disambiguation": "Eric Sloane's America (9780883656488)",
     "external": "https://www.goodreads.com/book/show/11245618-eric-sloanes-america",
     "note": "Originally published as three volumes: American Barns and Covered Bridges, Our Vanishing Landscape, American Yesterday"
   },

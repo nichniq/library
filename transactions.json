@@ -2,6 +2,73 @@
   {
     "type": "purchased",
     "location": "brused_books",
+    "date": "July 27, 2026",
+    "books": [
+      "I Saw Esau",
+      "In the Beginning",
+      "The Illustrated Shepherd's Life",
+      "Eric Sloane's America (9780830002863)",
+      "Land of the Quinault",
+      "Jessie Willcox Smith",
+      "Dream Tracks",
+      "Ukiyo-e to Shin Hanga",
+      "Inside Mother Earth",
+      "Look at America",
+      "Little Herder"
+    ],
+    "cost": "$121.73",
+    "note": "$X of this was for uncataloged children's books"
+  },
+  {
+    "type": "inherited",
+    "from": "home",
+    "date": "July 3, 2026",
+    "books": [
+      "The Cooking of Scandinavia"
+    ],
+    "note": "I noticed this book in a bookshelf at home was from the same series as two I'd just gotten from Brused Books"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "July 3, 2026",
+    "books": [
+      "The City of Zacatecas",
+      "Blessings of the Cosmos",
+      "Sorcerer's Screed",
+      "The Ledgerbook of Thomas Blue Eagle",
+      "Backroads of Washington",
+      "The Modern Poster",
+      "Cooking by Hand",
+      "The Tortilla Book",
+      "A Monograph of Muffins",
+      "A Field Companion for Wander",
+      "Russian Cooking",
+      "Middle Eastern Cooking"
+    ],
+    "cost": "$115.77"
+  },
+  {
+    "type": "inherited",
+    "from": "Gary Johnson",
+    "date": "July 3, 2026",
+    "books": [
+      "Happy Birthday, Charlie Brown"
+    ],
+    "note": "At Gary Johnson's funeral, there was a table of his old things they were giving away and I took this since he loved Snoopy"
+  },
+  {
+    "type": "purchased",
+    "location": "java_bloom",
+    "date": "July 1, 2026",
+    "books": [
+      "The Underground House Book"
+    ],
+    "note": "The entire purchase as $50.28 but that definitely included some other things"
+  },
+  {
+    "type": "purchased",
+    "location": "brused_books",
     "date": "June 5, 2026",
     "books": [
       "A Pattern Language (2nd copy)",
@@ -1400,7 +1467,7 @@
       "Nature's Chaos",
       "Frederick",
       "Elton Bennett",
-      "Eric Sloane's America",
+      "Eric Sloane's America (9780883656488)",
       "The Book of Giant Stories",
       "Paco Goes to the Fair"
     ],
