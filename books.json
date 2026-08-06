@@ -1,5 +1,286 @@
 [
   {
+    "title": "The Truth about Enochian Magick",
+    "isbn10": "0875427162",
+    "isbn13": "9780875427164"
+  },
+  {
+    "title": "The Phases of the Moon",
+    "isbn10": "0394495187",
+    "isbn13": "9780394495187"
+  },
+  {
+    "title": "Traditional Domestic Architecture of Japan",
+    "isbn10": "0834810042",
+    "isbn13": "9780834810044"
+  },
+  {
+    "title": "Looping the Loop",
+    "subtitle": "Posters of Flight",
+    "isbn10": "0967007623",
+    "isbn13": "9780967007625"
+  },
+  {
+    "title": "People of the Circle, People of the Four Directions",
+    "isbn10": "1577330137",
+    "isbn13": "9781577330134"
+  },
+  {
+    "title": "The World of Art Movement in Early 20th-century Russia",
+    "isbn10": "5730002157",
+    "isbn13": "9785730002159"
+  },
+  {
+    "title": "The Cultural Triangle of Sri Lanka",
+    "isbn10": "923102874X",
+    "isbn13": "9789231028748"
+  },
+  {
+    "title": "Transit of Venus",
+    "subtitle": "1631 to the Present",
+    "isbn10": "1615190554",
+    "isbn13": "9781615190553"
+  },
+  {
+    "title": "Indian Circus",
+    "isbn10": "081180531X",
+    "isbn13": "9780811805315"
+  },
+  {
+    "title": "Eclipse",
+    "isbn10": "0932898262",
+    "isbn13": "9780932898265"
+  },
+  {
+    "title": "Western Lighthouses",
+    "subtitle": "Olympic Peninsula to San Diego",
+    "isbn10": "1564401332",
+    "isbn13": "9781564401335"
+  },
+  {
+    "title": "The Story of Writing",
+    "subtitle": "Alphabets, Hieroglyphs, and Pictograms",
+    "isbn10": "0500286604",
+    "isbn13": "9780500286609"
+  },
+  {
+    "title": "Ingredients",
+    "isbn10": "3833159715",
+    "isbn13": "9783833159718"
+  },
+  {
+    "title": "Landscape Design",
+    "subtitle": "A Cultural and Architectural History",
+    "isbn10": "0810942534",
+    "isbn13": "9780810942530"
+  },
+  {
+    "title": "The Museum of Lost Wonder",
+    "isbn10": "1578633648",
+    "isbn13": "9781578633647"
+  },
+  {
+    "title": "Drawing Shadows to Stone",
+    "subtitle": "The Photography of the Jesup North Pacific Expedition, 1897–1902",
+    "isbn10": "0295976470",
+    "isbn13": "9780295976471"
+  },
+  {
+    "title": "Chinese Landscape Woodcuts",
+    "lccn": "67022868"
+  },
+  {
+    "title": "The Pharaohs",
+    "series": "Treasures of the World",
+    "isbn10": "0867060077",
+    "isbn13": "9780867060072"
+  },
+  {
+    "title": "The African Kings",
+    "series": "Treasures of the World",
+    "isbn10": "0867060891",
+    "isbn13": "9780867060898"
+  },
+  {
+    "title": "The God-kings of Mexico",
+    "series": "Treasures of the World",
+    "isbn10": "0867060204",
+    "isbn13": "9780867060201"
+  },
+  {
+    "title": "The Lords of Japan",
+    "series": "Treasures of the World",
+    "isbn10": "0867060239",
+    "isbn13": "9780867060232"
+  },
+  {
+    "title": "The French Kings",
+    "series": "Treasures of the World",
+    "isbn10": "0867060212",
+    "isbn13": "9780867060218"
+  },
+  {
+    "title": "The Maharajas",
+    "series": "Treasures of the World",
+    "isbn10": "0867060220",
+    "isbn13": "9780867060225"
+  },
+  {
+    "title": "The Rulers of Russia",
+    "series": "Treasures of the World",
+    "isbn10": "0867060514",
+    "isbn13": "9780867060515"
+  },
+  {
+    "title": "The Kings of Spain",
+    "series": "Treasures of the World",
+    "isbn10": "0867060522",
+    "isbn13": "9780867060522"
+  },
+  {
+    "title": "The Barbarian Kings",
+    "series": "Treasures of the World",
+    "isbn10": "0867060506",
+    "isbn13": "9780867060508"
+  },
+  {
+    "title": "The Rulers of Britain",
+    "series": "Treasures of the World",
+    "isbn10": "0867060190",
+    "isbn13": "9780867060195"
+  },
+  {
+    "title": "The Renaissance Princes",
+    "series": "Treasures of the World",
+    "isbn10": "0867060832",
+    "isbn13": "9780867060836"
+  },
+  {
+    "title": "The Kings of El Dorado",
+    "series": "Treasures of the World",
+    "isbn10": "0867060808",
+    "isbn13": "9780867060805"
+  },
+  {
+    "title": "The Princes of Germany",
+    "series": "Treasures of the World",
+    "isbn10": "0867060867",
+    "isbn13": "9780867060867"
+  },
+  {
+    "title": "The Emperors of China",
+    "series": "Treasures of the World",
+    "isbn10": "0867060034",
+    "isbn13": "9780867060034"
+  },
+  {
+    "title": "The Popes",
+    "series": "Treasures of the World",
+    "isbn10": "0867060247",
+    "isbn13": "9780867060249"
+  },
+  {
+    "title": "The Greek Conquerors",
+    "series": "Treasures of the World",
+    "isbn10": "0867060018",
+    "isbn13": "9780867060010"
+  },
+  {
+    "title": "The Unschooled Mind",
+    "subtitle": "How Children Think and How Schools Should Teach",
+    "isbn10": "0465088961",
+    "isbn13": "9780465088966"
+  },
+  {
+    "title": "Going to Washington State",
+    "subtitle": "A Century of Student Life",
+    "isbn10": "0874220564",
+    "isbn13": "9780874220568"
+  },
+  {
+    "title": "Gods of Sun and Sacrifice",
+    "subtitle": "Aztec & Maya Myth",
+    "series": "Myth and Mankind",
+    "isbn10": "0705435431",
+    "isbn13": "9780705435437"
+  },
+  {
+    "title": "Voices of the Ancestors",
+    "subtitle": "African Myth",
+    "series": "Myth and Mankind",
+    "isbn10": "0705436438",
+    "isbn13": "9780705436434"
+  },
+  {
+    "title": "The Eternal Cycle",
+    "subtitle": "Indian Myth",
+    "series": "Myth and Mankind",
+    "isbn10": "0705435938",
+    "isbn13": "9780705435932"
+  },
+  {
+    "title": "Giants",
+    "isbn10": "0810909553",
+    "isbn13": "9780810909557"
+  },
+  {
+    "title": "The Book of Mormon Paintings of Minerva Teichert",
+    "isbn10": "0842526773",
+    "isbn13": "9780842526777"
+  },
+  {
+    "title": "Being and Doing",
+    "subtitle": "A Workbook for Actors.",
+    "isbn10": "0825699223",
+    "isbn13": "9780825699221"
+  },
+  {
+    "title": "Holy Torture in Fiji",
+    "isbn10": "0858070154",
+    "isbn13": "9780858070158"
+  },
+  {
+    "title": "The Inuit Imagination",
+    "subtitle": "Arctic Myth and Sculpture",
+    "isbn10": "0500016038",
+    "isbn13": "9780500016039"
+  },
+  {
+    "title": "Wanderlust",
+    "subtitle": "Hiking on Legendary Trails",
+    "isbn10": "3899559010",
+    "isbn13": "9783899559019"
+  },
+  {
+    "title": "The Hidden Treasures of Antiquity",
+    "isbn10": "8854004979",
+    "isbn13": "9788854004979"
+  },
+  {
+    "title": "Spectacular Australia",
+    "isbn10": "0883636530",
+    "isbn13": "9780883636534"
+  },
+  {
+    "title": "ISAM",
+    "subtitle": "Control Over Nature",
+    "note": "CD and album art"
+  },
+  {
+    "title": "From Magic to Medicine"
+  },
+  {
+    "title": "Encyclopedia of Pigeon Breeds"
+  },
+  {
+    "title": "Crete",
+    "subtitle": "All the Museums and Archeological Sites"
+  },
+  {
+    "title": "Historical Markers",
+    "note": "Booklet published by the Washington State Highway Commission"
+  },
+  {
     "title": "Look at America"
   },
   {
@@ -7299,7 +7580,7 @@
     "disambiguation": "Labyrinths & Mazes (9781616895129)"
   },
   {
-    "title": "Landscape Design"
+    "title": "An Introduction to the Study of Landscape Design"
   },
   {
     "title": "Landscape Gardening in Japan",

@@ -1,5 +1,17 @@
 [
   {
+    "id": "apparition_books",
+    "name": "Apparition Books",
+    "address": "814 S 3rd St, Renton, WA 98057",
+    "type": "bookstore"
+  },
+  {
+    "id": "fords_books",
+    "name": "Ford's Books",
+    "address": "5800 Soundview Dr, Ste C102, Gig Harbor, WA 98335",
+    "type": "bookstore"
+  },
+  {
     "id": "twice_sold_tales",
     "name": "Twice Sold Tales",
     "address": "1833 Harvard Ave, Seattle, WA 98122",

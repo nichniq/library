@@ -1,4 +1,70 @@
 [
+    {
+    "type": "purchased",
+    "location": "apparition_books",
+    "date": "August 1, 2026",
+    "books": [
+      "The Truth about Enochian Magick",
+      "The Phases of the Moon",
+      "Traditional Domestic Architecture of Japan",
+      "Looping the Loop",
+      "People of the Circle, People of the Four Directions",
+      "The World of Art Movement in Early 20th-century Russia",
+      "The Cultural Triangle of Sri Lanka",
+      "Transit of Venus",
+      "Indian Circus",
+      "Eclipse",
+      "Western Lighthouses",
+      "The Story of Writing",
+      "Ingredients",
+      "Landscape Design",
+      "The Museum of Lost Wonder",
+      "Drawing Shadows to Stone",
+      "Chinese Landscape Woodcuts"
+    ]
+  },
+  {
+    "type": "purchased",
+    "location": "fords_books",
+    "date": "July 31, 2026",
+    "books": [
+      "The Pharaohs",
+      "The African Kings",
+      "The God-kings of Mexico",
+      "The Lords of Japan",
+      "The French Kings",
+      "The Maharajas",
+      "The Rulers of Russia",
+      "The Kings of Spain",
+      "The Barbarian Kings",
+      "The Rulers of Britain",
+      "The Renaissance Princes",
+      "The Kings of El Dorado",
+      "The Princes of Germany",
+      "The Emperors of China",
+      "The Popes",
+      "The Greek Conquerors",
+      "The Unschooled Mind",
+      "Going to Washington State",
+      "Gods of Sun and Sacrifice",
+      "Voices of the Ancestors",
+      "The Eternal Cycle",
+      "Giants",
+      "The Book of Mormon Paintings of Minerva Teichert",
+      "Being and Doing",
+      "Holy Torture in Fiji",
+      "The Inuit Imagination",
+      "Wanderlust",
+      "The Hidden Treasures of Antiquity",
+      "Spectacular Australia",
+      "ISAM",
+      "From Magic to Medicine",
+      "Encyclopedia of Pigeon Breeds",
+      "Crete",
+      "Historical Markers"
+    ],
+    "notes": "The owner Heidi (?) gave me some good deals: Treasures of the World set for $100 and ISAM, From Magic to Medicine, and Encyclopedia of Pigeon Breeds for half what was listed after I asked"
+  },
   {
     "type": "purchased",
     "location": "brused_books",
@@ -17,7 +83,7 @@
       "Little Herder"
     ],
     "cost": "$121.73",
-    "note": "$X of this was for uncataloged children's books"
+    "note": "At least $21 of this was for uncataloged children's books"
   },
   {
     "type": "inherited",
@@ -78,7 +144,8 @@
       "Lietuvių liaudies menas",
       "Norman Rockwell (9781572152915)",
       "Gazebos",
-      "Thomas Eakins (9780300091113)"
+      "Thomas Eakins (9780300091113)",
+      "Hoofed Mammals of the World"
     ],
     "cost": "$85.86",
     "note": "$27.50 of this was spent on uncatalogued kids books"
@@ -3813,7 +3880,7 @@
     "books": [
       "Ethiopian Magic Scrolls",
       "Japanese Ghosts and Demons",
-      "Landscape Design",
+      "An Introduction to the Study of Landscape Design",
       "Rossetti"
     ]
   },
