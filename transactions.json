@@ -1,5 +1,19 @@
 [
-    {
+  {
+    "type": "purchased",
+    "location": "brused_books",
+    "date": "August 12, 2026",
+    "books": [
+      "97 Ways to Make a Baby Laugh",
+      "How to Carve Wood",
+      "Gulf Islands and Vancouver Island from Sooke to Courtenay",
+      "Spirit",
+      "Delightful Journey"
+    ],
+    "cost": "$23.80",
+    "note": "Uncataloged - $5 Milo and the Magical Stones"
+  },
+  {
     "type": "purchased",
     "location": "apparition_books",
     "date": "August 1, 2026",
@@ -67,6 +81,16 @@
   },
   {
     "type": "purchased",
+    "location": "online",
+    "date": "July 25, 2026",
+    "books": [
+      "The Last Unicorn"
+    ],
+    "cost": "$146.08",
+    "note": "$110 from Folio Society website + $25 shipping + $11.08 tax"
+  },
+  {
+    "type": "purchased",
     "location": "brused_books",
     "date": "July 27, 2026",
     "books": [
@@ -110,7 +134,8 @@
       "A Monograph of Muffins",
       "A Field Companion for Wander",
       "Russian Cooking",
-      "Middle Eastern Cooking"
+      "Middle Eastern Cooking",
+      "The Proust Questionnaire"
     ],
     "cost": "$115.77"
   },
